@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekran görüntüsü</string>
+    <string name="circle_btn_done">Bitti</string>
+    <string name="circle_btn_edit">Düzenle</string>
+    <string name="circle_btn_extend">Genişlet</string>
+    <string name="circle_btn_long_screenshot">Uzun ekran görüntüsü</string>
+    <string name="circle_btn_share">Paylaş</string>
+    <string name="editor_left_dialog_message">Çıkmadan önce kaydetmek ister misiniz?</string>
+    <string name="editor_left_dialog_negative_btn">Hayır</string>
+    <string name="editor_left_dialog_positive_btn">Evet</string>
+    <string name="editor_left_dialog_title">Kaydet ve Çık</string>
+    <string name="editor_text_text">Metin</string>
+    <string name="editor_toast_file_not_found">Dosyalar yok</string>
+    <string name="editor_toast_processing">Tam çözünürlüklü resim işleniyor...</string>
+    <string name="editor_toast_save_failed">Kaydetme başarısız</string>
+    <string name="foreground_notification_name">Ön planda çalışma durumu</string>
+    <string name="notification_delete">Sil</string>
+    <string name="notification_share">Paylaş</string>
+    <string name="notification_text">Ekran görüntünüzü görüntülemek için dokunun</string>
+    <string name="notification_title">Ekran görüntüsü alındı</string>
+    <string name="screenshot_bubble_tips">Uzun ekran görüntüsü çekmek için buraya tıklayın.</string>
+    <string name="screenshot_notification_name">Ekran görüntüsü durumu</string>
+    <string name="toast_no_more_content">Yakalanacak daha fazla içerik yok</string>
+    <string name="toast_screenshot_forbidden">Ekran görüntüsü çekilemedi</string>
+    <string name="toast_screenshot_saved">Ekran görüntüsü alındı</string>
+    <string name="toast_up_to_limit_screenshot">Uzun ekran görüntüzü zaten maksimum uzunluğuna ulaştı</string>
+</resources>

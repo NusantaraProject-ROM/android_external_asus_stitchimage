@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Képernyőkép</string>
+    <string name="circle_btn_done">Kész</string>
+    <string name="circle_btn_edit">Szerkesztés</string>
+    <string name="circle_btn_extend">Kiterjesztés</string>
+    <string name="circle_btn_long_screenshot">Hosszú képernyőkép</string>
+    <string name="circle_btn_share">Megosztás</string>
+    <string name="editor_left_dialog_message">Szeretne menteni a kilépés előtt?</string>
+    <string name="editor_left_dialog_negative_btn">Nem</string>
+    <string name="editor_left_dialog_positive_btn">Igen</string>
+    <string name="editor_left_dialog_title">Mentés és kilépés</string>
+    <string name="editor_text_text">Szöveg</string>
+    <string name="editor_toast_file_not_found">A fájlok nem léteznek</string>
+    <string name="editor_toast_processing">Teljes felbontású kép feldolgozása...</string>
+    <string name="editor_toast_save_failed">Mentés sikertelen</string>
+    <string name="foreground_notification_name">Előtérben futási állapot</string>
+    <string name="notification_delete">Törlés</string>
+    <string name="notification_share">Megosztás</string>
+    <string name="notification_text">Koppintson a képernyőkép megtekintéséhez</string>
+    <string name="notification_title">Képernyőkép rögzítve</string>
+    <string name="screenshot_bubble_tips">Érintse meg hosszú képernyőképek készítéséhez.</string>
+    <string name="screenshot_notification_name">Képernyőkép-állapot</string>
+    <string name="toast_no_more_content">Nincs több rögzíthető tartalom</string>
+    <string name="toast_screenshot_forbidden">Nem lehet képernyőképet készíteni</string>
+    <string name="toast_screenshot_saved">Képernyőkép rögzítve</string>
+    <string name="toast_up_to_limit_screenshot">A hosszú képernyőkép már elérte a maximális hosszúságot</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Posnetek zaslona</string>
+    <string name="circle_btn_done">Dokončano</string>
+    <string name="circle_btn_edit">Urejanje</string>
+    <string name="circle_btn_extend">Razširi</string>
+    <string name="circle_btn_long_screenshot">Dolgi posnetek zaslona</string>
+    <string name="circle_btn_share">Skupna raba</string>
+    <string name="editor_left_dialog_message">Ali želite pred zapiranjem shraniti?</string>
+    <string name="editor_left_dialog_negative_btn">Ne</string>
+    <string name="editor_left_dialog_positive_btn">Da</string>
+    <string name="editor_left_dialog_title">Shrani in zapri</string>
+    <string name="editor_text_text">Besedilo</string>
+    <string name="editor_toast_file_not_found">Datoteke ne obstajajo</string>
+    <string name="editor_toast_processing">Obdelava slike v polni ločljivosti ...</string>
+    <string name="editor_toast_save_failed">Shranjevanje ni uspelo</string>
+    <string name="foreground_notification_name">Stanje delovanja ospredja</string>
+    <string name="notification_delete">Izbriši</string>
+    <string name="notification_share">Skupna raba</string>
+    <string name="notification_text">Dotaknite se, če si želite ogledati posnetek zaslona</string>
+    <string name="notification_title">Posnetek zaslona je shranjen</string>
+    <string name="screenshot_bubble_tips">Kliknite tukaj za dolg posnetek zaslona.</string>
+    <string name="screenshot_notification_name">Stanje posnetka zaslona</string>
+    <string name="toast_no_more_content">Ni vsebine za zajem</string>
+    <string name="toast_screenshot_forbidden">Ne morem zajeti posnetka zaslona</string>
+    <string name="toast_screenshot_saved">Posnetek zaslona je shranjen</string>
+    <string name="toast_up_to_limit_screenshot">Dolgi posnetek zaslon je dosegel maksimalno dolžino</string>
+</resources>

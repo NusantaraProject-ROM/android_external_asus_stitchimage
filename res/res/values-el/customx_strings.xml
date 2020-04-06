@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Στιγμιότυπο οθόνης</string>
+    <string name="circle_btn_done">Τέλος</string>
+    <string name="circle_btn_edit">Επεξεργασία</string>
+    <string name="circle_btn_extend">Επέκταση</string>
+    <string name="circle_btn_long_screenshot">Στιγμιότυπο οθόνης μεγάλου μήκους</string>
+    <string name="circle_btn_share">Κοινοποίηση</string>
+    <string name="editor_left_dialog_message">Θέλετε να γίνει αποθήκευση πριν από την έξοδο;</string>
+    <string name="editor_left_dialog_negative_btn">Όχι</string>
+    <string name="editor_left_dialog_positive_btn">Ναι</string>
+    <string name="editor_left_dialog_title">Αποθήκευση και έξοδος</string>
+    <string name="editor_text_text">Κείμενο</string>
+    <string name="editor_toast_file_not_found">Τα αρχεία δεν υπάρχουν</string>
+    <string name="editor_toast_processing">Επεξεργασία εικόνας πλήρους ανάλυσης…</string>
+    <string name="editor_toast_save_failed">Αποτυχία αποθήκευσης</string>
+    <string name="foreground_notification_name">Εκτέλεση στο προσκήνιο</string>
+    <string name="notification_delete">Διαγραφή</string>
+    <string name="notification_share">Κοινοποίηση</string>
+    <string name="notification_text">Πατήστε για να δείτε το στιγμιότυπο οθόνης σας</string>
+    <string name="notification_title">Το στιγμιότυπο οθόνης καταγράφηκε</string>
+    <string name="screenshot_bubble_tips">Κάντε κλικ εδώ για λήψη στιγμιότυπων οθόνης μεγάλου μήκους.</string>
+    <string name="screenshot_notification_name">Κατάσταση στιγμιότυπου οθόνης</string>
+    <string name="toast_no_more_content">Δεν υπάρχει άλλο περιεχόμενο για καταγραφή</string>
+    <string name="toast_screenshot_forbidden">Αδυναμία καταγραφής στιγμιότυπου οθόνης</string>
+    <string name="toast_screenshot_saved">Καταγράφηκε το στιγμιότυπο οθόνης</string>
+    <string name="toast_up_to_limit_screenshot">Ήδη καλύφθηκε το μέγιστο μήκος για πλήρες στιγμιότυπο οθόνης</string>
+</resources>

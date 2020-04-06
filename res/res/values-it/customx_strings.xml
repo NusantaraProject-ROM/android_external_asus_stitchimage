@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="circle_btn_done">Fine</string>
+    <string name="circle_btn_edit">Modifica</string>
+    <string name="circle_btn_extend">Estendi</string>
+    <string name="circle_btn_long_screenshot">Screenshot lungo</string>
+    <string name="circle_btn_share">Condividi</string>
+    <string name="editor_left_dialog_message">Vuoi salvare prima di uscire?</string>
+    <string name="editor_left_dialog_negative_btn">No</string>
+    <string name="editor_left_dialog_positive_btn">Sì</string>
+    <string name="editor_left_dialog_title">Salva ed esci</string>
+    <string name="editor_text_text">Testo</string>
+    <string name="editor_toast_file_not_found">File non presenti</string>
+    <string name="editor_toast_processing">Elaborazione dell\'immagine a risoluzione piena in corso...</string>
+    <string name="editor_toast_save_failed">Salvataggio non riuscito</string>
+    <string name="foreground_notification_name">Stato esecuzione in primo piano</string>
+    <string name="notification_delete">Elimina</string>
+    <string name="notification_share">Condividi</string>
+    <string name="notification_text">Tocca per visualizzare lo screenshot</string>
+    <string name="notification_title">Screenshot acquisito</string>
+    <string name="screenshot_bubble_tips">Fare clic qui per effettuare screenshot lunghi.</string>
+    <string name="screenshot_notification_name">Stato screenshot</string>
+    <string name="toast_no_more_content">Nessun altro contenuto da catturare</string>
+    <string name="toast_screenshot_forbidden">Impossibile scaricare screenshot</string>
+    <string name="toast_screenshot_saved">Screenshot acquisito</string>
+    <string name="toast_up_to_limit_screenshot">Lunghezza massima screenshot già raggiunta</string>
+</resources>

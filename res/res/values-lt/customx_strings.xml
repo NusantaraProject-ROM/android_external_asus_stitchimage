@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekrano kopija</string>
+    <string name="circle_btn_done">Atlikta</string>
+    <string name="circle_btn_edit">Redaguoti</string>
+    <string name="circle_btn_extend">Išplėsti</string>
+    <string name="circle_btn_long_screenshot">Ilgoji ekrano kopija</string>
+    <string name="circle_btn_share">Bendrinti</string>
+    <string name="editor_left_dialog_message">Ar norite išsaugoti prieš išeidami?</string>
+    <string name="editor_left_dialog_negative_btn">Ne</string>
+    <string name="editor_left_dialog_positive_btn">Taip</string>
+    <string name="editor_left_dialog_title">Išsaugoti ir išeiti</string>
+    <string name="editor_text_text">Tekstas</string>
+    <string name="editor_toast_file_not_found">Tokių failų nėra</string>
+    <string name="editor_toast_processing">Apdorojami visos skyros vaizdai...</string>
+    <string name="editor_toast_save_failed">Nepavyko išsaugoti</string>
+    <string name="foreground_notification_name">Priekinio plano eigos būsena</string>
+    <string name="notification_delete">Ištrinti</string>
+    <string name="notification_share">Bendrinti</string>
+    <string name="notification_text">Palieskite, kad peržiūrėtumėte ekrano kopiją</string>
+    <string name="notification_title">Ekrano kopija užfiksuota</string>
+    <string name="screenshot_bubble_tips">Spragtelėkite čia norėdami fiksuoti ilgąsias ekrano kopijas.</string>
+    <string name="screenshot_notification_name">Ekrano kopijos būsena</string>
+    <string name="toast_no_more_content">Daugiau nėra fiksuotino turinio</string>
+    <string name="toast_screenshot_forbidden">Negalima užfiksuoti ekrano kopijos</string>
+    <string name="toast_screenshot_saved">Ekrano kopija užfiksuota</string>
+    <string name="toast_up_to_limit_screenshot">Ilga ekrano kopija jau pasiekė didžiausią ilgį</string>
+</resources>

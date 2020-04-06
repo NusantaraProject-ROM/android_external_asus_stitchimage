@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Екранна снимка</string>
+    <string name="circle_btn_done">Готово</string>
+    <string name="circle_btn_edit">Редактиране</string>
+    <string name="circle_btn_extend">Разшири</string>
+    <string name="circle_btn_long_screenshot">Дълга снимка на екрана</string>
+    <string name="circle_btn_share">Споделяне</string>
+    <string name="editor_left_dialog_message">Искате ли да запазите преди изход?</string>
+    <string name="editor_left_dialog_negative_btn">Не</string>
+    <string name="editor_left_dialog_positive_btn"> Да</string>
+    <string name="editor_left_dialog_title">Запазване и изход</string>
+    <string name="editor_text_text">Текст</string>
+    <string name="editor_toast_file_not_found">Файловете не съществуват</string>
+    <string name="editor_toast_processing">Изображението с пълна разделителна способност се обработва...</string>
+    <string name="editor_toast_save_failed">Запазване на полето</string>
+    <string name="foreground_notification_name">Състоние на приложения работещи на преден план</string>
+    <string name="notification_delete">Изтриване</string>
+    <string name="notification_share">Споделяне</string>
+    <string name="notification_text">Докоснете, за да видите екранната снимка</string>
+    <string name="notification_title">Екранната снимка е заснета</string>
+    <string name="screenshot_bubble_tips">Кликнете тук, за да правите дълги снимки на екрана.</string>
+    <string name="screenshot_notification_name">Състояние на екранната снимка</string>
+    <string name="toast_no_more_content">Няма повече съдържание за улавяне</string>
+    <string name="toast_screenshot_forbidden">Не е възможно да се направи снимка на екрана</string>
+    <string name="toast_screenshot_saved">Екранната снимка е заснета</string>
+    <string name="toast_up_to_limit_screenshot">Дългата екранна снимка вече достигна максималната си дължина</string>
+</resources>

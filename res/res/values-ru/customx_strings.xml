@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Скриншот</string>
+    <string name="circle_btn_done">Готово</string>
+    <string name="circle_btn_edit">Изменить</string>
+    <string name="circle_btn_extend">Увеличить</string>
+    <string name="circle_btn_long_screenshot">Длинный скриншот</string>
+    <string name="circle_btn_share">Поделиться</string>
+    <string name="editor_left_dialog_message">Сохранить изменения?</string>
+    <string name="editor_left_dialog_negative_btn">Нет</string>
+    <string name="editor_left_dialog_positive_btn">Да</string>
+    <string name="editor_left_dialog_title">Запись и выход</string>
+    <string name="editor_text_text">Текст</string>
+    <string name="editor_toast_file_not_found">Файлы не существуют</string>
+    <string name="editor_toast_processing">Сохранение...</string>
+    <string name="editor_toast_save_failed">Сбой сохранения</string>
+    <string name="foreground_notification_name">Состояние приложений на переднем плане</string>
+    <string name="notification_delete">Удалить</string>
+    <string name="notification_share">Поделиться</string>
+    <string name="notification_text">Нажмите, чтобы увидеть скриншот</string>
+    <string name="notification_title">Скриншот сохранен</string>
+    <string name="screenshot_bubble_tips">Нажмите здесь, чтобы снимать длинные скриншоты.</string>
+    <string name="screenshot_notification_name">Состояние снимка экрана</string>
+    <string name="toast_no_more_content">Нет больше содержимого для захвата</string>
+    <string name="toast_screenshot_forbidden">Невозможно создать снимок экрана</string>
+    <string name="toast_screenshot_saved">Скриншот сохранен</string>
+    <string name="toast_up_to_limit_screenshot">Достигнута максимально допустимая длина длинного скриншота</string>
+</resources>

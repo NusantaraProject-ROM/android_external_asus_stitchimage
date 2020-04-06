@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captură ecran</string>
+    <string name="circle_btn_done">Terminat</string>
+    <string name="circle_btn_edit">Editați</string>
+    <string name="circle_btn_extend">Extindere</string>
+    <string name="circle_btn_long_screenshot">Captură de ecran lungă</string>
+    <string name="circle_btn_share">Trimiteți</string>
+    <string name="editor_left_dialog_message">Doriți să salvați înainte de a ieși?</string>
+    <string name="editor_left_dialog_negative_btn">Nu</string>
+    <string name="editor_left_dialog_positive_btn">Da</string>
+    <string name="editor_left_dialog_title">Salvați și ieșiți</string>
+    <string name="editor_text_text">Text</string>
+    <string name="editor_toast_file_not_found">Fişierele nu există</string>
+    <string name="editor_toast_processing">Se procesează imaginea la rezoluție maximă...</string>
+    <string name="editor_toast_save_failed">Salvare eșuată</string>
+    <string name="foreground_notification_name">Stare rulare în prim-plan</string>
+    <string name="notification_delete">Ștergeți</string>
+    <string name="notification_share">Trimiteți</string>
+    <string name="notification_text">Atingeți pentru a vedea captura de ecran</string>
+    <string name="notification_title">Captură de ecran realizată</string>
+    <string name="screenshot_bubble_tips">Clic aici pentru a face o captură de ecran lungă.</string>
+    <string name="screenshot_notification_name">Stare captură de ecran</string>
+    <string name="toast_no_more_content">Nu mai este alt conținut de capturat</string>
+    <string name="toast_screenshot_forbidden">Imposibil de făcut captura de ecran</string>
+    <string name="toast_screenshot_saved">Captură de ecran realizată</string>
+    <string name="toast_up_to_limit_screenshot">Captura de ecran lungă a atins deja lungimea maximă</string>
+</resources>

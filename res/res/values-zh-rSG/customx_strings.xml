@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">螢幕截圖</string>
+    <string name="circle_btn_done">完成</string>
+    <string name="circle_btn_edit">編輯</string>
+    <string name="circle_btn_extend">延展</string>
+    <string name="circle_btn_long_screenshot">長截圖</string>
+    <string name="circle_btn_share">分享</string>
+    <string name="editor_left_dialog_message">您要在結束前儲存變更嗎？</string>
+    <string name="editor_left_dialog_negative_btn">否</string>
+    <string name="editor_left_dialog_positive_btn">是</string>
+    <string name="editor_left_dialog_title">儲存並結束</string>
+    <string name="editor_text_text">文字</string>
+    <string name="editor_toast_file_not_found">檔案不存在</string>
+    <string name="editor_toast_processing">正在處理完整解析度圖片...</string>
+    <string name="editor_toast_save_failed">儲存失敗</string>
+    <string name="foreground_notification_name">前景執行狀態</string>
+    <string name="notification_delete">刪除</string>
+    <string name="notification_share">分享</string>
+    <string name="notification_text">輕觸即可查看螢幕擷圖</string>
+    <string name="notification_title">已拍攝螢幕擷取畫面</string>
+    <string name="screenshot_bubble_tips">點此可進行長截圖</string>
+    <string name="screenshot_notification_name">螢幕擷取畫面狀態</string>
+    <string name="toast_no_more_content">沒有其他可擷取的內容</string>
+    <string name="toast_screenshot_forbidden">無法拍攝螢幕畫面</string>
+    <string name="toast_screenshot_saved">已拍攝螢幕擷取畫面</string>
+    <string name="toast_up_to_limit_screenshot">長截圖已達到長度上限</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Знімок екрана</string>
+    <string name="circle_btn_done">Готово</string>
+    <string name="circle_btn_edit">Редагувати</string>
+    <string name="circle_btn_extend">Розтягнути</string>
+    <string name="circle_btn_long_screenshot">Довгий знімок екрана</string>
+    <string name="circle_btn_share">Поділитися</string>
+    <string name="editor_left_dialog_message">Зберегти перед виходом?</string>
+    <string name="editor_left_dialog_negative_btn">Ні</string>
+    <string name="editor_left_dialog_positive_btn">Так</string>
+    <string name="editor_left_dialog_title">Зберегти та вийти</string>
+    <string name="editor_text_text">Текст</string>
+    <string name="editor_toast_file_not_found">Файлів не існує</string>
+    <string name="editor_toast_processing">Обробка зображення максимальної роздільної здатності…</string>
+    <string name="editor_toast_save_failed">Файл не збережено.</string>
+    <string name="foreground_notification_name">Статус роботи в активному режимі</string>
+    <string name="notification_delete">Видалити</string>
+    <string name="notification_share">Поділитися</string>
+    <string name="notification_text">Торкніться, щоб переглянути знімок екрана</string>
+    <string name="notification_title">Знімок екрана зроблено</string>
+    <string name="screenshot_bubble_tips">Натисніть тут, щоб зробити довгий знімок екрана.</string>
+    <string name="screenshot_notification_name">Статус знімка екрана</string>
+    <string name="toast_no_more_content">Більше немає змісту, який можна додати до зображення</string>
+    <string name="toast_screenshot_forbidden">Не вдалося зробити знімок екрана</string>
+    <string name="toast_screenshot_saved">Знімок екрана зроблено</string>
+    <string name="toast_up_to_limit_screenshot">Довгий знімок екрана досяг максимальної довжини</string>
+</resources>

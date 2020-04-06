@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">屏幕截图</string>
+    <string name="circle_btn_done">完成</string>
+    <string name="circle_btn_edit">编辑</string>
+    <string name="circle_btn_extend">扩展</string>
+    <string name="circle_btn_long_screenshot">长截屏</string>
+    <string name="circle_btn_share">分享</string>
+    <string name="editor_left_dialog_message">要在退出之前保存更改吗？</string>
+    <string name="editor_left_dialog_negative_btn">否</string>
+    <string name="editor_left_dialog_positive_btn">是</string>
+    <string name="editor_left_dialog_title">保存并退出</string>
+    <string name="editor_text_text">文字</string>
+    <string name="editor_toast_file_not_found">文件不存在</string>
+    <string name="editor_toast_processing">正在处理…</string>
+    <string name="editor_toast_save_failed">保存失败</string>
+    <string name="foreground_notification_name">前景运行状态</string>
+    <string name="notification_delete">删除</string>
+    <string name="notification_share">分享</string>
+    <string name="notification_text">点击可查看屏幕截图</string>
+    <string name="notification_title">已抓取屏幕截图</string>
+    <string name="screenshot_bubble_tips">单击此处获取长截屏。</string>
+    <string name="screenshot_notification_name">截屏状态</string>
+    <string name="toast_no_more_content">没有更多要捕获的内容</string>
+    <string name="toast_screenshot_forbidden">无法捕获屏幕快照</string>
+    <string name="toast_screenshot_saved">已抓取屏幕截图</string>
+    <string name="toast_up_to_limit_screenshot">长截屏已达到最大长度</string>
+</resources>

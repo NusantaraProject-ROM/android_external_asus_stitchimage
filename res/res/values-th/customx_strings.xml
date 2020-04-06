@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ภาพถ่ายหน้าจอ</string>
+    <string name="circle_btn_done">เสร็จสิ้น</string>
+    <string name="circle_btn_edit">แก้ไข</string>
+    <string name="circle_btn_extend">ขยาย</string>
+    <string name="circle_btn_long_screenshot">ภาพหน้าจอแบบยาวลงมา</string>
+    <string name="circle_btn_share">แชร์</string>
+    <string name="editor_left_dialog_message">คุณต้องการบันทึกก่อนที่จะออกหรือไม่</string>
+    <string name="editor_left_dialog_negative_btn">ไม่</string>
+    <string name="editor_left_dialog_positive_btn">ใช่</string>
+    <string name="editor_left_dialog_title">บันทึกและออก</string>
+    <string name="editor_text_text">ข้อความ</string>
+    <string name="editor_toast_file_not_found">ไม่มีไฟล์</string>
+    <string name="editor_toast_processing">กำลังดำเนินการภาพความละเอียดเต็มรูปแบบ...</string>
+    <string name="editor_toast_save_failed">บันทึกไม่สำเร็จ</string>
+    <string name="foreground_notification_name">สถานะการทำงานในเบื้องหน้า</string>
+    <string name="notification_delete">ลบ</string>
+    <string name="notification_share">แชร์</string>
+    <string name="notification_text">แตะเพื่อดูภาพหน้าจอของคุณ</string>
+    <string name="notification_title">จับภาพหน้าจอแล้ว</string>
+    <string name="screenshot_bubble_tips">คลิกที่นี่ เพื่อถ่ายภาพหน้าจอแบบแบบาวลงมา</string>
+    <string name="screenshot_notification_name">สถานะการจับภาพหน้าจอ</string>
+    <string name="toast_no_more_content">ไม่มีเนื้อหาอื่นที่จะจับภาพแล้ว</string>
+    <string name="toast_screenshot_forbidden">ไม่สามารถจับภาพหน้าจอได้</string>
+    <string name="toast_screenshot_saved">จับภาพหน้าจอแล้ว</string>
+    <string name="toast_up_to_limit_screenshot">ความยาวของหน้าจอถึงขีดจำกัดสูงสุดที่กำหนดแล้ว</string>
+</resources>

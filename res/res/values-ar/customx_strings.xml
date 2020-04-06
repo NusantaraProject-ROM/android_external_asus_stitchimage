@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لقطة شاشة</string>
+    <string name="circle_btn_done">تم</string>
+    <string name="circle_btn_edit">تعديل</string>
+    <string name="circle_btn_extend">توسيع</string>
+    <string name="circle_btn_long_screenshot">لقطة شاشة طويلة</string>
+    <string name="circle_btn_share">مشاركة</string>
+    <string name="editor_left_dialog_message">هل تريد الحفظ قبل الخروج؟</string>
+    <string name="editor_left_dialog_negative_btn">لا</string>
+    <string name="editor_left_dialog_positive_btn">نعم</string>
+    <string name="editor_left_dialog_title">حفظ وخروج</string>
+    <string name="editor_text_text">النص</string>
+    <string name="editor_toast_file_not_found">الملفات غير موجودة</string>
+    <string name="editor_toast_processing">جارٍ معالجة الصورة كاملة الدقة...</string>
+    <string name="editor_toast_save_failed">فشل الحفظ</string>
+    <string name="foreground_notification_name">حالة تشغيل أمامي</string>
+    <string name="notification_delete">حذف</string>
+    <string name="notification_share">مشاركة</string>
+    <string name="notification_text">انقر لعرض لقطة الشاشة</string>
+    <string name="notification_title">تم التقاط لقطة الشاشة</string>
+    <string name="screenshot_bubble_tips">انقر هنا لأخذ لقطات شاشة طويلة.</string>
+    <string name="screenshot_notification_name">حالة لقطات الشاشة</string>
+    <string name="toast_no_more_content">لا يوجد محتوى إضافي لالتقاطه</string>
+    <string name="toast_screenshot_forbidden">يتعذر التقاط لقطة الشاشة</string>
+    <string name="toast_screenshot_saved">تم التقاط لقطة الشاشة</string>
+    <string name="toast_up_to_limit_screenshot">لقطة الشاشة الطويلة وصلت بالفعل إلى طولها الأقصى</string>
+</resources>

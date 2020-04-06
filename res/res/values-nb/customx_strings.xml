@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skjermbilde</string>
+    <string name="circle_btn_done">Ferdig</string>
+    <string name="circle_btn_edit">Endre</string>
+    <string name="circle_btn_extend">Utvid</string>
+    <string name="circle_btn_long_screenshot">Langt skjermbilde</string>
+    <string name="circle_btn_share">Del</string>
+    <string name="editor_left_dialog_message">Vil du lagre før du avslutter?</string>
+    <string name="editor_left_dialog_negative_btn">Nei</string>
+    <string name="editor_left_dialog_positive_btn">Ja</string>
+    <string name="editor_left_dialog_title">Lagre og avslutt</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Filene eksisterer ikke</string>
+    <string name="editor_toast_processing">Behandler bilde i full oppløsning ...</string>
+    <string name="editor_toast_save_failed">Kunne ikke lagre</string>
+    <string name="foreground_notification_name">Status til apper som kjører i forgrunnen</string>
+    <string name="notification_delete">Slett</string>
+    <string name="notification_share">Del</string>
+    <string name="notification_text">Trykk for å se skjermdumpen</string>
+    <string name="notification_title">Skjermdumpen er lagret</string>
+    <string name="screenshot_bubble_tips">Klikk her for å ta lange skjermbilder.</string>
+    <string name="screenshot_notification_name">Skjermbildestatus</string>
+    <string name="toast_no_more_content">Ikke mer innhold å fange</string>
+    <string name="toast_screenshot_forbidden">Kan ikke ta skjermbilde</string>
+    <string name="toast_screenshot_saved">Skjermdumpen er lagret</string>
+    <string name="toast_up_to_limit_screenshot">Langt skjermbilde har allerede nådd maksimumslengden</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skärmbild</string>
+    <string name="circle_btn_done">Klart</string>
+    <string name="circle_btn_edit">Redigera</string>
+    <string name="circle_btn_extend">Utöka</string>
+    <string name="circle_btn_long_screenshot">Lång skärmdump</string>
+    <string name="circle_btn_share">Dela</string>
+    <string name="editor_left_dialog_message">Vill du spara innan du avslutar?</string>
+    <string name="editor_left_dialog_negative_btn">Nej</string>
+    <string name="editor_left_dialog_positive_btn">Ja</string>
+    <string name="editor_left_dialog_title">Spara och avsluta</string>
+    <string name="editor_text_text">Text</string>
+    <string name="editor_toast_file_not_found">Filerna finns inte</string>
+    <string name="editor_toast_processing">Bearbetar högupplöst bild …</string>
+    <string name="editor_toast_save_failed">Det gick inte att spara</string>
+    <string name="foreground_notification_name">Körstatus för förgrund</string>
+    <string name="notification_delete">Ta bort</string>
+    <string name="notification_share">Dela</string>
+    <string name="notification_text">Visa skärmdumpen genom att trycka här</string>
+    <string name="notification_title">Skärmdumpen har tagits</string>
+    <string name="screenshot_bubble_tips">Klicka här för att ta en lång skärmdump.</string>
+    <string name="screenshot_notification_name">Status för skärmbild</string>
+    <string name="toast_no_more_content">Inget mer innehåll att ta foton av</string>
+    <string name="toast_screenshot_forbidden">Det gick inte att ta en skärmbild</string>
+    <string name="toast_screenshot_saved">Skärmdumpen har tagits</string>
+    <string name="toast_up_to_limit_screenshot">Lång skärmbild har redan nått sin maximala längd</string>
+</resources>

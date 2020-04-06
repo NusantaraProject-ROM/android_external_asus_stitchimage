@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekrānuzņēmums</string>
+    <string name="circle_btn_done">Gatavs</string>
+    <string name="circle_btn_edit">Rediģēt</string>
+    <string name="circle_btn_extend">Pagarināt</string>
+    <string name="circle_btn_long_screenshot">Garš ekrāna uzņēmums</string>
+    <string name="circle_btn_share">Kopīgot</string>
+    <string name="editor_left_dialog_message">Vai vēlaties saglabāt pirms iziešanas?</string>
+    <string name="editor_left_dialog_negative_btn">Nē</string>
+    <string name="editor_left_dialog_positive_btn">Jā</string>
+    <string name="editor_left_dialog_title">Saglabāt un iziet</string>
+    <string name="editor_text_text">Sūtīt īsziņu</string>
+    <string name="editor_toast_file_not_found">Faili nepastāv</string>
+    <string name="editor_toast_processing">Notiek pilnas izšķirtspējas attēla apstrāde...</string>
+    <string name="editor_toast_save_failed">Neizdevās saglabāt</string>
+    <string name="foreground_notification_name">Darbība fonā</string>
+    <string name="notification_delete">Dzēst</string>
+    <string name="notification_share">Kopīgot</string>
+    <string name="notification_text">Pieskarieties, lai skatītu ekrānuzņēmumu</string>
+    <string name="notification_title">Ekrānuzņēmums ir uzņemts</string>
+    <string name="screenshot_bubble_tips">Noklikšķiniet šeit, lai uzņemtu garu ekrānuzņēmumu.</string>
+    <string name="screenshot_notification_name">Ekrānuzņēmuma statuss</string>
+    <string name="toast_no_more_content">Vairāk nav tverama satura</string>
+    <string name="toast_screenshot_forbidden">Nevar tvert ekrānuzņēmumu</string>
+    <string name="toast_screenshot_saved">Ekrānuzņēmums ir uzņemts</string>
+    <string name="toast_up_to_limit_screenshot">Garais ekrānuzņēmums jau ir sasniedzis savu maksimālo garumu</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bildschirmfoto</string>
+    <string name="circle_btn_done">Fertig</string>
+    <string name="circle_btn_edit">Bearbeiten</string>
+    <string name="circle_btn_extend">Erweitern</string>
+    <string name="circle_btn_long_screenshot">Langer Screenshot</string>
+    <string name="circle_btn_share">Teilen</string>
+    <string name="editor_left_dialog_message">Möchten Sie vor dem Schließen speichern?</string>
+    <string name="editor_left_dialog_negative_btn">Nein</string>
+    <string name="editor_left_dialog_positive_btn">Ja</string>
+    <string name="editor_left_dialog_title">Speichern und schließen</string>
+    <string name="editor_text_text">Text</string>
+    <string name="editor_toast_file_not_found">Dateien existieren nicht</string>
+    <string name="editor_toast_processing">Bild mit hoher Auflösung wird verarbeitet...</string>
+    <string name="editor_toast_save_failed">Speichern fehlgeschlagen</string>
+    <string name="foreground_notification_name">Vordergrund-Betriebsstatus</string>
+    <string name="notification_delete">Löschen</string>
+    <string name="notification_share">Teilen</string>
+    <string name="notification_text">Tippe, um deinen Screenshot anzusehen</string>
+    <string name="notification_title">Screenshot aufgenommen</string>
+    <string name="screenshot_bubble_tips">Klicken Sie hier, um lange Screenshots aufzunehmen.</string>
+    <string name="screenshot_notification_name">Screenshot-Status</string>
+    <string name="toast_no_more_content">Kein aufzunehmender Inhalt mehr</string>
+    <string name="toast_screenshot_forbidden">Screenshot kann nicht aufgenommen werden</string>
+    <string name="toast_screenshot_saved">Screenshot aufgenommen</string>
+    <string name="toast_up_to_limit_screenshot">Der lange Screeshot hat bereits die maximale Länge erreicht.</string>
+</resources>

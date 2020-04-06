@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">스크린샷</string>
+    <string name="circle_btn_done">완료</string>
+    <string name="circle_btn_edit">수정</string>
+    <string name="circle_btn_extend">확장</string>
+    <string name="circle_btn_long_screenshot">긴 스크린샷</string>
+    <string name="circle_btn_share">공유</string>
+    <string name="editor_left_dialog_message">저장하고 나서 종료하시겠습니까?</string>
+    <string name="editor_left_dialog_negative_btn">아니요</string>
+    <string name="editor_left_dialog_positive_btn">예</string>
+    <string name="editor_left_dialog_title">저장 및 종료</string>
+    <string name="editor_text_text">텍스트</string>
+    <string name="editor_toast_file_not_found">파일이 존재하지 않습니다</string>
+    <string name="editor_toast_processing">전체 해상도 이미지 처리 중...</string>
+    <string name="editor_toast_save_failed">저장 실패</string>
+    <string name="foreground_notification_name">전경 실행 상태</string>
+    <string name="notification_delete">삭제</string>
+    <string name="notification_share">공유</string>
+    <string name="notification_text">스크린샷을 확인하려면 탭하세요</string>
+    <string name="notification_title">캡쳐화면 저장됨</string>
+    <string name="screenshot_bubble_tips">긴 스크린샷을 촬영하려면 여기를 클릭하십시오.</string>
+    <string name="screenshot_notification_name">스크린샷 상태</string>
+    <string name="toast_no_more_content">캡처할 추가 컨텐츠 없음</string>
+    <string name="toast_screenshot_forbidden">스크린샷을 캡처할 수 없습니다.</string>
+    <string name="toast_screenshot_saved">캡쳐화면 저장됨</string>
+    <string name="toast_up_to_limit_screenshot">긴 스크린샷이 이미 최대 길이에 도달했습니다.</string>
+</resources>

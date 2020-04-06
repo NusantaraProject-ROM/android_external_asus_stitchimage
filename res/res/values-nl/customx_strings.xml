@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="circle_btn_done">Gereed</string>
+    <string name="circle_btn_edit">Bewerken</string>
+    <string name="circle_btn_extend">Uitbreiden</string>
+    <string name="circle_btn_long_screenshot">Lange schermafdruk</string>
+    <string name="circle_btn_share">Delen</string>
+    <string name="editor_left_dialog_message">Wilt u opslaan voordat u afsluit?</string>
+    <string name="editor_left_dialog_negative_btn">Nee</string>
+    <string name="editor_left_dialog_positive_btn">Ja</string>
+    <string name="editor_left_dialog_title">Opslaan en sluiten</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Bestanden bestaan niet</string>
+    <string name="editor_toast_processing">Afbeelding met volledige resolutie verwerken...</string>
+    <string name="editor_toast_save_failed">Opslaan mislukt</string>
+    <string name="foreground_notification_name">Loopt op voorgrond</string>
+    <string name="notification_delete">Verwijderen</string>
+    <string name="notification_share">Delen</string>
+    <string name="notification_text">Tik om je screenshot te bekijken</string>
+    <string name="notification_title">Screenshot gemaakt</string>
+    <string name="screenshot_bubble_tips">Klik hier om lange schermafdrukken te maken.</string>
+    <string name="screenshot_notification_name">Status schermafdruk</string>
+    <string name="toast_no_more_content">Niet meer content om te vangen</string>
+    <string name="toast_screenshot_forbidden">Kan geen schermopname maken</string>
+    <string name="toast_screenshot_saved">Screenshot gemaakt</string>
+    <string name="toast_up_to_limit_screenshot">Lange schermprint heeft zijn maximale lengte reeds bereikt</string>
+</resources>

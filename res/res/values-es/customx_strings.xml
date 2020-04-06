@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captura de pantalla</string>
+    <string name="circle_btn_done">Listo</string>
+    <string name="circle_btn_edit">Editar</string>
+    <string name="circle_btn_extend">Extender</string>
+    <string name="circle_btn_long_screenshot">Captura de pantalla larga</string>
+    <string name="circle_btn_share">Compartir</string>
+    <string name="editor_left_dialog_message">¿Quieres guardar antes de salir?</string>
+    <string name="editor_left_dialog_negative_btn">No</string>
+    <string name="editor_left_dialog_positive_btn">Sí</string>
+    <string name="editor_left_dialog_title">Guardar y salir</string>
+    <string name="editor_text_text">Texto</string>
+    <string name="editor_toast_file_not_found">Los archivos no existen</string>
+    <string name="editor_toast_processing">Procesando imagen con resolución completa...</string>
+    <string name="editor_toast_save_failed">No se ha podido guardar</string>
+    <string name="foreground_notification_name">Estado de ejecución en primer plano</string>
+    <string name="notification_delete">Eliminar</string>
+    <string name="notification_share">Compartir</string>
+    <string name="notification_text">Toca para ver la captura de pantalla</string>
+    <string name="notification_title">Captura guardada</string>
+    <string name="screenshot_bubble_tips">Haga clic aquí para tomar capturas de pantalla largas.</string>
+    <string name="screenshot_notification_name">Estado de captura de pantalla</string>
+    <string name="toast_no_more_content">No hay más contenido que capturar</string>
+    <string name="toast_screenshot_forbidden">No se puede capturar la pantalla</string>
+    <string name="toast_screenshot_saved">Captura guardada</string>
+    <string name="toast_up_to_limit_screenshot">La captura de pantalla grande ya ha alcanzado su tamaño máximo</string>
+</resources>

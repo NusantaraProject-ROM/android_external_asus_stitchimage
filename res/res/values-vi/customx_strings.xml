@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ảnh chụp màn hình</string>
+    <string name="circle_btn_done">Xong</string>
+    <string name="circle_btn_edit">Chỉnh sửa</string>
+    <string name="circle_btn_extend">Mở rộng</string>
+    <string name="circle_btn_long_screenshot">Ảnh chụp màn hình dài</string>
+    <string name="circle_btn_share">Chia sẻ</string>
+    <string name="editor_left_dialog_message">Bạn có muốn lưu trước khi thoát không?</string>
+    <string name="editor_left_dialog_negative_btn">Không</string>
+    <string name="editor_left_dialog_positive_btn">Có</string>
+    <string name="editor_left_dialog_title">Lưu và thoát</string>
+    <string name="editor_text_text">Văn bản</string>
+    <string name="editor_toast_file_not_found">Các file ko tồn tại</string>
+    <string name="editor_toast_processing">Đang xử lý hình ảnh có độ phân giải đầy đủ...</string>
+    <string name="editor_toast_save_failed">Lưu thất bại</string>
+    <string name="foreground_notification_name">Trạng thái chạy ưu tiên</string>
+    <string name="notification_delete">Xóa</string>
+    <string name="notification_share">Chia sẻ</string>
+    <string name="notification_text">Nhấn để xem ảnh chụp màn hình của bạn</string>
+    <string name="notification_title">Đã chụp ảnh màn hình</string>
+    <string name="screenshot_bubble_tips">Nhấp vào đây để chụp ảnh chụp màn hình dài.</string>
+    <string name="screenshot_notification_name">Trạng thái ảnh chụp màn hình</string>
+    <string name="toast_no_more_content">Không còn nội dung để chụp</string>
+    <string name="toast_screenshot_forbidden">Không thể chụp ảnh chụp màn hình</string>
+    <string name="toast_screenshot_saved">Đã chụp ảnh màn hình</string>
+    <string name="toast_up_to_limit_screenshot">Ảnh chụp màn hình dài đã đạt đến độ dài tối đa của nó</string>
+</resources>

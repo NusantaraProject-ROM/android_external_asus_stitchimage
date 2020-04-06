@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captura de pantalla</string>
+    <string name="circle_btn_done">Fet</string>
+    <string name="circle_btn_edit">Edita</string>
+    <string name="circle_btn_extend">Amplia</string>
+    <string name="circle_btn_long_screenshot">Captura de pantalla llarga</string>
+    <string name="circle_btn_share">Comparteix</string>
+    <string name="editor_left_dialog_message">Vols desar abans de sortir?</string>
+    <string name="editor_left_dialog_negative_btn">No</string>
+    <string name="editor_left_dialog_positive_btn">Sí</string>
+    <string name="editor_left_dialog_title">Desa i surt</string>
+    <string name="editor_text_text">Text</string>
+    <string name="editor_toast_file_not_found">Els fitxers no existeixen</string>
+    <string name="editor_toast_processing">S\'està processant la imatge a resolució completa...</string>
+    <string name="editor_toast_save_failed">No s\'ha pogut desar</string>
+    <string name="foreground_notification_name">Funcionament en primer pla</string>
+    <string name="notification_delete">Suprimeix</string>
+    <string name="notification_share">Comparteix</string>
+    <string name="notification_text">Toca la notificació per veure la captura de pantalla</string>
+    <string name="notification_title">S\'ha fet una captura de pantalla</string>
+    <string name="screenshot_bubble_tips">Fes clic aquí per a fer captures de pantalla llargues.</string>
+    <string name="screenshot_notification_name">Estat de la captura de pantalla</string>
+    <string name="toast_no_more_content">No hi ha més contingut per a capturar</string>
+    <string name="toast_screenshot_forbidden">No es pot fer una captura de pantalla</string>
+    <string name="toast_screenshot_saved">S\'ha fet una captura de pantalla</string>
+    <string name="toast_up_to_limit_screenshot">La captura de pantalla llarga ja ha assolit la seva longitud màxima</string>
+</resources>

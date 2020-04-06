@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captura de tela</string>
+    <string name="circle_btn_done">Concluído</string>
+    <string name="circle_btn_edit">Editar</string>
+    <string name="circle_btn_extend">Extender</string>
+    <string name="circle_btn_long_screenshot">Captura de tela longa</string>
+    <string name="circle_btn_share">Compartilhar</string>
+    <string name="editor_left_dialog_message">Deseja salvar antes de sair?</string>
+    <string name="editor_left_dialog_negative_btn">Não</string>
+    <string name="editor_left_dialog_positive_btn">Sim</string>
+    <string name="editor_left_dialog_title">Salvar e sair</string>
+    <string name="editor_text_text">Texto</string>
+    <string name="editor_toast_file_not_found">Arquivos inexistente</string>
+    <string name="editor_toast_processing">Processando a imagem de resolução cheia...</string>
+    <string name="editor_toast_save_failed">Falha ao salvar</string>
+    <string name="foreground_notification_name">Estado de execução em primeiro plano</string>
+    <string name="notification_delete">Excluir</string>
+    <string name="notification_share">Compartilhar</string>
+    <string name="notification_text">Toque para ver sua captura de tela</string>
+    <string name="notification_title">Captura de tela obtida</string>
+    <string name="screenshot_bubble_tips">Clique aqui para tirar longas capturas de tela.</string>
+    <string name="screenshot_notification_name">Status da captura de tela</string>
+    <string name="toast_no_more_content">Sem mais conteúdo para capturar</string>
+    <string name="toast_screenshot_forbidden">Não foi possível capturar imagem de tela</string>
+    <string name="toast_screenshot_saved">Captura de tela obtida</string>
+    <string name="toast_up_to_limit_screenshot">Captura longa de tela no comprimento máximo</string>
+</resources>

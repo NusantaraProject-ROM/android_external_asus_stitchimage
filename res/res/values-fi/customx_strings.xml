@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Näyttökuva</string>
+    <string name="circle_btn_done">Valmis</string>
+    <string name="circle_btn_edit">Muokkaa</string>
+    <string name="circle_btn_extend">Laajenna</string>
+    <string name="circle_btn_long_screenshot">Pitkä näyttökuva</string>
+    <string name="circle_btn_share">Jaa</string>
+    <string name="editor_left_dialog_message">Haluatko tallentaa ennen sulkemista?</string>
+    <string name="editor_left_dialog_negative_btn">Ei</string>
+    <string name="editor_left_dialog_positive_btn">Kyllä</string>
+    <string name="editor_left_dialog_title">Tallenna ja sulje</string>
+    <string name="editor_text_text">Teksti</string>
+    <string name="editor_toast_file_not_found">Tiedostoja ei ole</string>
+    <string name="editor_toast_processing">Käsitellään korkearesoluutioista kuvaa…</string>
+    <string name="editor_toast_save_failed">Tallennus epäonnistui</string>
+    <string name="foreground_notification_name">Edustalla suoritettavien sovellusten tila</string>
+    <string name="notification_delete">Poista</string>
+    <string name="notification_share">Jaa</string>
+    <string name="notification_text">Tarkastele kuvakaappausta napauttamalla</string>
+    <string name="notification_title">Kuvakaappaus tallennettu</string>
+    <string name="screenshot_bubble_tips">Ota pitkiä näyttökuvia napsauttamalla tässä.</string>
+    <string name="screenshot_notification_name">Näyttökuvan tila</string>
+    <string name="toast_no_more_content">Ei enää tallennettavaa sisältöä</string>
+    <string name="toast_screenshot_forbidden">Näyttökuvan ottaminen epäonnistui</string>
+    <string name="toast_screenshot_saved">Kuvakaappaus tallennettu</string>
+    <string name="toast_up_to_limit_screenshot">Pitkä näyttökuva vastaa jo enimmäispituutta</string>
+</resources>

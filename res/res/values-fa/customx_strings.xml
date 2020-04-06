@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عکس از صفحه</string>
+    <string name="circle_btn_done">تمام</string>
+    <string name="circle_btn_edit">ویرایش</string>
+    <string name="circle_btn_extend">\'گسترش دادن</string>
+    <string name="circle_btn_long_screenshot">تصویر صفحه بلند</string>
+    <string name="circle_btn_share">اشتراک‌گذاری</string>
+    <string name="editor_left_dialog_message">آیا می خواهید قبل از خروج ذخیره کنید؟</string>
+    <string name="editor_left_dialog_negative_btn">نه</string>
+    <string name="editor_left_dialog_positive_btn">بله</string>
+    <string name="editor_left_dialog_title">ذخیره سازی و خروج</string>
+    <string name="editor_text_text">متن</string>
+    <string name="editor_toast_file_not_found">فایل ها موجود نیستند</string>
+    <string name="editor_toast_processing">در حال پردازش عکس با وضوح کامل...</string>
+    <string name="editor_toast_save_failed">ذخیره نشد</string>
+    <string name="foreground_notification_name">حالت اجرا در پیش زمینه</string>
+    <string name="notification_delete">حذف</string>
+    <string name="notification_share">اشتراک‌گذاری</string>
+    <string name="notification_text">برای مشاهده عکس صفحه‌نمایشتان ضربه بزنید</string>
+    <string name="notification_title">عکس از صفحه گرفته شد</string>
+    <string name="screenshot_bubble_tips">برای گرفتن تصویر صفحه‌های بلند اینجا کلیک کنید.</string>
+    <string name="screenshot_notification_name">وضعیت عکس از صفحه</string>
+    <string name="toast_no_more_content">محتوای دیگری برای ضبط وجود ندارد</string>
+    <string name="toast_screenshot_forbidden">گرفتن عکس از صفحه امکان پذیر نیست</string>
+    <string name="toast_screenshot_saved">عکس از صفحه گرفته شد</string>
+    <string name="toast_up_to_limit_screenshot">اسکرین شات طولانی به حداکثر مجاز خود رسیده است</string>
+</resources>

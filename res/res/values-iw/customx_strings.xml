@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">צילום מסך</string>
+    <string name="circle_btn_done">בוצע</string>
+    <string name="circle_btn_edit">ערוך</string>
+    <string name="circle_btn_extend">הרחב</string>
+    <string name="circle_btn_long_screenshot">צילום מסך ארוך</string>
+    <string name="circle_btn_share">שתף</string>
+    <string name="editor_left_dialog_message">האם אתה רוצה לשמור לפני היציאה?</string>
+    <string name="editor_left_dialog_negative_btn">לא</string>
+    <string name="editor_left_dialog_positive_btn">כן</string>
+    <string name="editor_left_dialog_title">שמור וצא</string>
+    <string name="editor_text_text">טקסט</string>
+    <string name="editor_toast_file_not_found">הקבצים אינם קיימים</string>
+    <string name="editor_toast_processing">מעבד תמונה ברזולוציה מלאה...</string>
+    <string name="editor_toast_save_failed">שמירה נכשלה</string>
+    <string name="foreground_notification_name">מצב ריצה בחזית</string>
+    <string name="notification_delete">מחק</string>
+    <string name="notification_share">שתף</string>
+    <string name="notification_text">הקש כדי להציג את צילום המסך שלך</string>
+    <string name="notification_title">צילום המסך בוצע</string>
+    <string name="screenshot_bubble_tips">הקלק כאן כדי לצלם צילום מסך ארוך.</string>
+    <string name="screenshot_notification_name">מצב צילום מסך</string>
+    <string name="toast_no_more_content">אין יותר תוכן ללכידה</string>
+    <string name="toast_screenshot_forbidden">לא ניתן לצלם את המסך</string>
+    <string name="toast_screenshot_saved">צילום המסך בוצע</string>
+    <string name="toast_up_to_limit_screenshot">צילום מסך ארוך - הגיע לאורך המרבי</string>
+</resources>

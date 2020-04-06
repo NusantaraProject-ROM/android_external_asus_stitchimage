@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tangkapan layar</string>
+    <string name="circle_btn_done">Selesai</string>
+    <string name="circle_btn_edit">Edit</string>
+    <string name="circle_btn_extend">Perluas</string>
+    <string name="circle_btn_long_screenshot">Tangkapan layar panjang</string>
+    <string name="circle_btn_share">Bagikan</string>
+    <string name="editor_left_dialog_message">Ingin menyimpan sebelum keluar?</string>
+    <string name="editor_left_dialog_negative_btn">Tidak</string>
+    <string name="editor_left_dialog_positive_btn">Ya</string>
+    <string name="editor_left_dialog_title">Simpan dan Keluar</string>
+    <string name="editor_text_text">Kirim pesan teks</string>
+    <string name="editor_toast_file_not_found">File tidak ada</string>
+    <string name="editor_toast_processing">Memproses gambar resolusi penuh...</string>
+    <string name="editor_toast_save_failed">Gagal menyimpan</string>
+    <string name="foreground_notification_name">Status latar depan</string>
+    <string name="notification_delete">Hapus</string>
+    <string name="notification_share">Bagikan</string>
+    <string name="notification_text">Ketuk untuk melihat tangkapan layar</string>
+    <string name="notification_title">Screenshot diambil</string>
+    <string name="screenshot_bubble_tips">Klik di sini untuk mengambil tangkapan layar panjang.</string>
+    <string name="screenshot_notification_name">Status tangkapan layar</string>
+    <string name="toast_no_more_content">Tidak ada konten untuk ditangkap</string>
+    <string name="toast_screenshot_forbidden">Tidak dapat membuat tangkapan layar</string>
+    <string name="toast_screenshot_saved">Screenshot diambil</string>
+    <string name="toast_up_to_limit_screenshot">Tangkapan layar panjang telah mencapai panjang maksimal</string>
+</resources>

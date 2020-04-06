@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">スクリーンショット</string>
+    <string name="circle_btn_done">完了</string>
+    <string name="circle_btn_edit">編集</string>
+    <string name="circle_btn_extend">ロングスクリーンショット</string>
+    <string name="circle_btn_long_screenshot">ロングスクリーンショット</string>
+    <string name="circle_btn_share">共有</string>
+    <string name="editor_left_dialog_message">終了する前に保存しますか？</string>
+    <string name="editor_left_dialog_negative_btn">いいえ</string>
+    <string name="editor_left_dialog_positive_btn">はい</string>
+    <string name="editor_left_dialog_title">保存して終了</string>
+    <string name="editor_text_text">テキスト</string>
+    <string name="editor_toast_file_not_found">ファイルが存在しません</string>
+    <string name="editor_toast_processing">最大解像度の画像を処理しています...</string>
+    <string name="editor_toast_save_failed">保存に失敗しました</string>
+    <string name="foreground_notification_name">最前面アプリの実行ステータス</string>
+    <string name="notification_delete">削除</string>
+    <string name="notification_share">共有</string>
+    <string name="notification_text">タップするとスクリーンショットが表示されます</string>
+    <string name="notification_title">スクリーンショットを取得しました</string>
+    <string name="screenshot_bubble_tips">ロングスクリーンショットを撮るにはここをクリックしてください。</string>
+    <string name="screenshot_notification_name">スクリーンショットのステータス</string>
+    <string name="toast_no_more_content">キャプチャするコンテンツがありません</string>
+    <string name="toast_screenshot_forbidden">スクリーンショットがキャプチャできません</string>
+    <string name="toast_screenshot_saved">スクリーンショットを取得しました</string>
+    <string name="toast_up_to_limit_screenshot">縦長スクリーンショットの長さ上限に到達しています</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zrzut ekranu</string>
+    <string name="circle_btn_done">Gotowe</string>
+    <string name="circle_btn_edit">Edytuj</string>
+    <string name="circle_btn_extend">Rozszerz</string>
+    <string name="circle_btn_long_screenshot">Długi zrzut ekranu</string>
+    <string name="circle_btn_share">Udostępnij</string>
+    <string name="editor_left_dialog_message">Czy chcesz zapisać przed zamknięciem?</string>
+    <string name="editor_left_dialog_negative_btn">Nie</string>
+    <string name="editor_left_dialog_positive_btn">Tak</string>
+    <string name="editor_left_dialog_title">Zapisz i zamknij</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Pliki nie istnieją</string>
+    <string name="editor_toast_processing">Przetwarzam obraz w pełnej rozdzielczości...</string>
+    <string name="editor_toast_save_failed">Nie można zapisać</string>
+    <string name="foreground_notification_name">Stan pracy na pierwszym planie</string>
+    <string name="notification_delete">Usuń</string>
+    <string name="notification_share">Udostępnij</string>
+    <string name="notification_text">Kliknij, by zobaczyć zrzut ekranu</string>
+    <string name="notification_title">Wykonano zrzut ekranu</string>
+    <string name="screenshot_bubble_tips">Kliknij tutaj, aby zapisywać długie zrzuty ekranu.</string>
+    <string name="screenshot_notification_name">Status zrzutu ekranu</string>
+    <string name="toast_no_more_content">Nie ma więcej treści do przechwycenia</string>
+    <string name="toast_screenshot_forbidden">Nie można przechwycić zrzutu ekranu</string>
+    <string name="toast_screenshot_saved">Wykonano zrzut ekranu</string>
+    <string name="toast_up_to_limit_screenshot">Osiągnięto maksymalną długość długiego zrzutu ekranu</string>
+</resources>

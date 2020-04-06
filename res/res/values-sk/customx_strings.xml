@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snímka obrazovky</string>
+    <string name="circle_btn_done">Hotovo</string>
+    <string name="circle_btn_edit">Upraviť</string>
+    <string name="circle_btn_extend">Roztiahnuť</string>
+    <string name="circle_btn_long_screenshot">Dlhá snímka obrazovky</string>
+    <string name="circle_btn_share">Zdieľať</string>
+    <string name="editor_left_dialog_message">Chcete zmeny pred ukončením uložiť?</string>
+    <string name="editor_left_dialog_negative_btn">Nie</string>
+    <string name="editor_left_dialog_positive_btn">Áno</string>
+    <string name="editor_left_dialog_title">Uložiť a ukončiť</string>
+    <string name="editor_text_text">Text</string>
+    <string name="editor_toast_file_not_found">Súbory neexistujú</string>
+    <string name="editor_toast_processing">Prebieha spracovávanie obrázku v plnom rozlíšení...</string>
+    <string name="editor_toast_save_failed">Nepodarilo sa uložiť</string>
+    <string name="foreground_notification_name">Stav činnosti v popredí</string>
+    <string name="notification_delete">Odstrániť</string>
+    <string name="notification_share">Zdieľať</string>
+    <string name="notification_text">Klepnutím zobrazíte snímku obrazovky</string>
+    <string name="notification_title">Snímka obrazovky bola zaznamenaná</string>
+    <string name="screenshot_bubble_tips">Kliknutím sem nasnímate dlhé snímky obrazovky.</string>
+    <string name="screenshot_notification_name">Stav snímky obrazovky</string>
+    <string name="toast_no_more_content">Žiadny ďalší obsah na nasnímanie</string>
+    <string name="toast_screenshot_forbidden">Nedá sa urobiť snímka obrazovky</string>
+    <string name="toast_screenshot_saved">Snímka obrazovky bola zaznamenaná</string>
+    <string name="toast_up_to_limit_screenshot">Dlhá snímka obrazovky už dosiahla svoju maximálnu dĺžku</string>
+</resources>

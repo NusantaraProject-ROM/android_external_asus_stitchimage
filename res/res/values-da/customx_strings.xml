@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skærmbillede</string>
+    <string name="circle_btn_done">Udfør</string>
+    <string name="circle_btn_edit">Rediger</string>
+    <string name="circle_btn_extend">Udvid</string>
+    <string name="circle_btn_long_screenshot">Langt skærmbillede</string>
+    <string name="circle_btn_share">Del</string>
+    <string name="editor_left_dialog_message">Vil du gemme, før du afslutter?</string>
+    <string name="editor_left_dialog_negative_btn">Nej</string>
+    <string name="editor_left_dialog_positive_btn">Ja</string>
+    <string name="editor_left_dialog_title">Gem og afslut</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Filerne findes ikke</string>
+    <string name="editor_toast_processing">Behandler billede i fuld opløsning...</string>
+    <string name="editor_toast_save_failed">Lagring mislykkedes</string>
+    <string name="foreground_notification_name">Tilstand for apps i forgrunden</string>
+    <string name="notification_delete">Slet</string>
+    <string name="notification_share">Del</string>
+    <string name="notification_text">Tryk for at se dit skærmbillede</string>
+    <string name="notification_title">Skærmbilledet er gemt</string>
+    <string name="screenshot_bubble_tips">Klik her for at tage lange skærmbilleder.</string>
+    <string name="screenshot_notification_name">Skærmbilledstatus</string>
+    <string name="toast_no_more_content">Ikke mere indhold til optagelse</string>
+    <string name="toast_screenshot_forbidden">Kan ikke tage skærmbillede</string>
+    <string name="toast_screenshot_saved">Skærmbilledet er gemt</string>
+    <string name="toast_up_to_limit_screenshot">Langt skærmbillede har allerede nået maks. længde</string>
+</resources>

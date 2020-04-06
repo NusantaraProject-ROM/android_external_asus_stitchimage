@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्क्रीनशॉट</string>
+    <string name="circle_btn_done">पूर्ण</string>
+    <string name="circle_btn_edit">संपादित करें</string>
+    <string name="circle_btn_extend">विस्तारित करें</string>
+    <string name="circle_btn_long_screenshot">लम्बा स्क्रीनशॉट</string>
+    <string name="circle_btn_share">शेयर करें</string>
+    <string name="editor_left_dialog_message">क्या आप बाहर निकलने के पहले सहेजना चाहते हैं?</string>
+    <string name="editor_left_dialog_negative_btn">नहीं</string>
+    <string name="editor_left_dialog_positive_btn">हां</string>
+    <string name="editor_left_dialog_title">सहेजें और बाहर निकलें</string>
+    <string name="editor_text_text">पाठ</string>
+    <string name="editor_toast_file_not_found">फाइलें मोजूद नहीं हैं</string>
+    <string name="editor_toast_processing">पूर्ण रिज़ॉल्यूशन चित्र प्रोसेस हो रहा है...</string>
+    <string name="editor_toast_save_failed">सहेजना विफल रहा</string>
+    <string name="foreground_notification_name">फोरग्राउंड में रन होने वाले ऐप्स की स्थिति</string>
+    <string name="notification_delete">हटाएं</string>
+    <string name="notification_share">शेयर करें</string>
+    <string name="notification_text">अपना स्क्रीनशॉट देखने के लिए टैप करें</string>
+    <string name="notification_title">स्‍क्रीनशॉट कैप्‍चर किया गया</string>
+    <string name="screenshot_bubble_tips">लम्बा स्क्रीनशॉट लेने के लिए यहां क्लिक करें।</string>
+    <string name="screenshot_notification_name">स्क्रीनशॉट स्टेटस</string>
+    <string name="toast_no_more_content">कैप्चर करने के और अधिक सामग्री नहीं है</string>
+    <string name="toast_screenshot_forbidden">स्क्रीनशॉट केप्चर करने में अक्षम</string>
+    <string name="toast_screenshot_saved">स्‍क्रीनशॉट कैप्‍चर किया गया</string>
+    <string name="toast_up_to_limit_screenshot">लम्बे स्क्रीनशॉट अपनी अधिकतम लम्बाई पर पहले ही पहुंच गए हैं।</string>
+</resources>
