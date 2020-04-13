@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_font_family_body_1_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_body_2_material">@*android:string/config_bodyFontFamilyMedium</string>
+    <string name="abc_font_family_button_material">@*android:string/config_bodyFontFamilyMedium</string>
+    <string name="abc_font_family_caption_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_display_1_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_display_2_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_display_3_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_display_4_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_headline_material">@*android:string/config_headlineFontFamily</string>
+    <string name="abc_font_family_menu_material">@*android:string/config_bodyFontFamily</string>
+    <string name="abc_font_family_subhead_material">@*android:string/config_headlineFontFamily</string>
+    <string name="abc_font_family_title_material">@*android:string/config_headlineFontFamilyMedium</string>
+    <string name="asusres_font_family_main">@*android:string/config_bodyFontFamilyMedium</string>
+    <string name="asusres_font_family_medium">@*android:string/config_headlineFontFamilyMedium</string>
+    <string name="asusres_font_family_light">@*android:string/config_bodyFontFamily</string>
+</resources>
