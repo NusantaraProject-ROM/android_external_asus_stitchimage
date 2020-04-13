@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ctrl_btn_fg_color">@*android:color/primary_text_default_material_dark</color>
     <color name="ctrl_btn_text_color">@*android:color/secondary_text_default_material_dark</color>
 </resources>
