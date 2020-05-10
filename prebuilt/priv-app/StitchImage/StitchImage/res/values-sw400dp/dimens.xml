@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="asusres_actionbar_title_text_size_oneline">24.0dip</dimen>
+    <dimen name="asusres_activity_layout_horizontal_padding">20.0dip</dimen>
+    <dimen name="asusres_button_height">42.0dip</dimen>
+    <dimen name="asusres_category_text_size">15.0sp</dimen>
+    <dimen name="asusres_dialog_horizontal_padding">10.0dip</dimen>
+    <dimen name="asusres_dialog_vertical_padding">24.0dip</dimen>
+    <dimen name="asusres_list_big_icon_size">54.0dip</dimen>
+    <dimen name="asusres_list_item_min_height">66.0dip</dimen>
+    <dimen name="asusres_list_item_vertical_padding">10.0dip</dimen>
+    <dimen name="asusres_list_medium_icon_size">40.0dip</dimen>
+    <dimen name="asusres_list_small_icon_size">24.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_buttons_layout_padding_bottom">45.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_image_height">290.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_image_margin_top">90.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_padding_top">70.0dip</dimen>
+    <dimen name="asusres_preference_category_height">50.0dip</dimen>
+    <dimen name="asusres_preference_category_line_margin_start">12.0dip</dimen>
+    <dimen name="asusres_primary_text_size">16.0sp</dimen>
+    <dimen name="asusres_secondary_text_size">14.0sp</dimen>
+    <dimen name="asusres_widget_horizontal_padding">20.0dip</dimen>
+</resources>

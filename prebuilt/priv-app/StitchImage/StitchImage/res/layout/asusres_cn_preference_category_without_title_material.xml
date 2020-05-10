@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/asusres_cn_preference_category_background_material" android:paddingTop="@dimen/asusres_preference_category_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/asusres_cn_preference_category_without_title_height" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

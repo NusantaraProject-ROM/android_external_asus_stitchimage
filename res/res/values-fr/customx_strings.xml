@@ -4,9 +4,9 @@
     <string name="circle_btn_done">OK</string>
     <string name="circle_btn_edit">Modifier</string>
     <string name="circle_btn_extend">Étendre</string>
-    <string name="circle_btn_long_screenshot">Capture d\'écran longue</string>
+    <string name="circle_btn_long_screenshot">Capture d\'écran étendue</string>
     <string name="circle_btn_share">Partager</string>
-    <string name="editor_left_dialog_message">Souhaitez-vous enregistrer les modifications avant de fermer le programme ?</string>
+    <string name="editor_left_dialog_message">Souhaitez-vous enregistrer les modifications avant de quitter ?</string>
     <string name="editor_left_dialog_negative_btn">Non</string>
     <string name="editor_left_dialog_positive_btn">Oui</string>
     <string name="editor_left_dialog_title">Enregistrer et quitter</string>
@@ -23,6 +23,6 @@
     <string name="screenshot_notification_name">État de la capture d\'écran</string>
     <string name="toast_no_more_content">Plus de contenu à capturer</string>
     <string name="toast_screenshot_forbidden">Impossible de faire une capture d\'écran</string>
-    <string name="toast_screenshot_saved">Capture d\'écran réussie</string>
-    <string name="toast_up_to_limit_screenshot">La capture d\'écran longue a déjà atteint sa longueur maximale</string>
+    <string name="toast_screenshot_saved">Capture d\'écran effectuée</string>
+    <string name="toast_up_to_limit_screenshot">La capture d\'écran a déjà atteint sa longueur maximale</string>
 </resources>

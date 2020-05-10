@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_checked="true">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="@color/asusres_switch_thumb_disabled_light" />
+            </item>
+            <item android:drawable="@drawable/asusres_switch_thumb_strokes_mtrl" />
+        </layer-list>
+    </item>
+    <item android:state_enabled="false">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="@color/asusres_switch_thumb_disabled_light" />
+            </item>
+            <item android:drawable="@drawable/asusres_switch_thumb_strokes_mtrl" />
+        </layer-list>
+    </item>
+    <item android:state_pressed="true">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="?android:colorControlActivated" />
+            </item>
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="@color/asusres_switch_thumb_dark_layer_pressed" android:alpha="@dimen/asusres_switch_thumb_alpha_pressed" />
+            </item>
+            <item android:drawable="@drawable/asusres_switch_thumb_strokes_mtrl" />
+        </layer-list>
+    </item>
+    <item android:state_checked="true">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="?android:colorControlActivated" />
+            </item>
+            <item android:drawable="@drawable/asusres_switch_thumb_strokes_mtrl" />
+        </layer-list>
+    </item>
+    <item>
+        <layer-list android:paddingMode="stack">
+            <item>
+                <nine-patch android:src="@drawable/asusres_switch_thumb_mtrl" android:tint="@color/asusres_switch_thumb_off_light" />
+            </item>
+            <item android:drawable="@drawable/asusres_switch_thumb_strokes_mtrl" />
+        </layer-list>
+    </item>
+</selector>

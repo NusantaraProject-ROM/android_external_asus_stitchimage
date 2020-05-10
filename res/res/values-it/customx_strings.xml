@@ -4,7 +4,7 @@
     <string name="circle_btn_done">Fine</string>
     <string name="circle_btn_edit">Modifica</string>
     <string name="circle_btn_extend">Estendi</string>
-    <string name="circle_btn_long_screenshot">Screenshot lungo</string>
+    <string name="circle_btn_long_screenshot">Screenshot esteso</string>
     <string name="circle_btn_share">Condividi</string>
     <string name="editor_left_dialog_message">Vuoi salvare prima di uscire?</string>
     <string name="editor_left_dialog_negative_btn">No</string>
@@ -18,11 +18,11 @@
     <string name="notification_delete">Elimina</string>
     <string name="notification_share">Condividi</string>
     <string name="notification_text">Tocca per visualizzare lo screenshot</string>
-    <string name="notification_title">Screenshot acquisito</string>
-    <string name="screenshot_bubble_tips">Fare clic qui per effettuare screenshot lunghi.</string>
+    <string name="notification_title">Screenshot salvato</string>
+    <string name="screenshot_bubble_tips">Tocca qui per acquisire uno screenshot esteso.</string>
     <string name="screenshot_notification_name">Stato screenshot</string>
     <string name="toast_no_more_content">Nessun altro contenuto da catturare</string>
-    <string name="toast_screenshot_forbidden">Impossibile scaricare screenshot</string>
-    <string name="toast_screenshot_saved">Screenshot acquisito</string>
-    <string name="toast_up_to_limit_screenshot">Lunghezza massima screenshot già raggiunta</string>
+    <string name="toast_screenshot_forbidden">Impossibile salvare lo screenshot</string>
+    <string name="toast_screenshot_saved">Screenshot salvato</string>
+    <string name="toast_up_to_limit_screenshot">Lo screenshot esteso ha già raggiunto la massima lunghezza</string>
 </resources>

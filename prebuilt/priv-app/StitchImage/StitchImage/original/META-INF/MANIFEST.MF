@@ -1,0 +1,5122 @@
+Manifest-Version: 1.0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: eVmjRoyJJdMz4yzuxHGM43kEtpo
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: FOy7zCT6vXNXBTEE9Ey8f+p6KQU
+
+Name: res/drawable-xhdpi/googleg_disabled_color_18.png
+SHA1-Digest: L11lHK2mmgu/o18gIGjz6Dil0fo
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: 4MdOBc9q6ojkxO9UhkX9vx5A3yg
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: pdfCzH/lhGd+WdZWULnPqet6PUQ
+
+Name: res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: gE9FofqofBVmmfvWuiQAXlrVsck
+
+Name: res/drawable-xxhdpi/asusres_textfield_disabled_holo_light.9.png
+SHA1-Digest: A+Vp78bLIwskqKS6uJnnQGIZROM
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: 45V89hF7umArCkAOPwyUuvZxtGU
+
+Name: res/color/asusres_bottom_navigation_item_color_light.xml
+SHA1-Digest: TzvFtKgrXUYWS2fXfjOw9kLnsyY
+
+Name: res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: RityxShgYvia8YgkzYMZPsO+8ng
+
+Name: res/drawable/circle_btn_crop.xml
+SHA1-Digest: K2r3Hja/PbhRq9c3BtiZyfgRRO8
+
+Name: res/drawable/ic_asus_screenshot_ic_edit.xml
+SHA1-Digest: R3uqbsFRK4LN2qhfONTpFddmZ14
+
+Name: res/drawable-mdpi/asusres_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: QW4fxsbMK+OGejOFB95rF/1ysgA
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_moreoverflow_holo_dark.png
+SHA1-Digest: fycRYDzBG+QEJaTNMBnz7NrmYvg
+
+Name: res/drawable-xhdpi/abc_ic_star_black_16dp.png
+SHA1-Digest: 4qWwbYAltuuVjAtBs79psFxXWYk
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: c1dPFBo1a9vOlb71Pwu5h4ppYqo
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: VUSXVHnnX+NlPFp/L3wBAborL+k
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: QMfWvmkuem3oTbOCA7QK8k36QDQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: DM7OUD5e/TuT6BXlznvhKBKmLUw
+
+Name: res/drawable-xhdpi/asusres_spinner_default_holo_dark.9.png
+SHA1-Digest: 8/Ip6uVMu9ax560YAsMZKcTGhwU
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: tAbhpvOfN9aSEuTGjdHoQ/lT1pU
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: ZZpClH3SqFHX2JbC4JP7slZAwW0
+
+Name: res/drawable-hdpi/asusres_ic_menu_cut_holo_dark.png
+SHA1-Digest: 1gJQANVqsCRie0n+TYx8FYpvl3s
+
+Name: res/drawable-hdpi/asusres_btn_check_off_disabled_holo_light.png
+SHA1-Digest: hBOnSUkcPHj2sUpw91JOhDcz//o
+
+Name: res/drawable/editor_ic_text_bg.xml
+SHA1-Digest: dcfkgWpfpXOQiM47759skFbu/Pg
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: gIUjEDL7Gwm0QIv0D8257xFLywo
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: x5JJJf1eVSjw4K/gtQqC2SOuq+0
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: ZWqYN3ADzPj4nrh9PSkrR7CgoQE
+
+Name: res/drawable-mdpi/asusres_btn_radio_off_disabled_holo_light.png
+SHA1-Digest: WRQ26hZDOPkNvhQOd859P2e8tTY
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: BHDEcUhznTC5Fu5NwmxWPIPu0VU
+
+Name: res/drawable-hdpi/asusres_btn_radio_on_holo.png
+SHA1-Digest: r0G11vinTGyhbtV/KzdvSFGT2l0
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: ZWAT3jGmwoe9gaTkihjk68ERDv0
+
+Name: res/drawable-mdpi/asusres_spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: r0lxage2NYxaLATufdcNdOj50Rg
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: QIKWJRkaf2MUtE9/APluRrsXmzg
+
+Name: res/drawable-hdpi/asusres_btn_check_on_holo.png
+SHA1-Digest: Qz4w27m1kMmM9itgCLmQwgCqqB8
+
+Name: res/drawable-xhdpi/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: sBiZTbSujO9FROEksOFDO8o8b7I
+
+Name: res/drawable-hdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: 0UXXKnMaseFRUAoKEvA7nU8HXfQ
+
+Name: res/layout/stroke_panel.xml
+SHA1-Digest: +CXyKsRrzrjWumeMP+gN2TbUtdQ
+
+Name: res/color/asusres_secondary_material_rog_dark.xml
+SHA1-Digest: 5n0spSQJjl359Hj50tQRCr95DdA
+
+Name: res/color-night/asusres_primary_material_light.xml
+SHA1-Digest: Wxnb1a6pMopsS2CVm2UTLk+Mkm8
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: r+J7DJrJytk5eben9zCpKVtk31c
+
+Name: res/drawable-xhdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: hf53l5/diVGIjZbmgENxnJxESF8
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: vZcdLcpgfU7+WWP5lyOyrf/o2Mo
+
+Name: play-services-base.properties
+SHA1-Digest: 7guVtJosEHp5mmkQOmZNptpPoo4
+
+Name: res/color/asusres_btn_borderless_text_material_light.xml
+SHA1-Digest: WATdVeQpHTO47orm3xg4B9OWeE0
+
+Name: res/drawable-xhdpi/asusres_spinner_disabled_holo_light.9.png
+SHA1-Digest: 4Lq/hK8CDNdQ3k6dA8fi9A4SPjk
+
+Name: res/layout/text_panel.xml
+SHA1-Digest: ns75+cvZKizcHfX7lOGTUcN+Efk
+
+Name: res/drawable/asusres_btn_floating_remove.xml
+SHA1-Digest: ovjfmYqCqxaSzidGZJNE5+Yxpj0
+
+Name: res/drawable/asusres_list_divider_small_icon_with_padding_light.
+ xml
+SHA1-Digest: W7lbpvTwxWTY3lIM6rbuzLDFDMg
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 3K8Chk7QTFCzlrSISf0PS9KRArE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_009.pn
+ g
+SHA1-Digest: wey10W+3gCfWMmqeQXh5otIkb7c
+
+Name: res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 78smH/WloXlRnKFiYjX1mhRdm8A
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: ARxesT6bRmd+o87bEjrUP6UYpSU
+
+Name: res/drawable-hdpi/asusres_btn_radio_off_holo_dark.png
+SHA1-Digest: smYnaEDDDMSpsN4hdfyxfATBFU0
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: 7o/NOgjfJBhCz4SCoaagzdlNy6c
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: 3gVEvw15vytqWmjQISh61rjkl+4
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_16dp.png
+SHA1-Digest: 6g2A+DWI9ch/SwvHTvMtn7hIhA0
+
+Name: res/drawable-xhdpi/asusres_scrubber_control_disable_holo.png
+SHA1-Digest: bTQN6ravG9I3rLiGzfLkEG1AS4g
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: igBUPk68xy9nHETBgyOVwhDjZio
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: hcc2/5qHlEwFhg8YMSD/FXIhUpo
+
+Name: res/drawable-hdpi/asusres_ic_menu_selectall_holo_dark.png
+SHA1-Digest: ZbVQlSk8LP9+BsIBfeb1HZkh8fE
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: UVHrAWVaPuWQrzMz2v/LjqVIeVA
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: OPOwetzeKO4N5izfgMWTjZrGNhg
+
+Name: res/drawable-xxhdpi/asusres_textfield_disabled_holo_dark.9.png
+SHA1-Digest: 6MLvQB/+FWKIq2Ual6Lrb5MKhLk
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: N8u5hjDMGa2e6JOJbgxZal1aNwY
+
+Name: res/drawable-xhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: ubcsLJOipiWUipWvjL7+QYtPl/I
+
+Name: res/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cjgJg24n0TTtgvnxe15sLlJeLfw
+
+Name: res/drawable/asusres_drawer_item_dark.xml
+SHA1-Digest: dXQRbzpJmQz0VAnjhBaHwsTlpzc
+
+Name: res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: ZqUgtx8BcZt5TvaiP1WTtE2Qj/4
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: mGfkHvNMaOoq5r3o/EcA23PQ7bM
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: sIphJ32KBgGpBxAbLKz64XKGi3o
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: qUDHpLqa/gLKQ1gCxKtB2kNRGtw
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: 1y7thLQU5RHKpQaPE2yJP9aY5Do
+
+Name: res/drawable/asusres_list_divider_medium_icon_with_padding_light
+ .xml
+SHA1-Digest: HgiUyKdThJOgp2M7DATOtCUePe8
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: sRXkPW1EIYj575B2ifAHd5UnmdQ
+
+Name: res/drawable-hdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: /fV31C0/c/FTadufJJ0tW07JrV0
+
+Name: res/drawable-mdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: yjqWXHie3ng7lwpGjY0L4AtebHY
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: JOli+tlG9L+a7EUGF0gb8gzisaU
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: yIcBY3BvHs1cchkShA+CS/IBoe0
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: GtBkdhqXnpWqDKPKfMshY+DSTls
+
+Name: res/drawable/asusres_btn_default_holo_dark.xml
+SHA1-Digest: 1eqH3Wy1lQv6qHq9QXeQzTH+Gqc
+
+Name: res/drawable-xhdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: bI1FgmYaMUCcs6mF0AaLB6Zbe5A
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: tT97trKKu8W6K+UE7ngLhWKENGs
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: 6gCUBEhV22AQ/tDnUf4ovsJ8O68
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: /7eDDp1PLShv5pBIPywT5OC2XK4
+
+Name: firebase-measurement-connector.properties
+SHA1-Digest: vewgLbglkjap4cpsUvkxTgVFo6A
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: FVH8fNaOjolIvYJNDebWFpb6lIQ
+
+Name: res/drawable-sw400dp-xhdpi/asusres_textfield_strokes_activated_m
+ trl.9.png
+SHA1-Digest: /ykO/JfqKts1xH9S4LybrR5GEdU
+
+Name: res/drawable-hdpi/asusres_btn_default_normal_storkes_mtrl.9.png
+SHA1-Digest: DxH4KdQTxDT0zMMB0dskNHYyEZQ
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: jCr1uRQgTJfOo3pcHxt7KQpsl+k
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: Cm8unb0U18q2t+rrUfb9hMX/Ke0
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: g9kK/dtk6CmuDWvGLrB6u4Og/a8
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: WQKmAtSeq/D1lDjeqi4K++0cp5M
+
+Name: res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: Z2s/VaXsO8QlR8UdBIRVN3Eshc0
+
+Name: res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA1-Digest: b25IOITwDFJwuuXN8h/SxX4BZc4
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: ufoD6vl1s+48ufEKnDwz3kns93c
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-xxhdpi/asusres_expander_open_holo_dark.9.png
+SHA1-Digest: j1i544+X7n3eRgfU72nEwCPAHdA
+
+Name: res/anim/anim_preview.xml
+SHA1-Digest: b2R1HILq5pUXRj56SC6ceCj8O3c
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: Vcpm+wrwznnFPz7Fj+ObnkoUBMU
+
+Name: res/drawable-xhdpi/asusres_ic_menu_moreoverflow_holo_dark.png
+SHA1-Digest: rqz8ij1WuxxFlNen+92B2cuZD9k
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: w5cdpUBpSB3mFgkt6b7dEiyx23w
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable/asusres_edit_text_material_dark.xml
+SHA1-Digest: vvYs4XnXtwrXoAXPJDd6tVtRIrs
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: YUc359K5uaEcyhLdFAEq5NjXqNE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: KdytSUcw7gSWM8JZXOTmkhAb3Dk
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: FeMIYYFnnP+FJVkgGlB8rszG2+Q
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_000.pn
+ g
+SHA1-Digest: Fq+3E371rmveRgVFv2XuDgpQOtc
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA1-Digest: wER9a8JhXugdvgLGSc+ao35227U
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: YppBxCgkDETbDqCRJkkzGxsLIBs
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: yKQyIzYPiiDDZJQiNNo3WDpyIdU
+
+Name: res/drawable-sw400dp-mdpi/asusres_textfield_strokes_default_mtrl
+ .9.png
+SHA1-Digest: KAFTqZ6hEzniSjljOeFHDJzBHOk
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: 66PWsze6Icx7w7oq52cDNJ+1GGY
+
+Name: res/drawable/editor_text_cancel.xml
+SHA1-Digest: KHhXgbwA1r3mvmKeESMJTUTB9dc
+
+Name: res/drawable/asusres_btn_radio_material_anim_light.xml
+SHA1-Digest: ICwKhK9kLqDDIstahWNQaUmRAEA
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: AngyLGM9fD0MqfEzkDY1wrwUdK0
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: P3UglzMd1bYSyuX4WoLUL61SgSs
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_16dp.png
+SHA1-Digest: XWFKBQbHNFDN4EvD+/bGkwMMO48
+
+Name: res/layout/asusres_simple_list_item_1.xml
+SHA1-Digest: /O1GRsPuK2xt5b+tkofJNqhGhEw
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: AJU50gL7k5QomWiItriDniSPDSQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: gkNQF1sOWVjFw8+gRh84misHyIU
+
+Name: res/drawable-hdpi/asusres_textfield_focused_holo_dark.9.png
+SHA1-Digest: pA51750NooB78VLXUOeW+ev/6f0
+
+Name: res/drawable-xxhdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: tnYsTpe15xmgo/l/jlCzSX1ouDk
+
+Name: res/drawable-xhdpi/asusres_textfield_disabled_holo_dark.9.png
+SHA1-Digest: kM5/3huXkAQ1dyhn9Hd+IcCcPdU
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: khg6CAJqyXBSuSTC79mI0prf0zA
+
+Name: res/drawable-hdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: sEEFmeXdodmb58YCgcQtE6eYELQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: rjjpg9Fh1z89EdbMkglCTatuGI8
+
+Name: res/drawable-mdpi/asusres_ic_menu_selectall_holo_dark.png
+SHA1-Digest: g25toUnW2iMv1/YbCLFDgczoLB8
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: yQMx3mb4y/4fzZ+xCEAGO1wI8mg
+
+Name: res/drawable/editor_ic_mosaic1.xml
+SHA1-Digest: 3Lajdm7K88F6z/4WIJ+9EI9Uq28
+
+Name: res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: MkcRfAdEGbq7ti9z8UjusxP9Ojw
+
+Name: res/drawable/asusres_scrubber_control_selector_holo_dark.xml
+SHA1-Digest: xA0KOVidso54eH1QjShOHa2mo40
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: fKJS+tOFeWl9XEPz+6e1I9Fw9Ps
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: P+xToJ4WEjIrsgFWn574JhDgG7k
+
+Name: res/drawable-xxhdpi/asusres_textfield_strokes_default_mtrl.9.png
+SHA1-Digest: Ckkyn/Dq7h5JowIkXT+RCqEjlYQ
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: 59KKWDC83d1vrsVhHWDqSqM/tKU
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: usStt3JfeAqzHnTI63Gyy4xYZ+g
+
+Name: res/drawable-mdpi/abc_list_focused_holo.9.png
+SHA1-Digest: VvdE/sc+sr8KSGfF3QrsuQf22yY
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: wSoJm21GNvZI3mDTc9xjhwUvA8s
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 2ta1tWETL102tntJaNTjY7mZd+0
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: r7/Y5GDo3RwmZL5VK1c2D5arMaM
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: pLc6/o40DA67wLYmi1PAflE0RM4
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: /40+Tt2Ic80W2kGXAKOinRiaoJA
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: NbFzkKdP/8GT2x7Bz+55StyYiH4
+
+Name: res/drawable-hdpi/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: CoHblLo+7UrSh+txuV4v8zvblHw
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: zOuAGEYEu2pGaCDwcuGIJN5EBm4
+
+Name: res/drawable-mdpi/asusres_spinner_ab_default_holo_dark.9.png
+SHA1-Digest: re1FiafAFLYfIyA17AhnsPRUwTs
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: VYghLu1j4e7MV9k5pnyepP0mdVQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: 00ZPfZ4JPSVPhPpjrEPbmnL9/O8
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable-ldrtl/asusres_list_divider_big_icon_with_padding_da
+ rk.xml
+SHA1-Digest: x9UA4Io74wMqn4lzAQYXYS8Ojss
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: bL/AaN1X3XzglkCQiJqEyslpV/k
+
+Name: res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: oBOA2ngofm+35DGGiPN1y6cYN/s
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: Wb/xZSriK6PvsliETMHzrWBDyAw
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: LxJUcUXh3AKMSXAiX98OVdmX124
+
+Name: res/drawable-xxhdpi/asusres_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: dvZeeWDcr5AwF7vNfbMOuST59fs
+
+Name: res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: 6cpWbLXdd27zuqRASTBkUE+2QG0
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: HHsFY+So7AT3Bf2XVvvzwV7RlTE
+
+Name: res/drawable/asusres_spinner_ab_background_material_light.xml
+SHA1-Digest: fKCdwcZGde9e0BgCjhNfHkQ50HE
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: +V8l3UiQAkM/xQJF7Wi4H/Vc/E0
+
+Name: res/drawable-xxhdpi/asusres_btn_check_on_holo.png
+SHA1-Digest: dOgxyHYALXODXMYi5M/ZVhX2XNg
+
+Name: res/drawable-mdpi/asusres_textfield_strokes_default_mtrl.9.png
+SHA1-Digest: iMQA8oICInckbH6ZIoseVe0G1oU
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_48dp.png
+SHA1-Digest: TlbyZYv9H1HCXgUpxYDLUFphgco
+
+Name: res/drawable/asusres_expander_group_holo_dark.xml
+SHA1-Digest: U/ImD8YuY4Jem/L+d7EcWZpMhzg
+
+Name: res/drawable-xxxhdpi/asusres_permission_image.png
+SHA1-Digest: gjcJjEOzU6REA1BsqJ0F7nQyxpU
+
+Name: res/drawable/asusres_ic_menu_search_material.xml
+SHA1-Digest: GicvMKiS5Z+xmZddOPK2n/C634Q
+
+Name: res/drawable-xhdpi/asusres_btn_default_disabled_holo_light.9.png
+SHA1-Digest: +55VNud01CkLgYjbHXh6eg036Lo
+
+Name: res/drawable-hdpi/asusres_ic_menu_cut_holo_light.png
+SHA1-Digest: 6+pQz279el55H+HqN6xpsMNJNBo
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: 1D6JSQnzdNb4FPYkGDc2eRENL6U
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: kUEY8j5GhWt/bVGEQF4BXy7dlAg
+
+Name: res/drawable-sw600dp-mdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: dcu1jWou0CJwqsF5jyx+sb5Xtfg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 45V89hF7umArCkAOPwyUuvZxtGU
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: SeQsFgw4mxlTY/15E1Q3p7Mi+Zo
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: Zy25ufx5kvMLp/hHlEC+IUWiiFQ
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: K+XNF5ef3gFhI9W5D6O75GOgTfA
+
+Name: res/drawable-mdpi/asusres_btn_check_on_disable_holo_light.png
+SHA1-Digest: QmGH9aseoS+kP3QtWsfhV+22jRo
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: Jnox44yRLuWswZJ4qg39s2rcbKE
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: yjIuZH/odjMspAm9j8UrkuEWCs8
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: 2H8t/zAO9muv5nlXPL2RNH4N8bo
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: /vsuPtXo7LI4smE9D1tRVybVVpI
+
+Name: res/drawable/ic_asus_screenshot_preview_bg.xml
+SHA1-Digest: e6/pVFFo8iZY1m22V+ILo2kJiYg
+
+Name: res/drawable-hdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: wqJuSaUYbT4+zQRPOx9KuQGXF10
+
+Name: res/drawable-xhdpi/asusres_ic_menu_paste_holo_light.png
+SHA1-Digest: V+s8nrJ12Xz8l5ZDKFf/I/vTNjI
+
+Name: res/drawable/asusres_ic_menu_copy_material.xml
+SHA1-Digest: HPobONbkjhX3yN24OsHsMDMC+VU
+
+Name: res/drawable/asusres_bottom_navigation_background_light.xml
+SHA1-Digest: /O3IGYNWQattjwpSh0tD9IJ26ZQ
+
+Name: res/drawable/abc_list_divider_material.xml
+SHA1-Digest: 7pOHOTd2EWAT2fBmhTkP4xj+g7U
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: qIadzEydh4sPEkLW+cHvJSzz2Tw
+
+Name: res/drawable/editor_ic_text_alpha.xml
+SHA1-Digest: f33sP+lm7OQBxzdZlCdxOsMykQI
+
+Name: res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA1-Digest: HA/9xyNTCblPawbUxf0mHnv9sc0
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: TBfkghkkA+ivN9qxUtwcF3XdC7s
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: /Eaj1FbHqd+BkiMspNwzaWv9FAQ
+
+Name: res/drawable-xhdpi/asusres_btn_radio_off_disabled_holo_dark.png
+SHA1-Digest: FxaHl//bicACmqbGrV1QbluxgE0
+
+Name: res/drawable-hdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: Lr4gfyn0l1U1gphOe62Hcz+FBRU
+
+Name: res/drawable/editor_ripple_effect_selectable.xml
+SHA1-Digest: rYZFMcDp1WStvj8j4kTO8rReHxs
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: hutU9v/qqReA6h6250DqcaUdcE8
+
+Name: res/drawable-xhdpi/asusres_btn_check_on_holo.png
+SHA1-Digest: 74rb4Tt0yRD+4RrjPo3ZVXaWIW0
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: t2AUFEQQdidU7CSlaTRC6eKRpcM
+
+Name: res/drawable-mdpi/asusres_scrubber_track_holo_light.9.png
+SHA1-Digest: 6Jy5iNq4/PTwJJI+W1Bom+HX3VY
+
+Name: res/drawable/asusres_list_divider_big_icon_with_padding_rog_dark
+ .xml
+SHA1-Digest: 6+LzIzqQa/6hZ/dB/uEKBoihAYI
+
+Name: res/drawable/asusres_ic_collective_permission_request_dialog.xml
+SHA1-Digest: 4PRB03pNKn6ZDcmwOWBOz7YbqtI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: diGkrX3GF7Qo0ecS58QenyejDgQ
+
+Name: res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: sitGlrxh0i/sA/j9OIOfu+ovotA
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_paste_holo_dark.png
+SHA1-Digest: b2tbD8M8pzFRfTDfsaytOXlyf/8
+
+Name: res/drawable-hdpi/asusres_switch_thumb_strokes_mtrl.9.png
+SHA1-Digest: 5XXnF0lt1fOmfxVWm7FhFoB8uBU
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: 4Nqh8BS3PmJN43YPWbNFbhYmjm8
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: cr0h31RKm0SRebyLicoumo9Lmec
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: NiGZYst3oXWOO9/r1dj/6R+m/mQ
+
+Name: res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: lpS64GBqOPsxcQPEWomK+hhL3+I
+
+Name: res/drawable-xxhdpi/common_google_signin_btn_text_light_normal_b
+ ackground.9.png
+SHA1-Digest: 7I6awTwBb0Qem/ZHckZdFC/aXqU
+
+Name: res/drawable/abc_action_bar_item_background_material.xml
+SHA1-Digest: 76WkzQZ+uANP7xIObsPWXCc9eD8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: gqFcTaYZi4k0AHUh9roUjZCMuao
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: /ScJKL7Ge0a2vKfrySGsRSky6DA
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: 3mh0M58gtODchkGvtPppLTa2Qg4
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: INJGt4XqswuGdwDCEupVcggqzOg
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: 70pf8YDknmAfV0HCPLIl4PuCUMY
+
+Name: res/drawable-xhdpi/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: R8WBookM68joCzpD5dW/NrGyQhY
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: Mk+fApv0cjvF7Apb/TWE5VeQG5g
+
+Name: res/drawable/asusres_ic_ab_back_holo_light.xml
+SHA1-Digest: 6lRyzL7f8RbSclx51twAbcCNmp8
+
+Name: res/drawable-sw600dp-xhdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: r8tngSxxvsdsWzMruMchsbwSEds
+
+Name: res/drawable-sw540dp-xhdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: bI1FgmYaMUCcs6mF0AaLB6Zbe5A
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: PfIR1E4CQu8D3NItlRHOJHMCpjk
+
+Name: res/drawable-mdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: dcu1jWou0CJwqsF5jyx+sb5Xtfg
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: fBDF7HyzCa11UHPUNTSUS+Fq7ec
+
+Name: res/drawable-xhdpi/asusres_ic_menu_cut_holo_dark.png
+SHA1-Digest: Z4SCBV+MThtAgIwkQ6JuNolLtOM
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 3ppSsyEPgHZTUwvz3VgrMO++4yc
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: aH7v5WfyIwIGKLoWnPfYoqEc4GM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_009.pn
+ g
+SHA1-Digest: 59KKWDC83d1vrsVhHWDqSqM/tKU
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: Azi5aiS5HRpTaFVjUtY5mHDCWUA
+
+Name: res/drawable/editor_menu_back.xml
+SHA1-Digest: 8OeGJWmQpc5gjM4alBS/09EhFa8
+
+Name: AndroidManifest.xml
+SHA1-Digest: x0O6xpIhe6J1ahS6YjDhs0a3jRE
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: xVdi6nuYSI6VHrw4pM1JFSBpZA0
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: 9SZBqWqmyKAvHaRSTmg5TTFQmuA
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: bYf4ojiV7Yq2wDzTgi9loavuzqY
+
+Name: res/drawable-hdpi/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: u01mcojvSXwFVY07cl5a7g7HX3M
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: aBnrtPpzagy3W5FgPgUF02NDZfU
+
+Name: res/drawable-xxhdpi/asusres_textfield_default_holo_dark.9.png
+SHA1-Digest: GEc7vzW7O7cHNw/muXDVXu5VS40
+
+Name: res/drawable-mdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: XM7feGbMa+T8EnwOVP4H5N5FDc0
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: B2+/t3epmh/3/an/Lzxmw8dxfOM
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: /mlNMxUaThmjJt0kA9KKQaRhTtM
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: h9xb/y1vTncbTrp8yIjn7eRoG/w
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: dcb8+D8BZ8w7AbXENMXJj/Ka6NU
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable/asusres_edit_text_holo_dark.xml
+SHA1-Digest: ykhn/9D2zpPK/UdeuC8kGXR55j8
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: gmU/asd/wKsho+a3IpIs+2ucir4
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: WPjPkEVnLmouPXHlWLI3QNGVC8g
+
+Name: res/drawable-xhdpi/asusres_btn_radio_on_holo_dark.png
+SHA1-Digest: llnJGaLagxTkXn9kt2ENrq9bq/8
+
+Name: res/layout/asusres_preference_category_holo_light.xml
+SHA1-Digest: Y/H5ysMRIXQdzoB3iMdBbnfJpeA
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: xVdi6nuYSI6VHrw4pM1JFSBpZA0
+
+Name: res/drawable-sw600dp-hdpi/asusres_textfield_strokes_activated_mt
+ rl.9.png
+SHA1-Digest: 7IrDh9w7z3i5Vyyg1SxvKpRUTA4
+
+Name: res/drawable/asusres_ic_clear_search_material_rog_dark.xml
+SHA1-Digest: YL05UPwPDIBmDfzKKhsCqX0ylCo
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: DCGcGigxxzhSEj0TxYZw2RJKk1U
+
+Name: res/layout-sw411dp/layout_overlay_screenshot.xml
+SHA1-Digest: Cy+ADJgxuS/1UmAzVWdR1CNs9c0
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: Uc3/sO6jnYFxZHAaxzsid/no+Ys
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: 5dZ80euBzLjyOfL5nwO7tJAlXNM
+
+Name: res/drawable/asus_app_ic_foreground_screenshot.xml
+SHA1-Digest: rjQHVO498dT8Iq1T9un23eDM4So
+
+Name: res/drawable-hdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: 1MBrvSwELCpRL3l+9gwM0RFwcyc
+
+Name: res/drawable-xxhdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: hSw3wjsfP06k5ZjGWbIOrodpgrA
+
+Name: res/layout/asusres_tab_indicator.xml
+SHA1-Digest: 80ZejslHTcZBnAYzuKffg1pUBWo
+
+Name: res/drawable-hdpi/asusres_spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: n4vVRtcprK9mZX/Qbn2i8RCBkWs
+
+Name: res/drawable-xhdpi/asusres_ic_menu_cut_holo_light.png
+SHA1-Digest: PNl/aZD9VGvfyThVzPI7Xk/UU90
+
+Name: res/drawable-mdpi/asusres_btn_default_normal_holo.9.png
+SHA1-Digest: JMhespma9lo/fa8jNoJ7bgy6XPE
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: 4VbcbhTRFFwumwwW1mEsnPT8VgY
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_moreoverflow_holo_light.png
+SHA1-Digest: zv/H5PytPXswc93+Rmx1+bSlXwk
+
+Name: res/layout/asusres_actionbar_searchview_divider_light.xml
+SHA1-Digest: KiwXijNZ11/yuvF3TTk/v0cn1E4
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: qpajR8hievNGRIZ7W/C1uWH7gT8
+
+Name: res/drawable-hdpi/common_full_open_on_phone.png
+SHA1-Digest: oq7YYqwYaTTP5b847OHU06mSxgA
+
+Name: res/drawable-mdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: uq/qJD7rKhkbpyPMvTOim2053KY
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: 2zvaKg7g10TLleLwxXosc7MlhDo
+
+Name: res/drawable/ic_asus_screenshot_bg_3.xml
+SHA1-Digest: imteQZpAWUyX7lXx3XFDj+5FivE
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_default_holo_light.9.png
+SHA1-Digest: Pcz/3i+Kr3nNwWGaOIYdys/Lp6A
+
+Name: res/drawable-hdpi/asusres_textfield_disabled_holo_light.9.png
+SHA1-Digest: eK0q0TnbJWC2x1Flly8HFqxAqIk
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_012.pn
+ g
+SHA1-Digest: 6tBd8CwxPguPrYYEyP8kUwiRlWk
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/color/asusres_button_textcolor_dark.xml
+SHA1-Digest: 5rx/rvGGID4faXK3Uc14JY+ATdw
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: 2i5SVgHYbSAUKWOTgk52ztML7ms
+
+Name: res/drawable-xhdpi/asusres_textfield_disabled_holo_light.9.png
+SHA1-Digest: rdLu932U3w4FRQPYY/zDsNwCLlA
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: xvH3+9y8HNviCPbOoz9lepKEFzA
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: hRKkwUimift1An4+T4HulB/TNPA
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: cldNzDc9v5lr+IWQKLZQVUKOXrk
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_36dp.png
+SHA1-Digest: eQQh5aeKM/AY05jkg1A1q1bCpQ8
+
+Name: res/drawable-hdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: BQnCRl78cwIwg5JXXaAxfCbxtGc
+
+Name: res/drawable-mdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: fEQf5V3gNx/9ttYRFSmiM61EY9c
+
+Name: res/drawable/asusres_permission_request_dialog_icon_bg.xml
+SHA1-Digest: 83LDrfnQw3TPkOC0nmzEH0S1qOc
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: FrsePpYpOvuNVlvpfbnteULj+98
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: IHvYX/g20bbUNlA3HVfHuVfU2os
+
+Name: res/drawable-xhdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: zHehQ+AOsJXR5ru5wS4I1iA50u8
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: hLDouoWL7HAYB0e4/tnvxihrDoc
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: OrbhNtnKQ9cOrwW24QjXgqplZxY
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: 4osstAEWplW5b2Ne6WqbgtdZt20
+
+Name: res/drawable-mdpi/asusres_btn_check_on_disable_holo_dark.png
+SHA1-Digest: saKTurmG5vmjggMU1JtC4t6N8/M
+
+Name: res/drawable-xxhdpi/asusres_textfield_default_holo_light.9.png
+SHA1-Digest: 1L7NztubN+Z23UFXG+yVXH1MlYE
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: zrxH/vgAPR009lyNRx78yoYriSc
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: fVWDV+rsrO7rxcZFUfmKYjRxZEs
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: YQVXegdUPGvpPHvsEO9EtpBXV0g
+
+Name: res/drawable/asusres_textfield_search_material_rog_light.xml
+SHA1-Digest: NitseIKSbaacWpF/ypSJzwJU4TY
+
+Name: res/drawable-mdpi/asusres_ic_menu_moreoverflow_holo_light.png
+SHA1-Digest: qxG0i5I6nvxtF0DMkF5ITfPzJKw
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: BShgmCB9r3vjFLZsy2GsJjQ8ZHg
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: znqrgW57bM3txjiuV+gCuwsgQ4g
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: /x3AbPnQbB3t69dVgY37+tz+m+c
+
+Name: res/color/asusres_secondary_material_light.xml
+SHA1-Digest: GqaW+PtAqMCi8aixoNNHMVkbutA
+
+Name: res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: n2t7IZLEWJnT0GlFsa5RwK7lKGk
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: yhJSvKTNqLejh9pHyU3GpGRjXSI
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: 7+3ZWYBJN6bjp8LVgfVbGqVYTdo
+
+Name: res/drawable-hdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: POyfH8dFoW0F8wRoJRyINhzqIuo
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: X7EjsyPyJl+3y18TOUXZNkAiLms
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: mqTuE1i/gH7kIxl5ftwkZkyxXV8
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: hQtmAy15HL7WsgHI1RRrRnplvaY
+
+Name: res/drawable-mdpi/common_google_signin_btn_text_dark_normal_back
+ ground.9.png
+SHA1-Digest: GFVBQFc3X/TAzzYFMLYTkURTyQ8
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: bpTVUSz0aou3zrEaucglq/aXVLU
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_on_disabled_holo_dark.png
+SHA1-Digest: HgglgR5fF9NYJNwgI10+Rx7yG6E
+
+Name: res/drawable-mdpi/asusres_btn_check_on_holo.png
+SHA1-Digest: RTRB1JaUvDPJTBDt02Rj3j1lk/0
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_48dp.png
+SHA1-Digest: vEJLmUKnbTQx7SdNZzIcFHWiueg
+
+Name: res/drawable/asusres_switch_background_material_light.xml
+SHA1-Digest: dWevEL4dxjCdXyq01vYetIS62PM
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: k4qYtW6bjSH29tggM0jg0U9dSDc
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: 4VbcbhTRFFwumwwW1mEsnPT8VgY
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: lCh3jbDWQHT/oizQK3WZ0vmgo3I
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: GDm7Gt53T8pgOnvCpBb010hydEE
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: cINHp+Bt3Nhuh5K9utGTW9r0Siw
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: Ehqa7vfKwYRvlyHI0vyGA0P/IVY
+
+Name: res/layout/asusres_preference_holo.xml
+SHA1-Digest: BMbtZaXg6kJplIZcIzQAr9MQo7I
+
+Name: res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: w3jIfB4ivh6zH+yzZuKu//D3goI
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: JnCifvQb5kEHU4naJo4wCv9/PlE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: 0KPZp6NoxOJ+9rtCbo9rG91akbk
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: RYFebqAWzthelitkFkfiXwfvuoQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: zHehQ+AOsJXR5ru5wS4I1iA50u8
+
+Name: res/drawable/asusres_spinner_background_material_rog_dark.xml
+SHA1-Digest: JHXq5qtFUKzKEUnBn/GmVeWLbSc
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: eaaohhqBCckAiGXk0OBcDk2u/Jo
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: iIRsE/MdAT4jmzqD5csDDFZKCtQ
+
+Name: res/drawable-xhdpi/asusres_btn_radio_off_disabled_holo_light.png
+SHA1-Digest: U64ooVKC1j41cZD5LlbRx3YEZXY
+
+Name: res/color/asusres_primary_material_light.xml
+SHA1-Digest: SD3sX+Lr8aboWpNqjp6ufm1vBsY
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: BzhvBeft2kMMmg4dwHk5bYQPZiw
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: iIRsE/MdAT4jmzqD5csDDFZKCtQ
+
+Name: res/drawable-hdpi/asusres_btn_radio_on_disabled_holo_dark.png
+SHA1-Digest: uaAyaMFO9VCNBysiFC5qahhsdSM
+
+Name: res/drawable-sw400dp-mdpi/asusres_textfield_strokes_activated_mt
+ rl.9.png
+SHA1-Digest: KAFTqZ6hEzniSjljOeFHDJzBHOk
+
+Name: res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: i3AN/o3LJoVLXD67fTL8ocimn2E
+
+Name: res/drawable-sw600dp-hdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: /fV31C0/c/FTadufJJ0tW07JrV0
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: LDrzvJAVfZh05ffn55gEjBv4TTg
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: QuIG9M1ntCTKwrAvAryrboaeWYM
+
+Name: res/layout/abc_cascading_menu_item_layout.xml
+SHA1-Digest: nQ0Qfl1W7DqgOxHWpx6zxKIFpqg
+
+Name: res/drawable/asusres_textfield_search_material_light.xml
+SHA1-Digest: ncSsoK/Vig9AqbDnkEp0R81g5sE
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: RW+ENTaQJbCZ+4dc1+utAi+6mcI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: +joD+5rytE9pd840ZHktfo2a9Ok
+
+Name: res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: GnQHgopmZcVc0gCuTpO72BC8WfA
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: tV9ZPr/7w40g1Eaw3Ncwwf/bRLE
+
+Name: res/drawable/gradient_color_ctrl_bar_bg.xml
+SHA1-Digest: B4MmopyY68eAobcepKpUHa/o5rk
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: LKaNRKSYXXya9TKy+EtioDiYkJY
+
+Name: res/drawable/asusres_list_divider_dark.xml
+SHA1-Digest: P81nXyoDG4S1HCmF6E1VsVYuqC4
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_011.pn
+ g
+SHA1-Digest: DUjXr21gU2VCcR/VBypGnKiiipo
+
+Name: res/drawable/ic_asus_screenshot_ic_delete.xml
+SHA1-Digest: 7WgYEZF0/Jhm4jSFbyC9JF/oE/U
+
+Name: res/drawable/ripple_btn_background.xml
+SHA1-Digest: Rv3RETP3Meg7rSrZDjwO48lK58A
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: 6tBd8CwxPguPrYYEyP8kUwiRlWk
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: j1EH1kDcZVyeejLgUOAEUfDTOrE
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: A68LSlDO32qliGd9SMvlFqslbac
+
+Name: res/drawable-ldrtl/asusres_list_divider_medium_icon_with_padding
+ _rog_dark.xml
+SHA1-Digest: 2IT6ledBqO+TgIEDF9FgfhZGb/s
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 2RTWjk+RWDmfgeNcHg0nZVgGHhI
+
+Name: res/drawable-sw540dp-xhdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: t0m0py4XG+av/4I8gEC5ia6k+p4
+
+Name: res/drawable-mdpi/abc_ic_star_black_36dp.png
+SHA1-Digest: b1A+49CQbTsiy08NW+AFfIZSj9w
+
+Name: res/drawable-xhdpi/asusres_expander_open_holo_dark.9.png
+SHA1-Digest: zriL5lzI/g5Bhrev5VI7e/KDqd0
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: XNxLofqEEIM2Ms90AWCOvn8f1e0
+
+Name: res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: mxPIPxC5eJ5IawxHNtpbpkKLvpw
+
+Name: res/drawable/asusres_expander_group_material_dark.xml
+SHA1-Digest: j3xns3PhYWRUd4XFeh13C+dtcPY
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_paste_holo_light.png
+SHA1-Digest: nOqp02L26t+XZ8p9AHLbe4t3DG4
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: qQruGIxCNOTyrOpEP3NOvS6TTjQ
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: b1vCB6thJkrBuFrorNiAcrR8EQQ
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_36dp.png
+SHA1-Digest: CmOteym4sNWBck2TyCjE7HD4plk
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: Hl+1DtcX1meIvqiznFZ09qkMtHI
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: 0pu/mHrrDQcsDA1kPYfpfwjoL0k
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: A263B/6qIo4B7+unrji6Ut+7XUE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: bI1FgmYaMUCcs6mF0AaLB6Zbe5A
+
+Name: res/anim/abc_tooltip_enter.xml
+SHA1-Digest: bwit5fFoRCMPzLgbMRNkEX0EBqQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: A7HbJCiFG7Hc4fdkCv32CpHwmk8
+
+Name: res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs
+
+Name: res/drawable-mdpi/asusres_expander_close_holo_light.9.png
+SHA1-Digest: TDh9DCz4vXA18U48MMOENQmQUpc
+
+Name: res/drawable-xxhdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: Ttj4Ojp5fjj5Q75qpXwKiFMwyfg
+
+Name: firebase-iid-interop.properties
+SHA1-Digest: yw7JpiLFQFanGy3+DENv/uNDKyI
+
+Name: res/drawable-xhdpi/asusres_expander_close_holo_open.9.png
+SHA1-Digest: Qx6x8pHdeScwyLG/mQYRBpqzbLI
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_textfield_strokes_activated_
+ mtrl.9.png
+SHA1-Digest: lizzD6rEDoCIlT7CW/RMoikbnOA
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: 17F2N9KIPEmz6klrBSo83JunFuE
+
+Name: res/drawable-mdpi/asusres_spinner_default_holo_light.9.png
+SHA1-Digest: ZTqUScGkesL7pIElZjTl1/2U5BQ
+
+Name: res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: L9+4buIjKx5vfOxyxB8vvbKmt3M
+
+Name: res/drawable-sw411dp/ic_asus_screenshot_ic_delete.xml
+SHA1-Digest: 7WgYEZF0/Jhm4jSFbyC9JF/oE/U
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: Ksxa7/Uq1G0vTVZKQrv9RUM01gM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_textfield_strokes_default_mt
+ rl.9.png
+SHA1-Digest: Ckkyn/Dq7h5JowIkXT+RCqEjlYQ
+
+Name: res/drawable-land-hdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: V/4rnk8E8fWQ6XlQDyhDo8/PChs
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: /i0tSdBwEot2CgZniic+pbTvOF0
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: QboonpWyQLWA9joXZmUCB9Swb9g
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_014.pn
+ g
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_off_holo_light.png
+SHA1-Digest: kQjcjPYggbJNVQzxvwcYZ5/ihlQ
+
+Name: res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: I3YSmk44nlPBqXPhCeiPGFYY+wU
+
+Name: res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: FA9EgD1hzzHOd/RdS9z1h32Nb2w
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: nKWvx+gPWKZR+7oc9sXsj2EpPKY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: l6inUNfHqAbYiXHchvln+j0/8pM
+
+Name: res/drawable-hdpi/googleg_disabled_color_18.png
+SHA1-Digest: hlnt60Dfc5NtZRHLV02uDuNyNhk
+
+Name: res/drawable/asusres_ic_menu_cut_material.xml
+SHA1-Digest: lkwv0R9HKZZbVHxu/AK7W7maD/Y
+
+Name: classes.dex
+SHA1-Digest: RXaHZrOrKpndXpXYdMprBPVG+2Q
+
+Name: res/drawable-mdpi/common_google_signin_btn_icon_dark_normal_back
+ ground.9.png
+SHA1-Digest: saZO9Ps971EGXdacYdBiQ1NAgek
+
+Name: res/drawable/asusres_scrubber_progress_horizontal_material_dark.
+ xml
+SHA1-Digest: xRAB1DbMYUgVnRHcza6G3wCoI30
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_default_holo_light.9.png
+SHA1-Digest: 45sXtyQqyP/Ou2cdVb0lu2xSX6w
+
+Name: res/drawable/asusres_bottom_navigation_background_dark.xml
+SHA1-Digest: s0nPC4SDGJC8U9dEBJF8E/9Avpw
+
+Name: res/drawable-xxhdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: A6vyaYqMbJRsp8Fhi0iDd3x5eLk
+
+Name: res/drawable-sw600dp-mdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: iwvF422GJgKzFDuzckFNyOablNo
+
+Name: res/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: tlbhDMsXZRxi3i2zSOW2Ylmm6lg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: UEbU0pEzYtrZRsThSBfUh1XMttU
+
+Name: res/drawable-xxhdpi/asusres_ic_ab_back_holo_dark_am.png
+SHA1-Digest: 4xFUjPsdoRJyU4BACVo3x4Q4fK8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_001.pn
+ g
+SHA1-Digest: P+xToJ4WEjIrsgFWn574JhDgG7k
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable/asusres_spinner_background_material_light.xml
+SHA1-Digest: VLKveOlntUu9NPNxW6LngOk8jIg
+
+Name: res/drawable/asusres_scrubber_progress_horizontal_holo_dark.xml
+SHA1-Digest: hfGZLwBB+kARYztmHFij8+jjzU0
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: BATuBjE7+Pj5UWSIIkc7DHVkv3Y
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_014.pn
+ g
+SHA1-Digest: hutU9v/qqReA6h6250DqcaUdcE8
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: ZWqYN3ADzPj4nrh9PSkrR7CgoQE
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: IlqlZQQJw5l8S5mCe12FC9qYEUI
+
+Name: res/drawable-xxhdpi/asusres_btn_default_normal_holo.9.png
+SHA1-Digest: MUjxMC1CMzmbnpzOIthFpkTYuHs
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: Jcy8zpWz2llwf9iSkZ7eZXvLvx4
+
+Name: res/drawable-mdpi/asusres_textfield_focused_holo_dark.9.png
+SHA1-Digest: vbWAhzLWBYbkowT3DJCzDEkkTVk
+
+Name: res/drawable-hdpi/asusres_expander_close_holo_dark.9.png
+SHA1-Digest: otn678t0Xi/GxVZDNx1tH+J70G8
+
+Name: res/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: /HIhwwGJjYpGLULlHuRkrdAlAXA
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: Cq2FH9YWHcjujYQWJUb9EeEA1LE
+
+Name: res/drawable-mdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: XfcvnIWpYM1tuLz9Q9xn3RDCtuA
+
+Name: res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MezqkUDSSwyEtAdRxKIWA4DGZCk
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: ZZpClH3SqFHX2JbC4JP7slZAwW0
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: UWWU9aFhXt2HTKHmtijjW8iQy+I
+
+Name: res/drawable/ic_asus_screenshot_ic_done.xml
+SHA1-Digest: 1DHAnccRdoJMDKjLdAvYohgd4io
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: vKnbfoCpyC3TDTKuXKcfp71FTeE
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: Gwqpu+t9YYt7m7NReTDgb4cjJ90
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: 0/VTfr8+/HT+kz0G3p3DW6h8ZWY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_005.pn
+ g
+SHA1-Digest: pGhTLBzYr/1WBODrSYqZtMQAe1E
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: k4qYtW6bjSH29tggM0jg0U9dSDc
+
+Name: res/drawable-sw411dp/ic_asus_screenshot_ic_share.xml
+SHA1-Digest: EsP59UU8x7S/LVj9jaJG0WyIaAc
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: 2yPpcabpELW8PPYqI7/TfdboUYk
+
+Name: res/drawable-xxhdpi/asusres_scrubber_control_disabled_holo.png
+SHA1-Digest: /Ank0A4LXD4zdtAol87lALhXpdg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: JQSOgZ/D2HA6kPNLguwjcA3jHwI
+
+Name: res/drawable/asusres_ic_preference_go.xml
+SHA1-Digest: 9fHDdy4LC0+kAyY/x7/MKIFN9YA
+
+Name: res/drawable/asusres_ic_ab_back_material.xml
+SHA1-Digest: yzLJMeuSAEGuvJjwGC+MdAIHZEQ
+
+Name: res/color/asusres_bottom_navigation_item_color_rog_dark.xml
+SHA1-Digest: UFiabhNpQps/+O0e3Qaqd9h8zW8
+
+Name: res/color/asusres_bottom_navigation_item_color_dark.xml
+SHA1-Digest: TF7zvVfXYTG+u3L3iIz6bpBosXw
+
+Name: play-services-tasks.properties
+SHA1-Digest: YPWE9OjtoD7Xk3LDxn8SanBA9cc
+
+Name: res/drawable-hdpi/asusres_btn_check_off_disabled_holo_dark.png
+SHA1-Digest: DVfPBbDfNx3yNjVIkxtK0sAIerM
+
+Name: res/drawable-xhdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA1-Digest: MIIOS76JbXB+sAkPUvepKa+vGWo
+
+Name: res/drawable/editor_ripple_effect.xml
+SHA1-Digest: N6cKwfUmyu/vD0KVProfL+seM+M
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: ASdc1phkKLMtCwQv6xbNJIwW15g
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: 7v8SkhjLAPb8ypGk+Kzzp5pPPd0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: hM4q7k/uT8KqI1XklZOxAF+V2Kk
+
+Name: res/drawable-sw600dp-hdpi/asusres_scrubber_control_stroke_mtrl.p
+ ng
+SHA1-Digest: nPuT/7utjKvotg2FijQwcJr+VZ4
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: pf5Ajr41MnzqppND6gSHoTPxReA
+
+Name: res/drawable/asusres_btn_check_material_anim_light.xml
+SHA1-Digest: vx4JbLjBfzkOsRqckwEFUwH/WUk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: KKnYsauxbaWrt0rySlU9DKaFZys
+
+Name: res/drawable-sw600dp-xhdpi/asusres_switch_thumb_strokes_mtrl.9.p
+ ng
+SHA1-Digest: 7+MJdiSIDDjaNh4cdRSdVcR/WEg
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: hQtmAy15HL7WsgHI1RRrRnplvaY
+
+Name: res/drawable-hdpi/asusres_spinner_disabled_holo_light.9.png
+SHA1-Digest: xaGveYvpprvUTvcPt6HA6T9PtNI
+
+Name: res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: FxjgXmDlWk8IXh70BdYxQtmnSF8
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: p8UZKbECTk1nXES1hkD/62vlkGI
+
+Name: res/drawable/circle_btn_extend.xml
+SHA1-Digest: PpJWk0KsBNQEFZ4lIaVjhKXmJ1I
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: gIUjEDL7Gwm0QIv0D8257xFLywo
+
+Name: res/drawable-xhdpi/asusres_scrubber_track_holo_light.9.png
+SHA1-Digest: 8WErGuJXDSfzV73cWo0FhI9FpNg
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: oHc9CtY0K0JbgP3Sd8eaLBK+JDQ
+
+Name: res/drawable-hdpi/asusres_ic_menu_paste_holo_light.png
+SHA1-Digest: YGKCgD9nGiSRjrwUlduZ6hNEPvU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: eaaohhqBCckAiGXk0OBcDk2u/Jo
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: Rfsgcq80xg8bFHFCh0m1hSazCLU
+
+Name: res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: lcJn8kD6MOEj3AFqwpcH1+zJpIY
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: P/z6/IAaxNtJpG2kRiV8uOSFHcw
+
+Name: res/drawable/asusres_list_divider_small_icon_with_padding_dark.x
+ ml
+SHA1-Digest: JLqI/u3nXcBgBgEcqLnGzMazReI
+
+Name: res/drawable-mdpi/asusres_scrubber_control_normal_holo.png
+SHA1-Digest: aqJ7LKOtB/huZXcuRB8KFmYiVG0
+
+Name: res/drawable/asusres_switch_inner_material_light.xml
+SHA1-Digest: zQeRJC8wRr/p+DUHBRlvshicj44
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: /Cd6CsA6hHUAE01jCZqbOp0+s38
+
+Name: res/drawable-xhdpi/abc_ic_star_black_48dp.png
+SHA1-Digest: vtDPk0TLYBBzQxoTuzAY/w1SkPE
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: 9d3MEztxAX67q1+POTnKXzq8knE
+
+Name: res/drawable/ic_asus_tips_reverse_triangle.xml
+SHA1-Digest: FH9mkAjj4qi3Pg77R+n34bD3YwE
+
+Name: res/drawable/asusres_scrubber_control_selector_material_dark.xml
+SHA1-Digest: IGr5UbVZd67nBa1kGjIprCzNBDE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: TLEwSIQpTcLpnQdWMa1MTsMz2HQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: hUosinlUrVSlidOwwUayyhGaews
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: YenjAkvtsRIG7q3Q9Vf3kqo3ZZ0
+
+Name: res/drawable/asusres_scrubber_progress_horizontal_holo_light.xml
+SHA1-Digest: NeyRQqzLJhKCj14mZuE0HqJklLQ
+
+Name: res/drawable/asusres_btn_default_material_light.xml
+SHA1-Digest: AzSA3eJhYODorNQJjJUd82bg32U
+
+Name: res/drawable-mdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: DZtTdMWhYMA9K9K46dN/YScnp3c
+
+Name: res/drawable-hdpi/asusres_spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: qQx171aKpPPYDbnqsooDrUmPw48
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA1-Digest: aubSq+ofS5AZJqNyiAhMv/qFfVk
+
+Name: res/drawable-xhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: eXpHsKhUWPFOZPkKlLFLqd2Bu4c
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: LGelMHhYlFRUhXKTYFDrCkLiWps
+
+Name: res/drawable-xxhdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: ewygT7B+zhbqiai8s6J/LtCdeQ8
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: QWl9ukNOsbAWZ/zq7hLU4KHiXus
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: Dj72f7qg941lxiCI6HvtdYpHMlE
+
+Name: res/drawable-xhdpi/asusres_textfield_focused_holo_dark.9.png
+SHA1-Digest: cViw1yQUMJ5LfBnaOU4LRmNxg8c
+
+Name: res/drawable-hdpi/asusres_ic_ab_back_holo_light_am.png
+SHA1-Digest: atcjpRzEyjR8TqnCjI0oX5Mc8Uc
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: wey10W+3gCfWMmqeQXh5otIkb7c
+
+Name: res/drawable/asusres_spinner_background_holo_dark.xml
+SHA1-Digest: B9SvTD0lClDhFUFKBLv2Rghibzc
+
+Name: res/drawable-sw411dp/ic_asus_screenshot_ic_edit.xml
+SHA1-Digest: R3uqbsFRK4LN2qhfONTpFddmZ14
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: UrhpyuO+Yh+EC8mCK2cmg+++AtQ
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: SeQsFgw4mxlTY/15E1Q3p7Mi+Zo
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: UEbU0pEzYtrZRsThSBfUh1XMttU
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: kURPQHJw9rRZIJOyIH7Xb/YnWY4
+
+Name: res/drawable-hdpi/asusres_textfield_strokes_default_mtrl.9.png
+SHA1-Digest: sni17Kbmcy7PBrgOJcJq/M/K0W8
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_48dp.png
+SHA1-Digest: XWFKBQbHNFDN4EvD+/bGkwMMO48
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: Cm8unb0U18q2t+rrUfb9hMX/Ke0
+
+Name: res/anim/anim_editor_out2.xml
+SHA1-Digest: vS8Tc0eM5KXlamij2q+0EkEVgnI
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: HHOdBP6iysLuvjNq5JBJydnLnMg
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: 2zraU1PWshJi4HLp/QEXz8lTv+Y
+
+Name: firebase-iid.properties
+SHA1-Digest: 2pipZrhgrxdajOqD1NLhpv/Ykn8
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_switch_thumb_strokes_mtrl.9.pn
+ g
+SHA1-Digest: ZxGy3GjDEjE65vYfXViBNf1TJ00
+
+Name: res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: 5a/32w4mGMTN/vMpUHN1mSA3jro
+
+Name: res/drawable-mdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: TfLYFX/WJIZrp5S0WJthkA2Tc2I
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_011.pn
+ g
+SHA1-Digest: bLppjXKI13aCFhpIukSVbkj0geM
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: 7adj3wHhJBsC0axw1fNPeFGwM3I
+
+Name: res/drawable-xxhdpi/abc_ic_star_half_black_36dp.png
+SHA1-Digest: x4uhEofK76crzXsenEFuLL5XoSk
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: Zy25ufx5kvMLp/hHlEC+IUWiiFQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: DRXJE/RMq3VfBrtgOPL9H7d+iss
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: Cq2FH9YWHcjujYQWJUb9EeEA1LE
+
+Name: res/drawable/asusres_searchview_divider_ab_dark.xml
+SHA1-Digest: 9hbYLaUbMPnFLYMid39Kf47WXjk
+
+Name: res/drawable-hdpi/asusres_ic_menu_moreoverflow_holo_light.png
+SHA1-Digest: L+WY8kaUTN748+TGMQzlQm2D/N0
+
+Name: res/layout/mosaic_panel.xml
+SHA1-Digest: uK6j5PiRsMLvf17QdL599gRbHnE
+
+Name: res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: myu4A8u9T/lfeRKxcmgMaRHa8I0
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: xL/YAaW3qD/Qmo78x48wAEvYgIE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: boWTxlyXTDUzBhVhImp8Cs1wTHQ
+
+Name: res/drawable-ldrtl/asusres_list_divider_small_icon_with_padding_
+ dark.xml
+SHA1-Digest: pHSWUGyGdSWf8Pshq9bu5+63UO4
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: s/oEoMsQdxw9nAWzbeno8gh8kUk
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: G7U3Edg6VKiHxAnmsBSMgGvzO9g
+
+Name: res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: iiuC1oMc22/RFffIWnlRhVpMTZg
+
+Name: res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: A2BhFvRaquOoxnaNY6Ct0RyDB+0
+
+Name: res/drawable-sw540dp-xhdpi/asusres_switch_thumb_strokes_mtrl.9.p
+ ng
+SHA1-Digest: 7+MJdiSIDDjaNh4cdRSdVcR/WEg
+
+Name: res/drawable-hdpi/asusres_textfield_strokes_activated_mtrl.9.png
+SHA1-Digest: 7IrDh9w7z3i5Vyyg1SxvKpRUTA4
+
+Name: res/drawable-hdpi/asusres_ic_ab_back_holo_dark_am.png
+SHA1-Digest: fBTMS5R6cKdWdpPQq9EoMUmyg4k
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_007.pn
+ g
+SHA1-Digest: zOuAGEYEu2pGaCDwcuGIJN5EBm4
+
+Name: res/drawable-xhdpi/asusres_textfield_default_holo_light.9.png
+SHA1-Digest: yWP7mXGti/+3+4MckWt/RxbRFno
+
+Name: res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: VOGru/bFrfIpDMpSmMBkRFWnAk8
+
+Name: res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: /dcXrhcoTacpJtH5lNwjpjK5LdA
+
+Name: res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 9GVtakZbkFTmghbikDK4zXzyXfQ
+
+Name: res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: g1/pDMcNrukTcoZUVqlPrpEKUro
+
+Name: res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal_bac
+ kground.9.png
+SHA1-Digest: uRjdM6/svI0JUklyQPoW+p7Gzu0
+
+Name: res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: jCrVIn6TZSBBmTQ+SRZN15voWsw
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: 4Nqh8BS3PmJN43YPWbNFbhYmjm8
+
+Name: res/drawable-xxhdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: yIcBY3BvHs1cchkShA+CS/IBoe0
+
+Name: res/drawable-sw600dp-mdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: qRMuz4TG40MV2b3834DsIQdJX+M
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: UB4s4eA/FGmbc5ZsViG1SOSw0GM
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: pr2JvyCMzxfjCOfrtXUNPUB2dQk
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: fnYRexAJpntLZ0QGKgar44k1EIQ
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: dG+jlNkQpmX05TJaCw2siJ+8dfk
+
+Name: res/drawable-hdpi/asusres_btn_check_off_holo_dark.png
+SHA1-Digest: 4Lb1qwcJ0GLe69mk8onda9qHQlM
+
+Name: res/drawable-xhdpi/common_google_signin_btn_text_light_normal_ba
+ ckground.9.png
+SHA1-Digest: +PDzJb9RgCNG0GEWAofhtCia40Y
+
+Name: res/drawable-mdpi/asusres_scrubber_control_disabled_holo.png
+SHA1-Digest: 3NwyCr+1DDcc/0puZwxg8e0wUVE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: Ksxa7/Uq1G0vTVZKQrv9RUM01gM
+
+Name: res/drawable/asusres_ic_go_search_api_material.xml
+SHA1-Digest: eotXnRQYnsN2Cj6OLMyRWKf3Gds
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: IRjFNlJQWR1wxCa+R1NkSUW85f0
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: ZRpWO2/GGV3jeJ8WAMTtAj3sfCo
+
+Name: res/drawable-xhdpi/asusres_textfield_strokes_activated_mtrl.9.pn
+ g
+SHA1-Digest: QHcsy+YopvayuQFa5inZ4eBvPhA
+
+Name: res/drawable/ic_stat_notify_image.xml
+SHA1-Digest: Bp2/4Kdxrx9kM2Kn+QFbKDB0B+U
+
+Name: res/drawable-hdpi/asusres_spinner_default_holo_dark.9.png
+SHA1-Digest: wdgbjwwQMiqzN+tTgeq6ZQygMlU
+
+Name: res/drawable-xhdpi/asusres_ic_menu_paste_holo_dark.png
+SHA1-Digest: kLssWxy9e4p1VTqL6SYeRrb9oVg
+
+Name: res/drawable-mdpi/abc_ic_star_black_16dp.png
+SHA1-Digest: qXZN1JuLYJ37Wy2MtWuKWX7mwnM
+
+Name: res/drawable-hdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: UCjwPeZkwrk2c4E4zzx1+eZhOYk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: wIM5w/bcmRGREM6TNfFg+t7r5c8
+
+Name: res/drawable-hdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: aaLIoSnup0HkdRthQVze8fr6Gss
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jvBFoaEliTx3SIKazSWCuF4AqfQ
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: KdytSUcw7gSWM8JZXOTmkhAb3Dk
+
+Name: res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: kBzxOXvE4kVgkw/9U8Bs2SOMEAc
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: cSYh2iRF/Q9ZW4ljR76BFpICZ2o
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-xhdpi/asusres_ic_menu_selectall_holo_light.png
+SHA1-Digest: 4TuCuazHxSn7N13V/YJMXzf1aos
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: sKIbP63FRzIzrOul2zpthmEDtng
+
+Name: res/layout-watch/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: JPbawOlycpHmFv+qlVwGno64GJM
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: rF4lxQV9eIUdIfdsPy+O+bDqjeQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: mqTuE1i/gH7kIxl5ftwkZkyxXV8
+
+Name: res/drawable/asusres_btn_borderless_material_rog_dark.xml
+SHA1-Digest: i8GwWl77dUNAgL6k9GVsn8bE4tY
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: ocoPD96OVHPYmsBY+R2WooWxf2w
+
+Name: res/drawable/ic_asus_screenshot_bg_1.xml
+SHA1-Digest: DKR1NZrkASFBHZFAXRz9EqH+AVQ
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: GoFsKtGwemESGVOogHvGAkl8Mwk
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 1Ui+F76JKWCGL6W0jcmi9XdxmJU
+
+Name: res/drawable-xxhdpi/asusres_btn_check_off_holo_dark.png
+SHA1-Digest: vhhk0EWiSPD93QscO5CGPPxh3rg
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: x5JJJf1eVSjw4K/gtQqC2SOuq+0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: JXn+hSocsvhVb4slsaeTAFxf1ak
+
+Name: res/layout-land/asusres_permission_request_full_page_layout.xml
+SHA1-Digest: AjRyZ6SQYMGvo8PE3qN8SgpnwEY
+
+Name: res/drawable-xhdpi/asusres_btn_radio_off_holo_light.png
+SHA1-Digest: ic8BuyAzrSO6oXx33OaSzYDgntQ
+
+Name: res/drawable/asusres_switch_inner_material_dark.xml
+SHA1-Digest: tOpTNDwU/IA1SRwbitOe3jmMRLM
+
+Name: res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: jaWedGWrccy2jh9xnm9NUBEu+NQ
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: 3o1a2eyQGAnLD+wnv6WV1744xw0
+
+Name: res/drawable-hdpi/asusres_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: 0RcGWwzYZFd+rBBFOx+ZckiSO2U
+
+Name: res/drawable-ldrtl/asusres_list_divider_small_icon_with_padding_
+ light.xml
+SHA1-Digest: xT3rNPjfstCLBu+1WSIh5mabfNI
+
+Name: res/drawable/asusres_bottom_navigation_divider_light.xml
+SHA1-Digest: o/lBorO9qqQLJkFSs4d92htPQAM
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: YppBxCgkDETbDqCRJkkzGxsLIBs
+
+Name: res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: fxBcFBzow7JR0uBZ+mssvFuku9I
+
+Name: res/drawable/editor_ic_text.xml
+SHA1-Digest: VJ9am3AYm/YnwzfUBSIE/UeUS/k
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: OPOwetzeKO4N5izfgMWTjZrGNhg
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: 5wtToFbV/aUnkadQlPs4jWMe2ls
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: jZplRuGP8H6Cd+ClJv6n8lHUG0Y
+
+Name: res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: a7GtxsJpR8txQPV7OFrmp/CrN7Y
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: r05cvVBaXPnKDEiy1+W8eKNfwBg
+
+Name: res/drawable-mdpi/googleg_standard_color_18.png
+SHA1-Digest: tA1Zrbl7FxLpwYDQ9Sv1bxdk+w0
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: kWw5Vq4VC+LLhFETDjpR+ohxplo
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: iBzABAVB/V5AL7wgBw3dgWVM9UQ
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: W7xtSQezOxLCwcapJCts2fWz9wE
+
+Name: res/drawable-mdpi/asusres_textfield_default_holo_dark.9.png
+SHA1-Digest: VmMmf1Wh7ZLbE3dJApk3ps4mmcQ
+
+Name: res/drawable/asusres_list_divider_small_icon_with_padding_rog_da
+ rk.xml
+SHA1-Digest: HYKqOTybijzHbPajYEdcBj2dye0
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: PyDrk0IpzPzJQZgSGBcy0FSK/ws
+
+Name: res/drawable/asusres_ic_sms_permission_request_dialog.xml
+SHA1-Digest: WVWKWrW/SHgnaJ1Vxxr/OKY4/0o
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 93axpnjwyy4TaRuiG8MtWiMTAEY
+
+Name: res/drawable/asusres_cn_preference_category_background_material.
+ xml
+SHA1-Digest: AkIYCchxYDKr9h1Ymgfd6refGHs
+
+Name: res/drawable-sw540dp-xhdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: DRXJE/RMq3VfBrtgOPL9H7d+iss
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: CWa15KwDQGcp+Bq47VHRPraugMY
+
+Name: res/drawable-hdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: Ud8EiFC9VOOrBnHlmqRohMWuVoc
+
+Name: res/drawable-xxhdpi/asusres_btn_check_on_disabled_holo_light.png
+SHA1-Digest: Twim8EG471e0kPJDChRlno+ex20
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_003.pn
+ g
+SHA1-Digest: eVmjRoyJJdMz4yzuxHGM43kEtpo
+
+Name: res/drawable-xhdpi/asusres_btn_radio_on_disable_holo_light.png
+SHA1-Digest: xCkvHurPxowfjVEYK/kr9vYaSmE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: os4ZTgJua5mhlezsCTLJCZ0Y1z0
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: svFUtfiGRBs+uvH2ZrOgLgrV9vU
+
+Name: res/drawable-hdpi/asusres_expander_open_holo_dark.9.png
+SHA1-Digest: 8mFDyTUIDeJyBsoNlI0nxVU8ojI
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: vkiNFNc9Gh+2j85PF58PIqDaChQ
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_16dp.png
+SHA1-Digest: tQfP7jA/eugBgDBn+L4XOyd+OSU
+
+Name: res/drawable-mdpi/asusres_btn_default_disabled_holo_light.9.png
+SHA1-Digest: A3aqPLpklhgeYayRa0dxPWR6SO4
+
+Name: res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: Gsx0FVAx0FS5iLSV24zMlbGJEpI
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: RYFebqAWzthelitkFkfiXwfvuoQ
+
+Name: res/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: L2WqBhLIwQj8AHigkhWuxaM0ERM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: l6inUNfHqAbYiXHchvln+j0/8pM
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: fEQf5V3gNx/9ttYRFSmiM61EY9c
+
+Name: res/drawable-xxhdpi/asusres_textfield_strokes_activated_mtrl.9.p
+ ng
+SHA1-Digest: lizzD6rEDoCIlT7CW/RMoikbnOA
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: HHsFY+So7AT3Bf2XVvvzwV7RlTE
+
+Name: res/drawable/asusres_btn_default_material_dark.xml
+SHA1-Digest: YkTBbgHL5fDTr0t4I/ZufRPQIrs
+
+Name: res/drawable-hdpi/asusres_textfield_default_holo_light.9.png
+SHA1-Digest: oobNUQrE/58VCx0m2ObH+NOjDP4
+
+Name: res/drawable/asusres_btn_radio_holo_dark.xml
+SHA1-Digest: WsShHl/RjZjkgOecPnMoONu3BNM
+
+Name: res/drawable-xhdpi/common_google_signin_btn_text_dark_normal_bac
+ kground.9.png
+SHA1-Digest: Xmp6CrrkedneIC8gXRMRR8wBFVw
+
+Name: res/drawable-night/asusres_dialog_background_material.xml
+SHA1-Digest: zui4iCYjyic4MtQS62pjev4jxyw
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: HHsFY+So7AT3Bf2XVvvzwV7RlTE
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: tRUCXv0gqIJP354jiTxWWRSskaI
+
+Name: res/drawable/asusres_ic_clear_search_api_disabled_material.xml
+SHA1-Digest: T/ZauDpQNynaE2pSw0wuNw3aNDQ
+
+Name: res/drawable-xhdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: r8tngSxxvsdsWzMruMchsbwSEds
+
+Name: res/layout/asusres_preference_category_material.xml
+SHA1-Digest: 1ufM779o3oD0dFp05ZateppjLGc
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: WJlDw6YDZNWGnKVAX0A6d+GK948
+
+Name: res/drawable/asusres_ic_menu_selectall_material.xml
+SHA1-Digest: 8Am0Zztdo++0qMAJG6L3OZzDkck
+
+Name: res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: MhP2e4zt8+WjIw5c3c5H98Svn98
+
+Name: res/drawable-hdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: 7BqjXPOV7gpNT7vQ5RNPqig4HQE
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: k0COOStHbZqJd3mZcTz1aJNqRoU
+
+Name: res/drawable-xhdpi/asusres_scrubber_control_stroke_mtrl.png
+SHA1-Digest: o8RiCFr1DT2uQZpFwyHqPWWsqe8
+
+Name: res/drawable-mdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: hcESoV6oB6nrMEuucMLW4vSxhfU
+
+Name: res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: ETYiz5Fr7CDzRd1OeXdRPbcHmIQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: 1KoQzxKxyXmPzQ/Kp3fyH9V14Wk
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jbksHsfh6Niyf70u84UgYzK8ACY
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: ivWW1g3pijkXJcBNK1tGfEz7VOo
+
+Name: res/drawable-sw600dp-hdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: j47FdCy/W1uTx8ze3JVXm7I9M4A
+
+Name: res/drawable/asusres_switch_control_background_material_dark.xml
+SHA1-Digest: 92zAqbDP1Jv6ofVXMttJJtQ7Rv0
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: 4o2R0h/w6EEFO/XXyEAzl8iLx3M
+
+Name: res/drawable-sw600dp-hdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: Ud8EiFC9VOOrBnHlmqRohMWuVoc
+
+Name: res/drawable/editor_ic_rectangle.xml
+SHA1-Digest: +37DhxAngxtHjXncENsWYCdlQrk
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: cwN9m9Ljg1nESaVNFZWylZubl38
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: TAPyFMkodO43ip4AvL+PmMKclBo
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: NydBArOuRsZnztaivKX1twUMFhk
+
+Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk
+
+Name: res/drawable-hdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: Fj400gAeTvwRD/HsecGYDmDL/L0
+
+Name: res/drawable-mdpi/asusres_scrubber_primary_holo.9.png
+SHA1-Digest: 9PrtHA0U6jWkFR/OfrgGeyCBuJ8
+
+Name: res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: Mb10wVzyCfJZeFrZBwSAIQ2lNEc
+
+Name: res/drawable/asusres_list_divider_medium_icon_with_padding_dark.
+ xml
+SHA1-Digest: R1r032Njtn7CG3ddRMjnSM8sUZo
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: BFDQxa6AhPctWmiG/kMU7vukfws
+
+Name: res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: rN5JNKDujDks9haoqD0zZGgU2r0
+
+Name: res/color/asusres_button_textcolor_light.xml
+SHA1-Digest: ZtNa5zNKzHnAXH0yxxfO988QQRk
+
+Name: res/drawable/editor_ic_mosaic3.xml
+SHA1-Digest: GwBgK0xla5vn0tMb032XRzV8XW4
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: aH7v5WfyIwIGKLoWnPfYoqEc4GM
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: VvGCvMqXWVhRzGglG9dtOVv7LSU
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: xmlFUAEJv57bqk+poKzBk1yJ/N8
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: YUc359K5uaEcyhLdFAEq5NjXqNE
+
+Name: res/drawable-mdpi/asusres_expander_open_holo_dark.9.png
+SHA1-Digest: lc3ic1jpzR3mOUb50Yrj0YpK/i8
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: dxbx4B8sB83Fn8VDs3wb1keI5K0
+
+Name: res/drawable-xhdpi/asusres_scrubber_control_normal_holo.png
+SHA1-Digest: fIFrbfqHsutZJle53xXgqndo48o
+
+Name: res/drawable-hdpi/abc_ic_star_black_48dp.png
+SHA1-Digest: PHk61zRqf6D0+NgV5DAowumKYDM
+
+Name: res/drawable-xxhdpi/asusres_btn_check_on_disabled_holo_dark.png
+SHA1-Digest: 4hwmaOOk+hfymDeXatWDPvykBoI
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: FeMIYYFnnP+FJVkgGlB8rszG2+Q
+
+Name: res/drawable-mdpi/asusres_btn_check_off_disabled_holo_light.png
+SHA1-Digest: TBw3MqD8FTK8M3WvlTLgYgtKa9M
+
+Name: res/drawable-xhdpi/asusres_btn_default_normal_holo.9.png
+SHA1-Digest: 5gyosAgZkAkyajih+UgC0bZHG8M
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: EnoR1wNUez6BQyA3Mo4A2zbiE/w
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: rxZl1IDlH0XJUbFDUGXdU/yWZNc
+
+Name: res/drawable-xxhdpi/asusres_textfield_focused_holo_light.9.png
+SHA1-Digest: lRvsCwBVOA54PkH7deB1Mhe/K3w
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: 1y7thLQU5RHKpQaPE2yJP9aY5Do
+
+Name: res/drawable-xhdpi/asusres_btn_radio_on_holo.png
+SHA1-Digest: okog23T5klPcLn1WI5Pf8kCVJCs
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: pGhTLBzYr/1WBODrSYqZtMQAe1E
+
+Name: res/drawable-hdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: UHxfZfOA3Iy60KW8vg4whdNOM1U
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_001.pn
+ g
+SHA1-Digest: 9d3MEztxAX67q1+POTnKXzq8knE
+
+Name: res/layout-watch/abc_alert_dialog_title_material.xml
+SHA1-Digest: XSDyziizd18AnUL1X/pgQH+4Nc8
+
+Name: res/drawable-hdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: 7+vMVFCc6EoQj/CTyH5cTuoSJa4
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: uFAiOUIWoZqITfun/CvMhjV5+ZA
+
+Name: res/drawable-mdpi/asusres_btn_radio_off_holo_dark.png
+SHA1-Digest: 7aVJxlVCs2J7CFYTnwV1n4rJcek
+
+Name: res/drawable-sw600dp-hdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: 1MBrvSwELCpRL3l+9gwM0RFwcyc
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: 9N1kh5yrnHHr7mRKBkl63BcljvE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: 3oTrd/aIKf11HgbIbgvf5ld56XE
+
+Name: res/drawable-hdpi/asusres_expander_close_holo_light.9.png
+SHA1-Digest: 7+vMVFCc6EoQj/CTyH5cTuoSJa4
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: hSw3wjsfP06k5ZjGWbIOrodpgrA
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: gVZY2tYM6EcgHw/lljdR0VIQvI8
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: b6dZ4UOnOnMsa67dvN2jcZzLFmQ
+
+Name: res/drawable-hdpi/asusres_btn_radio_off_disabled_holo_dark.png
+SHA1-Digest: LrUB08OyyI3JmEe0IU86HBErHbo
+
+Name: res/drawable/asusres_scrubber_progress_horizontal_material_light
+ .xml
+SHA1-Digest: lRQD52wROVhC1o3Xoz8Q7mtz21U
+
+Name: res/drawable-sw540dp-xhdpi/asusres_textfield_strokes_default_mtr
+ l.9.png
+SHA1-Digest: yA2BD0R+swBlBJnL2clY7EuSPmU
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: owqYC4M1kqs45/PSQTowx0UQt2o
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_005.pn
+ g
+SHA1-Digest: eC8FLU2QrYYCxL8garuDV5U7Z+M
+
+Name: res/layout/activity_screenshot_editor.xml
+SHA1-Digest: MxU/7Oa7WnsUFWEpJ+2ZBVqVLiY
+
+Name: res/drawable-mdpi/asusres_switch_thumb_strokes_mtrl.9.png
+SHA1-Digest: ZxGy3GjDEjE65vYfXViBNf1TJ00
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: aFn4BH9apHk3XTsyMkVi0YwVM/8
+
+Name: res/drawable-hdpi/asusres_scrubber_track_holo_light.9.png
+SHA1-Digest: 7/ZlF6uuoKIojnerba8TNgW625A
+
+Name: firebase-common.properties
+SHA1-Digest: UsRRCu+d/HMkJGT6OSQvaUXxlh4
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: lDsTi//d3U0BLl6JJu+QDs6XfCE
+
+Name: res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 742V0njnuDcWLDQvYG+Tmh0W43g
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: /40+Tt2Ic80W2kGXAKOinRiaoJA
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: B+LN4m7EPtstP2cNwZV2pcz3In0
+
+Name: res/drawable-mdpi/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: Pxe7w4aULrnrFcOkUlAKzzeDXts
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: t4jJ5FGH8V114TJAk5GNX8FekhA
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: PXXhP4+AXdHOSMY/CFuRaSVMa0k
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: 5mamsywLG4mFMBPC43j5uMwof1c
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_on_holo.png
+SHA1-Digest: ZOjMoqovCRPzszBzcxVHbOQgCPI
+
+Name: res/layout-sw411dp/layout_overlay_crop.xml
+SHA1-Digest: K+Kd2LA7rMb0sqFXU9sXh6Ch/SM
+
+Name: res/drawable/asusres_btn_radio_holo_light.xml
+SHA1-Digest: /k/y3gBJLmRUTPt5fBF6LiRLcH8
+
+Name: res/drawable-mdpi/asusres_spinner_default_holo_dark.9.png
+SHA1-Digest: 5A6zUbV28njtpIavgTDbvW8PtoE
+
+Name: res/drawable-xhdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: t0m0py4XG+av/4I8gEC5ia6k+p4
+
+Name: res/drawable/editor_ic_oval.xml
+SHA1-Digest: mnkRGHNuQEZOlgwEp9VF6UxeAfQ
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: tnYsTpe15xmgo/l/jlCzSX1ouDk
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: qsmei36EpK8+7q/rLn3ue3FwKH0
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: n5YF9eYkB/EljwYz93toZfpNW7I
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: quXAi94THcTNA5m1bJ0uAF8epwc
+
+Name: res/drawable-sw600dp-hdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: Lr4gfyn0l1U1gphOe62Hcz+FBRU
+
+Name: res/drawable/asusres_ic_menu_moreoverflow_material.xml
+SHA1-Digest: f7n+Wsv1f+4alP13uRYWG799NyE
+
+Name: res/drawable/asusres_scrubber_bg_ripple_material.xml
+SHA1-Digest: JuSJPpmIXhhiix0Oodf+Tg5fkA8
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_pressed_holo.9.png
+SHA1-Digest: dBVuDFQ+ZE4IRXnSd4wrREBVxCw
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable/asusres_bottom_navigation_divider_rog_dark.xml
+SHA1-Digest: iYK2xL4jA90rucp/wE8CxdMKeMc
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: v+kZNeevIVG6ZLdkAt7E58zpOeY
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: Na3z1X258TLt5kkwCGG/G6po7O4
+
+Name: res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.
+ png
+SHA1-Digest: 75ZUXU//cZSOZPRPgWzgSAecZtg
+
+Name: res/drawable/asusres_searchview_divider_ab_light.xml
+SHA1-Digest: 1us1K+6OZ9PjXGP3cKQ+ivFujow
+
+Name: res/drawable/asusres_textfield_search_material_dark.xml
+SHA1-Digest: uHDewe98vr8vwF7YqONWWLs+2As
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: eC8FLU2QrYYCxL8garuDV5U7Z+M
+
+Name: res/drawable-mdpi/abc_ic_star_black_48dp.png
+SHA1-Digest: TnhZoMoFP0WZ5LAuQsFxNCmLjoI
+
+Name: res/drawable-xhdpi/asusres_ic_menu_selectall_holo_dark.png
+SHA1-Digest: 3wIJDxcJcAYyhsZzC1tv1k203fc
+
+Name: res/drawable-mdpi/asusres_btn_check_off_holo_light.png
+SHA1-Digest: fgGGWvmSfVY4fJJfBD/6JnRd2CE
+
+Name: res/drawable-sw540dp-xhdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: 7sBauk5L4pQdCDIaYDyUrhN+RDI
+
+Name: res/drawable-xhdpi/abc_list_focused_holo.9.png
+SHA1-Digest: UIgeGr2nL9ZJkBKbZUeaRF7tVuw
+
+Name: res/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA1-Digest: hUn9aTRWU4lRSsdZe8nW1pwCeZg
+
+Name: res/drawable-mdpi/asusres_btn_radio_off_disabled_holo_dark.png
+SHA1-Digest: wTg+yUoYg75OVwvPr/mQpj/K2zM
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: RcvqtNOv4zj+ZSzD/QHl+wp4X1k
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: p3uWWVYYj62chSVNhfTMGyeRnjw
+
+Name: res/drawable-hdpi/abc_ic_star_black_16dp.png
+SHA1-Digest: JMhA1uehQ/dgzPwMY81jQJFvmlo
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: sGIH2jFHi8E0zJmOD+5c5OYbaH0
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: qiME2t/icJwhjLYHW4uYSV9UaWc
+
+Name: res/drawable-mdpi/asusres_btn_radio_off_holo_light.png
+SHA1-Digest: twY0c3JhcyDxfmIlKABJbHLDbyc
+
+Name: res/drawable-hdpi/asusres_btn_default_pressed_holo.9.png
+SHA1-Digest: YZvMvwru9NNm6oh32sjkf38k7jI
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: Zcm8IHP2RP8jh6SjMBmR3Hrh1Pk
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: Z+t3HQ6t4cHfBscsLb+DJ8oQoS4
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: LA+rLNzGvB+2e49ELls/t7Ffc1c
+
+Name: res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: yIDju9bITqrouyRmtVkYHyG6of4
+
+Name: res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 1pW9dciiErH5/1CobcWOB5eiymM
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: FVH8fNaOjolIvYJNDebWFpb6lIQ
+
+Name: res/drawable-hdpi/common_google_signin_btn_text_light_normal_bac
+ kground.9.png
+SHA1-Digest: C7fs3EW+p0lY3O/+3vHH2Y5P+5o
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: 2HTE5TKSX2tJyosWLZL0P0SPkFI
+
+Name: res/drawable/editor_ic_mosaic5.xml
+SHA1-Digest: fZR/Fj4pWo+qCZSsPbu9i63Rc7I
+
+Name: res/drawable-xxhdpi/googleg_disabled_color_18.png
+SHA1-Digest: SnPGdnIDgCp0sOBibA6ZKWY6cxI
+
+Name: res/drawable/asusres_ic_commit_search_api_material.xml
+SHA1-Digest: GDKs6O46ktRh5Q3MIfJ76O7C4iE
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: tzKyBHHUOzEQJv/wg6W4VgR9sPM
+
+Name: res/drawable-hdpi/asusres_btn_check_on_disable_holo_light.png
+SHA1-Digest: oLwSFk0jZWvxpJYE5nf/3CAln/w
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: Sc6/TStbN9KdSrYTtMLEtVSe4oo
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: oBxUAzZsMX+htluQm4jqoBDkebU
+
+Name: res/drawable/asusres_bottom_navigation_background_rog_dark.xml
+SHA1-Digest: A2Q8Mv56Q+fHaXcSjVPAQ27Dd7c
+
+Name: res/drawable-xhdpi/asusres_spinner_disabled_holo_dark.9.png
+SHA1-Digest: xNE4nsT920uRk4cw6FO8PbowbHc
+
+Name: res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: CB65OtWm3GcLNGo2UhSWEf+ctYU
+
+Name: res/drawable-hdpi/asusres_textfield_disabled_holo_dark.9.png
+SHA1-Digest: rXVd7Rj+mwk5LPAqTVzGI3N0vu4
+
+Name: res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: r5N3gxi8IOsZQJVrj9Gd5WeJ17w
+
+Name: res/layout/asusres_floating_button_remove_layout.xml
+SHA1-Digest: SX7n6iV/FYB8dFhBmGK61qDqOHI
+
+Name: res/layout-sw411dp-land/layout_overlay_screenshot.xml
+SHA1-Digest: Cy+ADJgxuS/1UmAzVWdR1CNs9c0
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: oSE4hRrVjJYZ1u5le23q534JxHc
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: jzChwHhOSFFvqAedw2+gSxTyelI
+
+Name: res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal_ba
+ ckground.9.png
+SHA1-Digest: sg5GZdUVZHfUnBAP6hz2RwG7Ve0
+
+Name: res/drawable-xhdpi/asusres_btn_default_pressed_holo.9.png
+SHA1-Digest: ChVbvJlwtgBplRIaIgByA36w4q8
+
+Name: res/drawable/editor_ic_arrow.xml
+SHA1-Digest: 7b21lNQy/aqOPV7WUHp9dE1EMJE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_003.pn
+ g
+SHA1-Digest: QFcB5bmxTrKIeTfZu6W3nmTVxz4
+
+Name: res/drawable-hdpi/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: oFmDfFLUd2+3/jvwnOlqU/YJO/k
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: KJm/mcDNFOme4BvdVkVmjA82HHk
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: vzPIpIh2ClMetYDJ+80vHxCk6+c
+
+Name: res/drawable-xhdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: F+gz5Rjq174KBznHDsOGg3+tGkc
+
+Name: res/drawable-xhdpi/asusres_spinner_default_holo_light.9.png
+SHA1-Digest: DAYTwcqH8Wxx2HQo268Xlw5RVZg
+
+Name: res/drawable/notification_action_background.xml
+SHA1-Digest: RansUANhqOOmK7xGh3+JCOD+xPU
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_default_normal_storkes_mtr
+ l.9.png
+SHA1-Digest: 3SO80gMHGTzIOE+q77YaFU76HdQ
+
+Name: res/anim/anim_capture_in.xml
+SHA1-Digest: GnypQY+CKAWTt6MH5aXpLYPMStY
+
+Name: res/drawable-sw600dp-mdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: DthwjgiP9SLq4Fiws6LD1IO9lTk
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: w56jJ0TcelHyY0DmghGu6l68C2Y
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: Ik3t57QAttysM1PVaREbAa3dHf4
+
+Name: res/drawable/editor_text_edit_overlay.xml
+SHA1-Digest: MHeuLzfi5dMR+Bp4aCOYoWAcS64
+
+Name: res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA1-Digest: 1tz4r+eO/0D/N9ReCij6yKbIDqY
+
+Name: res/drawable-sw411dp/ic_asus_screenshot_ic_extend.xml
+SHA1-Digest: lQ2QF9FzUTktIzqa5NyLWn8MjNk
+
+Name: res/drawable-sw400dp-xhdpi/asusres_textfield_strokes_default_mtr
+ l.9.png
+SHA1-Digest: isLpu/D8sPRfXx5T/gUJkcgV+fA
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: JS1L6U1NCjpn9QZVVccphgIujW8
+
+Name: res/drawable-mdpi/asusres_ic_menu_copy_holo_light.png
+SHA1-Digest: S7/xtTO5hVD/iKrO6jAAStHfF9M
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_007.pn
+ g
+SHA1-Digest: UPwe5eJBrQ/BiSlikqfvMSUFv28
+
+Name: res/drawable/asusres_scrubber_progress_horizontal_material_rog_d
+ ark.xml
+SHA1-Digest: HO5/akVqbm7VRCTMRTYipBlYhIQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: kfYlnMC2KwHv2s0/xDlGqDwfdFY
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: FzoqhvcgH8aiq5hPkO36I+asr2s
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: /cWIZ8KLK2i4ZylsOceF8QMKQEc
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: TplHwRPCLNLSsmXAPEkNqHNLIMk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: fnDKfDQuDFFaRr+ow9x6tPuGJRo
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: Qhq7htYEM3TKaDbLsJkKzkRPSQk
+
+Name: res/layout-h600dp/asusres_permission_request_full_page_layout.xm
+ l
+SHA1-Digest: wWQZjy8lya6HEFiRqI2CrEKvbkY
+
+Name: res/drawable/editor_text_done.xml
+SHA1-Digest: hxi0vQQH77k46K4Cz3GXHBoqmng
+
+Name: res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA1-Digest: 9RrbdrpJSVV3RkMNbwbs6GaQQQM
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: p8oejf0AbN+7VBqXWCsCt0KpCyc
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: MDa1LxREjehyXn01Lycfo08Ly0o
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: cwN9m9Ljg1nESaVNFZWylZubl38
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: UPwe5eJBrQ/BiSlikqfvMSUFv28
+
+Name: res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: uV0Q36xfPyCC5Bt31O+d82qGeS0
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable/editor_ic_line.xml
+SHA1-Digest: x2C5Vcrlujktgb56AxHMIbKIHMQ
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: QFcB5bmxTrKIeTfZu6W3nmTVxz4
+
+Name: res/drawable-xhdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: DM7OUD5e/TuT6BXlznvhKBKmLUw
+
+Name: res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: fVwihT1iMOU821Ub8jx9en9c/iE
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: 7ZV9lKwhU/5SRDL8g40p64jVcXk
+
+Name: play-services-stats.properties
+SHA1-Digest: znsiO5CaOr9yfziwuRNjQUCSUIU
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: 0kRD1rtrUUItf/SVed0rjx3BtRA
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: he/G7X+3bOG0y442nv2RL/13NZs
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 89U+YB4RmhC6STD4GJKNfQL3VRo
+
+Name: res/drawable-sw600dp-hdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: 7+vMVFCc6EoQj/CTyH5cTuoSJa4
+
+Name: res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: /fZrl3LEkeC2bEc9IkCxA7gMT8M
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: P0GU9V0zk1JypdhCTTKrZ2RxFcc
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: AEmVm/n9skXUNKBIpLytlgJ+nKA
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: tiMPmckPmjXvrcI8XRi0nLgie4w
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: 9ULY7/LXUAd7C9u9aixzvsC1Wso
+
+Name: res/drawable/asusres_ic_aser_ruler_permission_request_dialog.xml
+SHA1-Digest: b3xHz2w2PISPfzQ4scStsF73x5E
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: 1y7thLQU5RHKpQaPE2yJP9aY5Do
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_default_normal_storkes_mt
+ rl.9.png
+SHA1-Digest: WXVp11jEvbJyQae0Xd3BayASKe8
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_default_holo_dark.9.png
+SHA1-Digest: bAJuBVXiVZQPLsWnZJpodQkKXlY
+
+Name: res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: uwtujS37M0lKfSyD9LqBAQ/dE5o
+
+Name: res/drawable-mdpi/asusres_ic_menu_cut_holo_light.png
+SHA1-Digest: ksPqeFLkL/TNNJLxj3XTAUOtqhM
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: UrhpyuO+Yh+EC8mCK2cmg+++AtQ
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_36dp.png
+SHA1-Digest: qD2rSpTDKYbHqQcK0Y0u6l8S2vg
+
+Name: res/layout/layout_overlay_screenshot.xml
+SHA1-Digest: fcq9PRijqcEZ7pG3y4JYgCtGRZ8
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: /Swu0Nt+zBOgUtk23edv7tyuEmc
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: OBTFbpubXqrw1qBw48C8A2GvbtM
+
+Name: res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: LNLXvmySKOfF2Lp1gubWDFlQbbs
+
+Name: res/drawable/asusres_btn_default_shape_material_dark.xml
+SHA1-Digest: kmVFlC+JythSVQNHzOexZjq0AKQ
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: K+XNF5ef3gFhI9W5D6O75GOgTfA
+
+Name: res/drawable-mdpi/asusres_expander_open_holo_light.9.png
+SHA1-Digest: qRMuz4TG40MV2b3834DsIQdJX+M
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: u01mcojvSXwFVY07cl5a7g7HX3M
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: h0CE8ckUnR9sQAG1w45SKpVoo0o
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: bLppjXKI13aCFhpIukSVbkj0geM
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: usStt3JfeAqzHnTI63Gyy4xYZ+g
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: CPZvPNUl0u6+LYSUwjv68oSgc84
+
+Name: res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: eH6eDNIa1/ooEsceQt56yMkT97M
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: 4gajkk/wsin4o3hdmjoPfwOQ3gw
+
+Name: res/drawable-ldrtl/asusres_list_divider_medium_icon_with_padding
+ _dark.xml
+SHA1-Digest: vj5slBBeUYDQ5vm9B/wUcuu2UyY
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_copy_holo_dark.png
+SHA1-Digest: L17Udj6JhZ3l4T/8N1ueyZf0vGM
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: E1a4aY6OHs5PcjtoaYVc5BSc+zg
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_008.pn
+ g
+SHA1-Digest: jNclATNbF2dg3OkjDVRNPmVl6k4
+
+Name: res/drawable-sw411dp/ic_asus_screenshot_ic_done.xml
+SHA1-Digest: 1DHAnccRdoJMDKjLdAvYohgd4io
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_selectall_holo_light.png
+SHA1-Digest: o8Z1+2/ti+F9+cjV6XZynozDcYI
+
+Name: res/drawable-xhdpi/asusres_scrubber_primary_holo.9.png
+SHA1-Digest: 2Z9wGHvGKT4uKn2BuCT+MEHsjgc
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_cut_holo_light.png
+SHA1-Digest: YZw/7CpbrXGdhYiQXWiuwG4jGa0
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: b1vCB6thJkrBuFrorNiAcrR8EQQ
+
+Name: res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: PAPt6rYwoDObcyvNqJzvsvJ0sJs
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: /MNrjgp2wOZ9SZ9jWRGzk1+YPmk
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: 0KPZp6NoxOJ+9rtCbo9rG91akbk
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: +KP6IxDDZPXyTpZnsPiNZ8bzg0c
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: tJNe/P+Bqxry5hmus0ohMDtzBOM
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: JL+TuCPNdNRHRihRFYzxYilugGE
+
+Name: res/drawable-sw600dp-mdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: XfcvnIWpYM1tuLz9Q9xn3RDCtuA
+
+Name: res/drawable-sw600dp-xxxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: Ut8+EEiqcFuyyS5dAHqv8ulMY8I
+
+Name: res/drawable-mdpi/asusres_btn_default_pressed_holo.9.png
+SHA1-Digest: Cfo2koO+GhNP5fA+fBZuolt3oLo
+
+Name: res/drawable-xhdpi/asusres_btn_check_on_disable_holo_dark.png
+SHA1-Digest: uC9II/6ZCXhvUzluUan0Q31pU/Q
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QJargT3DLQ4Gy85UQDAzUVSgJ+4
+
+Name: res/drawable/asusres_drawer_item_light.xml
+SHA1-Digest: PiXBnVxJ1OXF/qSE1cCz5MTtgSQ
+
+Name: res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: BThLLp17+JqkYPih55u/EvaE6MQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: iWw2WPvHs0h5LgRRxoVttWisGak
+
+Name: res/drawable/asusres_drawer_list_divider_light.xml
+SHA1-Digest: /isG8FEvOL5cy1MCIBkBSFP+zFo
+
+Name: res/drawable/ic_asus_ic_tips_close.xml
+SHA1-Digest: B4kFWXEB5vxaAIIV4AAlkqPsQEs
+
+Name: res/xml/accessibilityservice.xml
+SHA1-Digest: 7Dv182sY//GnDgmwV3u/LiC7KKI
+
+Name: res/drawable/asusres_expander_group_material_light.xml
+SHA1-Digest: 6nCUUsu1UeNwXmOVRtlTFU761Hg
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: 2rRtjo5lPzdf/pi2inFY9KABe/U
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_off_disabled_holo_dark.png
+SHA1-Digest: 9E8cz2ZoVbByVN6CM8GNHbshrTI
+
+Name: res/drawable-xxhdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: QboonpWyQLWA9joXZmUCB9Swb9g
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: 2yPpcabpELW8PPYqI7/TfdboUYk
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: OPXRBGgjYSJyOmb1wgc4hauUGlk
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: BbKD0kvBNGTWrxwzgWb/vBGLfCQ
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: WPjPkEVnLmouPXHlWLI3QNGVC8g
+
+Name: res/drawable-ldrtl/asusres_list_divider_big_icon_with_padding_ro
+ g_dark.xml
+SHA1-Digest: mXUeShXKL7VJqGVVINUI1HZkit8
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: VvGCvMqXWVhRzGglG9dtOVv7LSU
+
+Name: res/drawable/asusres_spinner_ab_background_material_dark.xml
+SHA1-Digest: fKCdwcZGde9e0BgCjhNfHkQ50HE
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_off_disabled_holo_light.pn
+ g
+SHA1-Digest: KLitLEOgaUZ/xKrkmNLmSPeSD74
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: 4osstAEWplW5b2Ne6WqbgtdZt20
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: DWs8rJxzl1jbh5Whi/3an67RbBI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: tYHWKUhO96njpA/eQz7e1itRYz8
+
+Name: res/drawable-hdpi/asusres_expander_open_holo_light.9.png
+SHA1-Digest: 7BqjXPOV7gpNT7vQ5RNPqig4HQE
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: FVH8fNaOjolIvYJNDebWFpb6lIQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: /i0tSdBwEot2CgZniic+pbTvOF0
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: bpTVUSz0aou3zrEaucglq/aXVLU
+
+Name: res/drawable-xxhdpi/asusres_textfield_focused_holo_dark.9.png
+SHA1-Digest: 88Ik2+iJjQWMcuXly5pMufFOFlM
+
+Name: res/drawable-sw540dp-xhdpi/asusres_textfield_strokes_activated_m
+ trl.9.png
+SHA1-Digest: QHcsy+YopvayuQFa5inZ4eBvPhA
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: qbkVDl9VN4hHVEYRkmScXv91zt8
+
+Name: res/drawable-hdpi/asusres_textfield_default_holo_dark.9.png
+SHA1-Digest: v5WAPYBfTen1Xjt/V0f44l968ss
+
+Name: res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: VjE2eabrk4F617tH1QobPdbUeN0
+
+Name: res/drawable-sw600dp-mdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: UDrSXqvK7iP8jr68SIg3K9kAuac
+
+Name: res/drawable/asusres_btn_default_material_rog_dark.xml
+SHA1-Digest: D5sf3DBl4FP2GycP/rEbSDM1n5s
+
+Name: res/drawable/ic_asus_screenshot_ic_share.xml
+SHA1-Digest: EsP59UU8x7S/LVj9jaJG0WyIaAc
+
+Name: play-services-measurement-base.properties
+SHA1-Digest: PUT+/AV1umIP2oukEFdBY1uA06Y
+
+Name: res/drawable/asusres_btn_radio_material_anim_rog_dark.xml
+SHA1-Digest: GFmUAyrYtzoSY40KHzoQlbdK2wE
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: cINHp+Bt3Nhuh5K9utGTW9r0Siw
+
+Name: res/drawable-sw400dp-xxhdpi/asusres_textfield_strokes_default_mt
+ rl.9.png
+SHA1-Digest: JmCEYm2NqIKfErGrWG0pkTykJyE
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: vTxWNK3O4mf1C6Z5BvtP1ijKyUc
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: b6dZ4UOnOnMsa67dvN2jcZzLFmQ
+
+Name: res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: KAyhOpJ6WVZzbhwng4bdTLaav7I
+
+Name: res/drawable-hdpi/asusres_btn_default_disabled_holo_light.9.png
+SHA1-Digest: FiEPKMDkBNpcz5v7Yg4JVAN85iA
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: BkbowEsSnyUA/dwd5oL/S1tlNZc
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: igBUPk68xy9nHETBgyOVwhDjZio
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: j3GMLpdPUMtFHMS/0kc4IvpWk3E
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_48dp.png
+SHA1-Digest: qD2rSpTDKYbHqQcK0Y0u6l8S2vg
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: sylhQt8GF2aKCIvWcH+w3kdl8IQ
+
+Name: res/drawable-xxhdpi/asusres_spinner_disabled_holo_dark.9.png
+SHA1-Digest: HrbVdT/bp4vLXO7X2KQiNrxiEYA
+
+Name: res/drawable/asusres_scrubber_control_selector_holo_light.xml
+SHA1-Digest: xA0KOVidso54eH1QjShOHa2mo40
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA1-Digest: g+abVuqpT1qSxrHVQY2dH2gCEUw
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: rjjpg9Fh1z89EdbMkglCTatuGI8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: ewygT7B+zhbqiai8s6J/LtCdeQ8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 3ppSsyEPgHZTUwvz3VgrMO++4yc
+
+Name: res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: EbXYgwFCFLuR9lmXgtVklnerCeg
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: ysYOOC6Q+nibGG4o3indGJqKk1s
+
+Name: firebase-core.properties
+SHA1-Digest: rni1sOebaLEKp8Nidx1v8cdXgPc
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: B+LN4m7EPtstP2cNwZV2pcz3In0
+
+Name: res/drawable-mdpi/asusres_ic_menu_copy_holo_dark.png
+SHA1-Digest: 5Fdvlu4wSlsC62Etg4TS6aFuH64
+
+Name: res/drawable/editor_menu_share.xml
+SHA1-Digest: Ro9hLf3w6kfAGu1b+JtV6n38FXo
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: F+CNUK/2gX+BrYIBR8cYupc4yvY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: sBiZTbSujO9FROEksOFDO8o8b7I
+
+Name: res/drawable/circle_btn_done.xml
+SHA1-Digest: +SGJWET2wvpc1KxH1fpEnOpxDQ0
+
+Name: res/drawable-hdpi/asusres_scrubber_track_holo_dark.9.png
+SHA1-Digest: gqsxR/8twAmiv3q1pixVjk/As88
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: m+H1rP0kTMSqngdu3f9/pg5TK6w
+
+Name: res/drawable-mdpi/asusres_textfield_focused_holo_light.9.png
+SHA1-Digest: gRTO8LtKNw4DeNg41T171H6PHJQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 8EfQ8iGdO/t4oN4ZCooxp9X1XnE
+
+Name: res/drawable-xhdpi/asusres_btn_default_normal_storkes_mtrl.9.png
+SHA1-Digest: MreIZtRM4ks126ae9gbWgoWwNQE
+
+Name: res/drawable-hdpi/asusres_btn_check_off_holo_light.png
+SHA1-Digest: Y1R0WpQJ0qRzeseFd/aPvkEvqDw
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: Uc3/sO6jnYFxZHAaxzsid/no+Ys
+
+Name: res/layout/layout_overlay_crop.xml
+SHA1-Digest: K+Kd2LA7rMb0sqFXU9sXh6Ch/SM
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: SfiLec/4DOb5nzozkKdAqf7/5fw
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: krEbusrGeef2xn3FKt+J06cC/sU
+
+Name: res/drawable-xhdpi/asusres_btn_check_off_disabled_holo_light.png
+SHA1-Digest: I+aviUdtVfjkM1Ez8L+WBO+2djU
+
+Name: res/drawable/editor_ic_pen.xml
+SHA1-Digest: UxUx6vjVB5mFU5goWcG5RT/XmGg
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: Sw9LpgFewM6laurmcWHiBXh9+/M
+
+Name: res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: sHjCOODQbVNalJgorF4P0Z++VcM
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: uFQXZwfv7vVp6gYc5TVnNnRXUX8
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: tT97trKKu8W6K+UE7ngLhWKENGs
+
+Name: res/color/asusres_btn_borderless_text_material_dark.xml
+SHA1-Digest: 112ko/DAoqQTKmvc+WgVL77O/dU
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: IllfjjDBoLvF2MPZDp7iL2PdZqk
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: diGkrX3GF7Qo0ecS58QenyejDgQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: 1y7thLQU5RHKpQaPE2yJP9aY5Do
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-hdpi/asusres_ic_menu_paste_holo_dark.png
+SHA1-Digest: Dr+n/Fe98tUyqk9TZp+qzGjq5DY
+
+Name: res/drawable/asusres_ic_clear_search_api_material.xml
+SHA1-Digest: wauN2Zect5fgBB0s6fBnC1WitxQ
+
+Name: res/layout/asusres_preference_material.xml
+SHA1-Digest: LnduDS0wEZrm6sgocNt8Cs8AH8U
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: DPBWlJ8k1abh5jUaVsTs+AdtlCc
+
+Name: res/drawable-xxhdpi/abc_list_focused_holo.9.png
+SHA1-Digest: +qrg5JLwKTHh9qNrwZi6DH39Lvw
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: FyXoVF9+w5VNZO7aoayY101qAg8
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: tH6m+qpVqfbGOTrmqxphW7TqbRc
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: 7o/NOgjfJBhCz4SCoaagzdlNy6c
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: G7U3Edg6VKiHxAnmsBSMgGvzO9g
+
+Name: res/drawable/editor_menu_save.xml
+SHA1-Digest: o7jJ0uX/kkA8YG8FwVmTNynz3aQ
+
+Name: res/drawable-hdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: 19tDQavKpCvimTDeswyVhS+geiw
+
+Name: res/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: mvqNG7zcFCFOLiK/SruQWx0c0dA
+
+Name: res/drawable-xhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: /GRzW9hZ2ScQzjoCSbFY+M1YMo4
+
+Name: res/drawable-xhdpi/asusres_expander_close_holo_light.9.png
+SHA1-Digest: IyTPuiKL/V5l2T0OLAHpJ7W5wLQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: fKJS+tOFeWl9XEPz+6e1I9Fw9Ps
+
+Name: res/drawable-xhdpi/asusres_btn_radio_on_disable_holo_dark.png
+SHA1-Digest: yGnyQSobL6kuL+O8Uk+wUyVLD+k
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: 4A3hhhlaaDnW7Uzr8aTkjxfrtvA
+
+Name: res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: X660+VPfIOOp1HI/+qk9/k6yvd8
+
+Name: res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: W4MJFz3vxHZ3uyM6PwMBevMyRKs
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: fnYRexAJpntLZ0QGKgar44k1EIQ
+
+Name: res/drawable-mdpi/asusres_ic_menu_paste_holo_dark.png
+SHA1-Digest: WgtEVx9MrOx6P9uX2KW0Rc3RyDI
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: b8qA7W14IIsu2X8r4jMC/HDWzHk
+
+Name: play-services-ads-identifier.properties
+SHA1-Digest: gnXkzhcfw9RuzCgXluNWR1PoUsc
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_36dp.png
+SHA1-Digest: rB+NghVyOANUI2YjJaOG6NGuPfE
+
+Name: res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs
+
+Name: res/drawable-mdpi/asusres_ic_menu_moreoverflow_holo_dark.png
+SHA1-Digest: AdSL9EtLANxdTF1nGYNbJSfaZxc
+
+Name: res/drawable/asusres_btn_default_shape_material_rog_light.xml
+SHA1-Digest: Fb3TuLTcNkn9XMI6wE2J7dTe2b0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: mmeVSIYlLKweAHo9h1wBMHCue5s
+
+Name: res/drawable-sw540dp-xhdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: r8tngSxxvsdsWzMruMchsbwSEds
+
+Name: res/drawable-mdpi/asusres_scrubber_track_holo_dark.9.png
+SHA1-Digest: OK/uu7kh3jyvz3j5vSTmb20OGQ4
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: he/G7X+3bOG0y442nv2RL/13NZs
+
+Name: res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: fQHZQyGml4JDOqavNeOBUdAEQAU
+
+Name: res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: qJcUMqyqINyIMt4rlGIQj4WjvuE
+
+Name: res/drawable/editor_ctl_rotate.xml
+SHA1-Digest: zN/irodaUitTza+9ZFdTw28hwLI
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: 45V89hF7umArCkAOPwyUuvZxtGU
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_pressed_holo.9.png
+SHA1-Digest: SFrQGTMhGKf0B7xNDpOQ6s2SbLk
+
+Name: res/color/asusres_tab_indicator_text_material.xml
+SHA1-Digest: CAPrJ5miHGlkHbf4r4cZVZYZDOw
+
+Name: res/drawable-mdpi/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: FYJhyqbL++NCfZ8sb/hL49kkkcg
+
+Name: res/drawable-mdpi/asusres_btn_radio_on_disabled_holo_dark.png
+SHA1-Digest: VKfgU3v9HhcEplUBvOplPrzMdO0
+
+Name: res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: t2jYCio7knk15jtrBfpoHXZRaSU
+
+Name: res/drawable-mdpi/asusres_spinner_disabled_holo_light.9.png
+SHA1-Digest: f81DVoPHY38tMfBEurZO0bNhs/c
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: fBDF7HyzCa11UHPUNTSUS+Fq7ec
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: VUSXVHnnX+NlPFp/L3wBAborL+k
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: FHXHywxwuwSvU2JdPN5TZrusP0s
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: RRbZR9cMS2f5OKbfBLDJno18fmk
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_scrubber_control_stroke_mtrl
+ .png
+SHA1-Digest: WR1miym66Qo0vZrD4UkeT9YlFok
+
+Name: res/drawable/asusres_btn_default_material_rog_light.xml
+SHA1-Digest: fqR+Z7WbsQKVvGqhBpD+ljpg0Mc
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: NiGZYst3oXWOO9/r1dj/6R+m/mQ
+
+Name: res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: SBEYcM7QRDZwT5WiXDnt0BBXOsg
+
+Name: res/drawable/editor_ic_mosaic2.xml
+SHA1-Digest: t2RKJOK8DZnzoW7HwjX0r47pMXc
+
+Name: res/drawable-sw600dp-xhdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: t0m0py4XG+av/4I8gEC5ia6k+p4
+
+Name: res/layout/asusres_simple_list_item_2.xml
+SHA1-Digest: 69o/Jl9qoxaWY8wVGHUzzbi/nI8
+
+Name: res/drawable-mdpi/asusres_textfield_default_holo_light.9.png
+SHA1-Digest: HWbTmY0GbNzyeNZzdubrv5y37BQ
+
+Name: res/drawable-mdpi/asusres_textfield_disabled_holo_dark.9.png
+SHA1-Digest: lUs2kvsNRxGKT/u5pCpxPmdg4fQ
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: yDUlKfOKePkl4PRHSnK16KM1iZE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: kfYlnMC2KwHv2s0/xDlGqDwfdFY
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: +joD+5rytE9pd840ZHktfo2a9Ok
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: W7xtSQezOxLCwcapJCts2fWz9wE
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: 7YsnsNwpnj0y4kI/9tjYpEGFsZs
+
+Name: res/color/abc_color_highlight_material.xml
+SHA1-Digest: yhQJe6+1vOtDu3GTvJG0vZNEXYg
+
+Name: res/drawable-mdpi/asusres_ic_menu_cut_holo_dark.png
+SHA1-Digest: uzpmejZvidEcjqtp73NpnRbwkK4
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: JSEnCpFRYAdYG6CXBNmqhd1mtWQ
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: BkLuPDSGprQlEI0kZDl+eMnGHK8
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: fQITkW+HICSdUUTFfPSdwcQ/gEg
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: YenjAkvtsRIG7q3Q9Vf3kqo3ZZ0
+
+Name: res/layout/asusres_bottom_sheet_dialog_title_bar.xml
+SHA1-Digest: /92OFDReMPxuGtHwtv3BYvTA6UM
+
+Name: res/drawable-mdpi/asusres_btn_default_normal_storkes_mtrl.9.png
+SHA1-Digest: 3SO80gMHGTzIOE+q77YaFU76HdQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: Uy4FZq0/9pAc+eh+v/B+c4PUvgA
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: onQr3OhBjhNgem1AEPb6HPa2tPo
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: YmP0Q2IrSd6Fx+zuDBC/aZtOsYo
+
+Name: res/drawable/ic_asus_tips_floating_bg.xml
+SHA1-Digest: XCspcEb3KEY4gbWs+7Onjgi9m34
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: 2zvaKg7g10TLleLwxXosc7MlhDo
+
+Name: res/drawable-xxhdpi/asusres_scrubber_track_holo_dark.9.png
+SHA1-Digest: F89d8nv+2F0jQe8YW5HjxJxTJPA
+
+Name: res/drawable-xxhdpi/asusres_btn_check_off_holo_light.png
+SHA1-Digest: prB353yBmycVH31JQ40fYKmyH0M
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_010.pn
+ g
+SHA1-Digest: JnCifvQb5kEHU4naJo4wCv9/PlE
+
+Name: res/drawable-sw600dp-xhdpi/asusres_scrubber_control_stroke_mtrl.
+ png
+SHA1-Digest: o8RiCFr1DT2uQZpFwyHqPWWsqe8
+
+Name: res/drawable-sw600dp-mdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: TDh9DCz4vXA18U48MMOENQmQUpc
+
+Name: res/drawable-watch/abc_dialog_material_background.xml
+SHA1-Digest: hY+uvTVt215v95lqdwJwINIftQY
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: r9K3/7jA0/HI3A2Zb4mlUJ4x/cg
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: Y+g9Juu0+yITOfq0vSaoAZYmZ8o
+
+Name: res/drawable/asusres_btn_borderless_material_shape.xml
+SHA1-Digest: mTG88YZyxhFPmrpKebHuabyVGtU
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: 9mrxZ0Dde/HdRLQy8JrHYd7VT/w
+
+Name: res/xml/global_tracker.xml
+SHA1-Digest: h6fc/04ABtpvs+oQHs2xw1Wq3Qs
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: W3dM12/296r/j6AORePQIaTE5po
+
+Name: res/drawable-xxhdpi/asusres_btn_default_pressed_holo.9.png
+SHA1-Digest: TF6GYZkHE1TXWR+hr1iItH/mXSc
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: PcwIbdsUo1LQp/UmH2B65u/SaRU
+
+Name: res/drawable/asusres_ic_done_material.xml
+SHA1-Digest: f42XLeoA2s0PMGy/QIcMzJAbFIU
+
+Name: res/xml/file_path.xml
+SHA1-Digest: BlTqHk/v72pvPwEXNd2gryaXJ8M
+
+Name: res/drawable-xxhdpi/asusres_spinner_default_holo_dark.9.png
+SHA1-Digest: x2CrQtg6/Sbb3lGeopr14kVq4+s
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable-xhdpi/asusres_spinner_ab_disabled_holo_light.9.png
+SHA1-Digest: eVoQRZrWuSTn3gN1NlC0Gc89AfU
+
+Name: res/drawable-hdpi/asusres_spinner_default_holo_light.9.png
+SHA1-Digest: Alg1ZDH8b5jTzsMFjQZivmAN7c4
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: 0pu/mHrrDQcsDA1kPYfpfwjoL0k
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: +xwcaRvrNHI15bbl4taptfkoSPQ
+
+Name: res/drawable/ic_asus_screenshot_bg_2.xml
+SHA1-Digest: VyTcl0L4xz1QdHYgJW4pjwIYNME
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: W3dM12/296r/j6AORePQIaTE5po
+
+Name: res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: EwfaG2r9Y+WFrcU430zatEJ2UMM
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_off_holo_dark.png
+SHA1-Digest: Ott5f0dGQc42eDCH+HNmyzaPLnQ
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_013.pn
+ g
+SHA1-Digest: +IRaB9U+ZxRm2WuoSJmaCxC5ij8
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: gE9FofqofBVmmfvWuiQAXlrVsck
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: pPXAk5nt3CACx3jCpy9nkRkC5X0
+
+Name: res/drawable/asusres_switch_background_material_dark.xml
+SHA1-Digest: yeerdNwwU4sAxlnWtYNecxwl5NA
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: A6vyaYqMbJRsp8Fhi0iDd3x5eLk
+
+Name: res/drawable-mdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: y9WOZkiOg+XuozVvV6e/6hWjoMk
+
+Name: res/drawable/asusres_btn_floating_remove_bg.xml
+SHA1-Digest: KxVE7adb3L3Md+P6YTfSgHvuoL8
+
+Name: res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 0nreQ9JGT21y6H3wmDG6m1vmNdE
+
+Name: res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: TCxvpLUr5BRzq6IwlRTywX3GEpM
+
+Name: res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png
+SHA1-Digest: uGSjtXNG1/NqmrhFrpnN+cLdEHs
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: G/3Xk6Mc17UZkyGSA/WgNe9FHGI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: QD2izrfOlCc1c6z1JD10OUCZik4
+
+Name: res/layout/asusres_permission_request_full_page_layout.xml
+SHA1-Digest: Zm10hlcRYhuSd3XmGNkWefxJ4j4
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable/asusres_scrubber_control_selector_material_light.xm
+ l
+SHA1-Digest: IGr5UbVZd67nBa1kGjIprCzNBDE
+
+Name: res/drawable-xxhdpi/asusres_expander_open_holo_light.9.png
+SHA1-Digest: ewygT7B+zhbqiai8s6J/LtCdeQ8
+
+Name: res/drawable-xxhdpi/googleg_standard_color_18.png
+SHA1-Digest: nMVBDwLTSbultJoYcciQ4bN8x8o
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: l6ep+u5ROkbZRVbgTHMz2Btwxc0
+
+Name: res/drawable-xxhdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: qpajR8hievNGRIZ7W/C1uWH7gT8
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: TLEwSIQpTcLpnQdWMa1MTsMz2HQ
+
+Name: res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: bx0LnJOy2udCHZlhgTQ5MF1ylXA
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: 6c8x2dA2yRmrK25F0xUvfrA0N0A
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_36dp.png
+SHA1-Digest: vEJLmUKnbTQx7SdNZzIcFHWiueg
+
+Name: res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: olS8gbovi+NV8EK5xujAEGUtpY4
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: ufoD6vl1s+48ufEKnDwz3kns93c
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: FSCZlCN5DerEzpbAJN79kktf2ug
+
+Name: res/drawable-xxhdpi/asusres_spinner_pressed_holo.9.png
+SHA1-Digest: GHU90I5DkgqHX5AS24GTMKSwHhM
+
+Name: res/drawable-xxhdpi/asusres_scrubber_primary_holo.9.png
+SHA1-Digest: 7ugOxEC94LIys/lUw6IHkYwkGzY
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: 8lnAqtCQzir27dcC+OHT87Y71Qc
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: OhiALW0hInuYjJV848vq/iFQZeI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: rxZl1IDlH0XJUbFDUGXdU/yWZNc
+
+Name: res/drawable-mdpi/abc_ic_star_half_black_16dp.png
+SHA1-Digest: eE8jUSUbKNYNrcQV5x9m+PFsfNg
+
+Name: res/drawable-hdpi/asusres_spinner_ab_default_holo_dark.9.png
+SHA1-Digest: clvZMGf8h0ozct9vL8AfHEpeGRY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: w56jJ0TcelHyY0DmghGu6l68C2Y
+
+Name: res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: xUuqGLRayLOu4uohwF7Ed06GxxU
+
+Name: res/drawable-xxhdpi/asusres_btn_default_disabled_holo_light.9.pn
+ g
+SHA1-Digest: pmS7n6HDiZeY2EZnnaWONGIBPZQ
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: FOy7zCT6vXNXBTEE9Ey8f+p6KQU
+
+Name: res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA1-Digest: vt3HbHGk8VA9dOqoXHwkSMEW3Rk
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: zWF+WGJbvkuB9/u+l0hhF8jRnCM
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 2ta1tWETL102tntJaNTjY7mZd+0
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: DUjXr21gU2VCcR/VBypGnKiiipo
+
+Name: res/drawable/ic_asus_animation_view_bg.xml
+SHA1-Digest: RoW57mWwgQB8zqrw4mryS5cIOxs
+
+Name: res/drawable-mdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: qRMuz4TG40MV2b3834DsIQdJX+M
+
+Name: res/drawable/asusres_spinner_background_material_dark.xml
+SHA1-Digest: pWewEXOeYEzCdCxUM8dtd8c504A
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: 0sVVdpZNhsnLy+e0y9+ULpQ6urA
+
+Name: res/drawable-xxxhdpi/abc_ic_star_black_48dp.png
+SHA1-Digest: DrqY7A0QpH+N9Xvx3GnoSbSf6XE
+
+Name: res/drawable/asusres_list_divider_with_padding_rog_dark.xml
+SHA1-Digest: B8rqfZa88QMpdDyxIDEiACm5z98
+
+Name: res/drawable-sw600dp-mdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: yjqWXHie3ng7lwpGjY0L4AtebHY
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: b4ZW2Wa0RJ9V87ZXaq+sYEn8pwM
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: tsNVFdxgtE4/FR6I+IF2atz0/zk
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: 4Ax70O/F05JPJK0WWhfE2mSVv8Q
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: WUm9t3T+WgDLHn4X8Ndql4W64zY
+
+Name: res/drawable-land-xhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: f/HzuW4j8Cmrqe2Hn1pe01Ck5bM
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: svFUtfiGRBs+uvH2ZrOgLgrV9vU
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: YRF+xyd4yfQ5wZL0gIE/amBOAIw
+
+Name: res/drawable-hdpi/asusres_scrubber_control_pressed_holo.png
+SHA1-Digest: 2wovT4xxtQWC1jiIZJYKlIxHLQ0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: Iw9GyGoycn029ParEj8An8pgIBI
+
+Name: res/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA1-Digest: 3/zkaBiI1eRYWLdvNnpenkbR80A
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: ARxesT6bRmd+o87bEjrUP6UYpSU
+
+Name: res/drawable/asusres_spinner_background_holo_light.xml
+SHA1-Digest: s4G5UfcX5YFkDt4TWrDVLVoUqJ4
+
+Name: res/drawable/asus_app_ic_background_screenshot.png
+SHA1-Digest: MPmFQQ++Q5BUii9qJe3mgVbn2G0
+
+Name: res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: KkCOVyimqKFamEgxxcR4n36HqJU
+
+Name: res/color/asusres_button_textcolor_rog_dark.xml
+SHA1-Digest: 01H53VEPqziXPrTWnKxMbSS7On0
+
+Name: res/drawable-mdpi/common_google_signin_btn_icon_light_normal_bac
+ kground.9.png
+SHA1-Digest: 2DS4seGTn1GBXvo7x0dLiLYG+HU
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: cSYh2iRF/Q9ZW4ljR76BFpICZ2o
+
+Name: res/drawable/asusres_drawer_list_divider_dark.xml
+SHA1-Digest: JYwbNY/1JJ0IUUFM+EN2ENnNpYM
+
+Name: res/drawable/asusres_ic_search_api_material.xml
+SHA1-Digest: GicvMKiS5Z+xmZddOPK2n/C634Q
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: /Cd6CsA6hHUAE01jCZqbOp0+s38
+
+Name: res/drawable/asusres_btn_check_holo_dark.xml
+SHA1-Digest: We4ATdmjd2674a8DrgIP/94NHc0
+
+Name: res/layout/abc_tooltip.xml
+SHA1-Digest: T2Gj+oeom5bcHoUWlBAZTCEseQs
+
+Name: res/drawable-xxhdpi/asusres_switch_thumb_strokes_mtrl.9.png
+SHA1-Digest: bAmqVNPX3Pz/ucdnmP0JbU8R834
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: 8vwg8hq4T2nfdSfdTbIvByyYcck
+
+Name: res/drawable-hdpi/asusres_textfield_focused_holo_light.9.png
+SHA1-Digest: Ukn0+yoyp0c9j0vBsIHtJeCx6W0
+
+Name: res/drawable-mdpi/notification_bg_low_pressed.9.png
+SHA1-Digest: H5WGfrVJdLkAb3Nq1yOl+B6Sklw
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: 9Q/QamHQlD1InFkz384n4/K/mnA
+
+Name: res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: 0EXSHhadYA4b4QWoY6G976PBSNY
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: ABH8+Q8gQlXMl9DeJlyyY6aZMxg
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: M5zxfhfJTK+L5tmpeijHVdbgOVY
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: Hl+1DtcX1meIvqiznFZ09qkMtHI
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: g9kK/dtk6CmuDWvGLrB6u4Og/a8
+
+Name: res/drawable-sw411dp/ic_stat_notify_image.xml
+SHA1-Digest: 6rzv1L/kTSyu4+tW3LLNEZMjX3Y
+
+Name: res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: tC6uw2w2e+vYOuhd45mTIYRtoKE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_012.pn
+ g
+SHA1-Digest: INJGt4XqswuGdwDCEupVcggqzOg
+
+Name: res/drawable-hdpi/asusres_spinner_ab_default_holo_light.9.png
+SHA1-Digest: zI/mbR872gGz2XhjVcgy2YgOCYA
+
+Name: res/drawable/asusres_ic_location_permission_request_dialog.xml
+SHA1-Digest: FStzRKZ+Pn3DEhLodmwki7tgcP8
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_cut_holo_dark.png
+SHA1-Digest: QfgBOlc9koiObxMjBDx+87fcmPg
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: kq39EOmEfoMd0lfqZ7TL0PZkzkA
+
+Name: res/drawable/asusres_btn_check_material_anim_rog_dark.xml
+SHA1-Digest: /bRI+2cuEHyFyKYaubtupnjAQO0
+
+Name: res/layout/asusres_cn_preference_category_material.xml
+SHA1-Digest: VHaUiTmvLfM3n/d3n3tgGyvBa/s
+
+Name: res/drawable/asusres_ic_menu_paste_material.xml
+SHA1-Digest: 4YmyDTHxhGKGyvPe923l8NviNCQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: 7utPUPgkUeCuAV/k/kWlv2UZDaQ
+
+Name: res/drawable-mdpi/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: /UdQaVYZ8zUgxE1oxoZAgBhZznw
+
+Name: res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 9H9KaQnMz6/cQ//b13EiYOSlavM
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: A263B/6qIo4B7+unrji6Ut+7XUE
+
+Name: res/anim/anim_capture_out.xml
+SHA1-Digest: IKeQl3Pu05Gz7qNYLmUUvsvbOlk
+
+Name: res/drawable/asusres_bottom_navigation_divider_dark.xml
+SHA1-Digest: JXkIaNWzAgNsroXOjK/qtYJW/FA
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: F028BSv0r2FbzI2J8ce+iMNOV80
+
+Name: res/drawable-sw600dp-hdpi/asusres_switch_thumb_strokes_mtrl.9.pn
+ g
+SHA1-Digest: 5XXnF0lt1fOmfxVWm7FhFoB8uBU
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: mGfkHvNMaOoq5r3o/EcA23PQ7bM
+
+Name: res/drawable-sw600dp-xhdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: 0YdsfficZARt1XivaIDM3OUECA4
+
+Name: res/drawable-hdpi/asusres_btn_default_normal_holo.9.png
+SHA1-Digest: kWomg8n2Qa8Vcat+niOfGjD3qHY
+
+Name: res/drawable-xhdpi/googleg_standard_color_18.png
+SHA1-Digest: PIph7M4ZHhY/AYP5Y1gUzmtpP60
+
+Name: res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: rTHukcoQfAYNlQDOlIvULzNkydU
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: 5dZ80euBzLjyOfL5nwO7tJAlXNM
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_36dp.png
+SHA1-Digest: TlbyZYv9H1HCXgUpxYDLUFphgco
+
+Name: res/drawable-mdpi/asusres_spinner_disabled_holo_dark.9.png
+SHA1-Digest: M227USf5wfnkfbGa2ZdrlVq/2Cw
+
+Name: res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: kBG1gtv3r0AKtRMQRJeeGdtStSk
+
+Name: res/drawable-hdpi/abc_ic_star_half_black_16dp.png
+SHA1-Digest: CUT2XWRQr/Xq7WyZFXb1VY8VsXY
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: uuezB2cmbDyzlkhTplWTUGuqoE8
+
+Name: res/drawable/ic_asus_screenshot_notify_share.xml
+SHA1-Digest: YOWB+5mvVikHz3pXH6vspPeiYyo
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: +1nmuWqTipY01k3N9yv/4o8MkGE
+
+Name: res/drawable/asusres_list_divider_rog_dark.xml
+SHA1-Digest: TOkbePKoNyhaR38bzVrsoKuGcxM
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: yhJSvKTNqLejh9pHyU3GpGRjXSI
+
+Name: res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 6gP2ce9f+KbbrWH1yni2RQJ6N7c
+
+Name: res/drawable-mdpi/asusres_btn_check_off_disabled_holo_dark.png
+SHA1-Digest: y8IXYL4lAOm+29zB/F1vn6Z/d9M
+
+Name: res/drawable-xxhdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: Azi5aiS5HRpTaFVjUtY5mHDCWUA
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: c+xPt9YYPDS/s+zKQbPU3ijBnBA
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_copy_holo_light.png
+SHA1-Digest: z+p6FLNGqBP99IGcz8h6yISVTrk
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: KPqA2cX2A/9eBLIN5HYIGhenysw
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_015.pn
+ g
+SHA1-Digest: opBJqY2/qN1ohUJmUoFffkQ18SY
+
+Name: res/drawable-mdpi/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw
+
+Name: res/drawable-hdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: j47FdCy/W1uTx8ze3JVXm7I9M4A
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_001.png
+SHA1-Digest: X7EjsyPyJl+3y18TOUXZNkAiLms
+
+Name: res/drawable/editor_ctl_delete.xml
+SHA1-Digest: 9rqCmgzvrniETqFVB6M8ohswe0U
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: nKWvx+gPWKZR+7oc9sXsj2EpPKY
+
+Name: res/drawable-ldrtl/asusres_list_divider_big_icon_with_padding_li
+ ght.xml
+SHA1-Digest: a8Pojxjun1w/R+Crbjees9FLXQU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: IyTPuiKL/V5l2T0OLAHpJ7W5wLQ
+
+Name: res/drawable-xhdpi/asusres_ic_menu_copy_holo_light.png
+SHA1-Digest: dPkadIHtriqVzm97Vo6NTJGuDEM
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: 6puKvYQjOU7zbDkc29zC37rBO5E
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: kJLi936oeb25teKkEremcox/3ac
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: CoYThtVbcfQPOAXQL6Sf1IVTJyk
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: sRXkPW1EIYj575B2ifAHd5UnmdQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: khg6CAJqyXBSuSTC79mI0prf0zA
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: aBnrtPpzagy3W5FgPgUF02NDZfU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: ZWAT3jGmwoe9gaTkihjk68ERDv0
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: znqrgW57bM3txjiuV+gCuwsgQ4g
+
+Name: res/drawable-xxhdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: EnoR1wNUez6BQyA3Mo4A2zbiE/w
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: 70pf8YDknmAfV0HCPLIl4PuCUMY
+
+Name: res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal_b
+ ackground.9.png
+SHA1-Digest: 1TUyGoQ4nUJ0c2CQVnuei4AMD5w
+
+Name: res/drawable-xhdpi/asusres_scrubber_control_pressed_holo.png
+SHA1-Digest: uR4pr5Pom6NugsGl/cbgtq0CF7c
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: GPCnB3tsGyY9AJ6G/lc/k2kdAm0
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: QuIG9M1ntCTKwrAvAryrboaeWYM
+
+Name: res/drawable/asusres_list_divider_big_icon_with_padding_light.xm
+ l
+SHA1-Digest: EJfOc9kKrJciZa/i+CQiG2Zetj4
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: LPtQ3BaCbM4ZKwFnIeUBM0xBrnA
+
+Name: res/drawable-sw600dp-hdpi/asusres_textfield_strokes_default_mtrl
+ .9.png
+SHA1-Digest: sni17Kbmcy7PBrgOJcJq/M/K0W8
+
+Name: res/color/asusres_primary_material_rog_dark.xml
+SHA1-Digest: Q/cySvLCtM7a4hMGem2Eu/EeZPM
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: oAYwsY90tsZ/2vOq8n3OyMyYC0k
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: WZ/s+4RphV+FKjJuhoDDX89EChQ
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: F028BSv0r2FbzI2J8ce+iMNOV80
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo
+
+Name: res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: 8WvbdoCrL2PJGcrNI8XfzZGZATM
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 21ksN5IXu4EAolECx67C/1UC3rg
+
+Name: res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal_ba
+ ckground.9.png
+SHA1-Digest: Bpq0g3htqIpxrfq1VseKs/3yTd0
+
+Name: res/drawable-sw600dp-hdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: NplEGHLKnjlBtl8jZfYft3EmBfM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: kUEY8j5GhWt/bVGEQF4BXy7dlAg
+
+Name: res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: Jn3DcE6rkBI1bdVuBYRzJaIPwdU
+
+Name: res/drawable-hdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: uuezB2cmbDyzlkhTplWTUGuqoE8
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: iKBrR7zp3Ku34YGMtv8iW0FefYA
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: BHDEcUhznTC5Fu5NwmxWPIPu0VU
+
+Name: res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: iefx7KwKzIYxGt3v7lgAfGw97SU
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: p+wMU7Hw7hHD1v690k4rEsFD2iM
+
+Name: res/drawable/asusres_spinner_ab_holo_light.xml
+SHA1-Digest: Q4K8zX/nouR9kV7y+iWCB3M+X3k
+
+Name: res/drawable-xhdpi/asusres_btn_check_off_holo_light.png
+SHA1-Digest: JKwPtS7kiDLGXmcSPnvznJ3t4ko
+
+Name: res/drawable-mdpi/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_003.png
+SHA1-Digest: /7eDDp1PLShv5pBIPywT5OC2XK4
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: lDjNMcOqZueieDxJG0Sl58cwIy0
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_default_normal_storkes_mt
+ rl.9.png
+SHA1-Digest: MreIZtRM4ks126ae9gbWgoWwNQE
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_default_normal_storkes_m
+ trl.9.png
+SHA1-Digest: 1ECHVwwB/Xop8gh+XkMJ6uG07Bc
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: r9K3/7jA0/HI3A2Zb4mlUJ4x/cg
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: M5zxfhfJTK+L5tmpeijHVdbgOVY
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: WUm9t3T+WgDLHn4X8Ndql4W64zY
+
+Name: res/drawable-mdpi/common_google_signin_btn_text_light_normal_bac
+ kground.9.png
+SHA1-Digest: XKltmU4f/f22cwgDbiFVQfzzWP0
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: z3ubkRLnz01uf0vbPx5yxOoo+7o
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: A68LSlDO32qliGd9SMvlFqslbac
+
+Name: res/drawable-xxhdpi/asusres_ic_ab_back_holo_light_am.png
+SHA1-Digest: owBvfJjOqralLQVa7vr67wqql8A
+
+Name: res/drawable/asusres_btn_default_holo_light.xml
+SHA1-Digest: q5zV7RbdIpOk8r9P51+zzRViUlM
+
+Name: res/layout-w600dp-land/asusres_permission_request_full_page_layo
+ ut.xml
+SHA1-Digest: ZwRy82n4a0My2j4Uzsry4Awqj8g
+
+Name: res/drawable-xxxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: Ut8+EEiqcFuyyS5dAHqv8ulMY8I
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: Iw9GyGoycn029ParEj8An8pgIBI
+
+Name: res/drawable/asus_icon_app_screenshot.xml
+SHA1-Digest: CW9feUWyy7R2D94h5XAzbp/ZRAI
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: YRF+xyd4yfQ5wZL0gIE/amBOAIw
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: 4MdOBc9q6ojkxO9UhkX9vx5A3yg
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: +IRaB9U+ZxRm2WuoSJmaCxC5ij8
+
+Name: res/drawable-sw600dp-mdpi/asusres_textfield_strokes_default_mtrl
+ .9.png
+SHA1-Digest: iMQA8oICInckbH6ZIoseVe0G1oU
+
+Name: res/drawable-hdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: NplEGHLKnjlBtl8jZfYft3EmBfM
+
+Name: res/drawable-sw600dp-xhdpi/asusres_textfield_strokes_activated_m
+ trl.9.png
+SHA1-Digest: QHcsy+YopvayuQFa5inZ4eBvPhA
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: 9H8mTd4Fipz8H9VfMPBSrgVOZuo
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: boWTxlyXTDUzBhVhImp8Cs1wTHQ
+
+Name: res/drawable/asusres_ic_microphone_permission_request_dialog.xml
+SHA1-Digest: HoyH9/sI4WYLwk9vOiVRcNskLRw
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: WdLWZsAj9VXxNdfCo4B2Kj3oJpw
+
+Name: res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: e/btu/tjJgEcJNpXWk/EOrcTKYA
+
+Name: res/drawable-mdpi/asusres_scrubber_control_stroke_mtrl.png
+SHA1-Digest: prUkq/7rKjvx8GqteoZGAWcXJDc
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: Xgr/K/SI3nSsCUPxZsIC6HUjsLo
+
+Name: res/drawable-hdpi/asusres_scrubber_control_normal_holo.png
+SHA1-Digest: SbA7o+Ih82/PYOTsv4wDDzYI+/E
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: DWs8rJxzl1jbh5Whi/3an67RbBI
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: jzChwHhOSFFvqAedw2+gSxTyelI
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: oAYwsY90tsZ/2vOq8n3OyMyYC0k
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: WC5xdMrnJldGHR7Yty8IClKUyJ0
+
+Name: firebase-analytics.properties
+SHA1-Digest: CN9WNQuhRjQwGtsmtR/4lKPlVa8
+
+Name: resources.arsc
+SHA1-Digest: 42Y5OrWSwF3sC0QD5d3Rg23tFEw
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: 60CLJ/fvSq/+utUG8v6jd0q8COs
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: uFAiOUIWoZqITfun/CvMhjV5+ZA
+
+Name: res/drawable/ic_asus_screenshot_notify_delete.xml
+SHA1-Digest: S4B4sdYhyTdKDJBxuYO0vUm6U9I
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: E1a4aY6OHs5PcjtoaYVc5BSc+zg
+
+Name: res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: rHmDjTc+dpOdTJ4J9t00ZR1OYMc
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: P8+U0Sqc7PppXPvwVG3NBgLBC10
+
+Name: res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: myUcLaacm4qT8sivkAHSIR8eFrs
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: h36cSPMr+CvpAec9gEI3/gsFeqA
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: dG+jlNkQpmX05TJaCw2siJ+8dfk
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: /MNrjgp2wOZ9SZ9jWRGzk1+YPmk
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: wSoJm21GNvZI3mDTc9xjhwUvA8s
+
+Name: res/drawable/asusres_ic_ab_back_holo_dark.xml
+SHA1-Digest: HoE/wqLn9TAtInfzet7cJLoP/9s
+
+Name: res/drawable-mdpi/asusres_btn_check_off_holo_dark.png
+SHA1-Digest: N8kUw2qB/d8CCy3qnNEUpvXJOBc
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: Fq+3E371rmveRgVFv2XuDgpQOtc
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: lCh3jbDWQHT/oizQK3WZ0vmgo3I
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_014.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: XNxLofqEEIM2Ms90AWCOvn8f1e0
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: 5S5xj8/vR5FgWjfKY+I5I1tVXkU
+
+Name: res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: V9XmG49+bwDotRbKy5ohprnX7bE
+
+Name: res/layout/asusres_preference_category_holo_dark.xml
+SHA1-Digest: PAlzAbp4QLjeRESQqRI89IJ40tk
+
+Name: res/drawable/editor_menu_undo.xml
+SHA1-Digest: blj0y641zNmfgqQkJSPeppxuxvg
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: XmNqZzqaVifJEQft4Kg7wT7vXI0
+
+Name: res/drawable-mdpi/asusres_ic_ab_back_holo_dark_am.png
+SHA1-Digest: /+RRsgrHYyjvy9Bn80RZrmcMd0E
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: 9SZBqWqmyKAvHaRSTmg5TTFQmuA
+
+Name: res/drawable/asusres_btn_radio_material_anim_dark.xml
+SHA1-Digest: oW70T3JcfG4EvHJCZzWIUKR6s2o
+
+Name: res/layout-land/layout_overlay_screenshot.xml
+SHA1-Digest: fcq9PRijqcEZ7pG3y4JYgCtGRZ8
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: 8vffFlNQEwir+VtY5sHw+pDR80c
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: dcb8+D8BZ8w7AbXENMXJj/Ka6NU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: sGIH2jFHi8E0zJmOD+5c5OYbaH0
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: Cf0ZvvX2uZHBLBWXPQOxqgrY26g
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: UEbU0pEzYtrZRsThSBfUh1XMttU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: /GRzW9hZ2ScQzjoCSbFY+M1YMo4
+
+Name: res/drawable-xxhdpi/abc_ic_star_black_16dp.png
+SHA1-Digest: TnhZoMoFP0WZ5LAuQsFxNCmLjoI
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: BbKD0kvBNGTWrxwzgWb/vBGLfCQ
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_000.pn
+ g
+SHA1-Digest: M5zxfhfJTK+L5tmpeijHVdbgOVY
+
+Name: res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: qe+ICJ9YZCpsND/P5NwzFuqCIhI
+
+Name: res/drawable/asusres_list_divider_with_padding_light.xml
+SHA1-Digest: CxvroBlPEqf2QQ41CEJFWLPJfDg
+
+Name: res/drawable-hdpi/common_google_signin_btn_text_dark_normal_back
+ ground.9.png
+SHA1-Digest: 1EyAFYkRSFmUdCRAOHOq9gmbJEc
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: fUq9ukOcHJCLihSPQpQA7SuQhfk
+
+Name: res/drawable/asusres_drawer_list_divider_rog_dark.xml
+SHA1-Digest: 4tHw8nDrt2PSc6PiUj4kOiZSJGs
+
+Name: res/drawable-sw600dp-hdpi/asusres_expander_open_mtrl.9.png
+SHA1-Digest: 7BqjXPOV7gpNT7vQ5RNPqig4HQE
+
+Name: res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: JsaiBsEdZROnnHo5fV3qOVFEblc
+
+Name: res/drawable-sw400dp-hdpi/asusres_textfield_strokes_default_mtrl
+ .9.png
+SHA1-Digest: yA2BD0R+swBlBJnL2clY7EuSPmU
+
+Name: res/drawable-hdpi/asusres_ic_menu_moreoverflow_holo_dark.png
+SHA1-Digest: +qVa5IWZ6YvHSNMrytIDvyo/0U0
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_013.pn
+ g
+SHA1-Digest: G/3Xk6Mc17UZkyGSA/WgNe9FHGI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: BFDQxa6AhPctWmiG/kMU7vukfws
+
+Name: firebase-analytics-impl.properties
+SHA1-Digest: JabHiinPM+5yXPka1H4Jub1vN3k
+
+Name: res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: cuCm0r2aUkpTLk+CBNaHogZtLwQ
+
+Name: res/drawable-xxhdpi/asusres_spinner_default_holo_light.9.png
+SHA1-Digest: /1HzTXD4lesdvSntzkAMb//7Kjg
+
+Name: res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: 36wC/l9OkZGeDIMJl1HYFjXp4u4
+
+Name: res/drawable-xxhdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: zFF1VUSs0f/crcZo+fxLtbELp8U
+
+Name: res/drawable/circle_btn_share.xml
+SHA1-Digest: CaJ36qIuT87lGC4R22fv/RI6/ms
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: oj4WxonQQlReE2q3Po8j+vGr7rg
+
+Name: res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: la0mp3gGb9aMVTgTvEHl9fEgHSE
+
+Name: res/drawable-xhdpi/asusres_textfield_default_holo_dark.9.png
+SHA1-Digest: HPhJeNr94iMWrCecHHDVK0KlAsY
+
+Name: res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.pn
+ g
+SHA1-Digest: ooibx1Nw2wVRqtZZ9uCTOgYQJLk
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: RRbZR9cMS2f5OKbfBLDJno18fmk
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: +xwcaRvrNHI15bbl4taptfkoSPQ
+
+Name: res/drawable-mdpi/asusres_ic_ab_back_holo_light_am.png
+SHA1-Digest: SxhOZGss7l0e5WgX2seUrrmXPfE
+
+Name: res/drawable-mdpi/asusres_ic_menu_paste_holo_light.png
+SHA1-Digest: gEJmPqYn4QkhyNJCPDSD476BW6k
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_007.png
+SHA1-Digest: hM4q7k/uT8KqI1XklZOxAF+V2Kk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: KadfVACueFYn6Aaa98X1NeV/tVU
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: gTbF0Q86Yul3CCUl/ObH5gJwO1M
+
+Name: res/drawable/asusres_spinner_ab_holo_dark.xml
+SHA1-Digest: 66fc9WqQA/aMQsQ9ArqhmCwdBmM
+
+Name: res/drawable/editor_menu_redo.xml
+SHA1-Digest: EwWesLPI+dM7VBS77x2kOxQi89Q
+
+Name: res/drawable-hdpi/asusres_btn_radio_off_holo_light.png
+SHA1-Digest: VSWCZxVYiN4NuR2FyS8t5RNjMG8
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: Cf0ZvvX2uZHBLBWXPQOxqgrY26g
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_006.pn
+ g
+SHA1-Digest: F+CNUK/2gX+BrYIBR8cYupc4yvY
+
+Name: res/drawable-xhdpi/asusres_switch_thumb_strokes_mtrl.9.png
+SHA1-Digest: 7+MJdiSIDDjaNh4cdRSdVcR/WEg
+
+Name: res/drawable-land-xxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: 9wOo885/ygyqaNd4kp5NkL1YAGA
+
+Name: res/drawable/asusres_list_divider_medium_icon_with_padding_rog_d
+ ark.xml
+SHA1-Digest: D+A3jVNzx5yqBXTsxhMzkE2ETp8
+
+Name: res/drawable-sw400dp-xxhdpi/asusres_textfield_strokes_activated_
+ mtrl.9.png
+SHA1-Digest: KKGt8CZZAGQMIxFUBbml0wegWyk
+
+Name: res/drawable-land-mdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: 5qPP79rvPv4f3TBlETVuk7QkYm8
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: owqYC4M1kqs45/PSQTowx0UQt2o
+
+Name: res/anim/anim_editor_out1.xml
+SHA1-Digest: DigT4mUoGofmoLc2dnKGIKyXEm0
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: 0/VTfr8+/HT+kz0G3p3DW6h8ZWY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: FSCZlCN5DerEzpbAJN79kktf2ug
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_003.png
+SHA1-Digest: FHXHywxwuwSvU2JdPN5TZrusP0s
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: RW+ENTaQJbCZ+4dc1+utAi+6mcI
+
+Name: res/drawable-mdpi/asusres_spinner_ab_pressed_holo.9.png
+SHA1-Digest: fUCvFd8qJAkoSWjmLon5mh8IrUc
+
+Name: res/drawable-xxxhdpi/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: MSvCQ0Eqa9MYOfop+isSTvssU+A
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: KlI2D2tHcCVCJZprPE86Ic/JFQg
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: 1u0n4+WuylehYutA09qzqQVD9N8
+
+Name: res/drawable-mdpi/asusres_spinner_ab_disabled_holo_dark.9.png
+SHA1-Digest: SB3kxYLTNQrWsGmkmKNNBQbApWM
+
+Name: res/drawable-land-xxxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: /8LdlbPFJFC6xDfjtRhGbD+ytlo
+
+Name: res/drawable-xhdpi/asusres_ic_menu_copy_holo_dark.png
+SHA1-Digest: YQq/l1DbmQRy7s5aNU+GURmvAWs
+
+Name: res/drawable-sw600dp-mdpi/asusres_scrubber_control_stroke_mtrl.p
+ ng
+SHA1-Digest: prUkq/7rKjvx8GqteoZGAWcXJDc
+
+Name: res/drawable/asusres_edit_text_holo_light.xml
+SHA1-Digest: 7oYCj+WY+SS53Ql5jB0XSj23Soo
+
+Name: res/drawable/asusres_expander_group_holo_light.xml
+SHA1-Digest: QR24LSOOicR/GLr6erOFLuxwQI4
+
+Name: res/drawable-mdpi/googleg_disabled_color_18.png
+SHA1-Digest: MGA87YfiomuNCzYa+XKeVCPnoZ0
+
+Name: res/color/asusres_bottom_navigation_item_color_rog_light.xml
+SHA1-Digest: +wWZ32sduXTwEIBSQX7u5Nz5fdQ
+
+Name: res/drawable-mdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: DthwjgiP9SLq4Fiws6LD1IO9lTk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: 2pOO7hWGe0VaPJYoxnf8poJl+q0
+
+Name: res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: 6g1sb8ZqjW7nIrkEG+DxpzNkW5Q
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: s/oEoMsQdxw9nAWzbeno8gh8kUk
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: VYghLu1j4e7MV9k5pnyepP0mdVQ
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: tYHWKUhO96njpA/eQz7e1itRYz8
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: bvK7O354Wl+S0JKdttLlmM2mb0w
+
+Name: res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: aljPP39kIjQv2NUvaoyL4St29UA
+
+Name: res/drawable-xhdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: 0YdsfficZARt1XivaIDM3OUECA4
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: 4o2R0h/w6EEFO/XXyEAzl8iLx3M
+
+Name: res/drawable-xhdpi/asusres_btn_check_off_disabled_holo_dark.png
+SHA1-Digest: At2MRQY3uycLbmL8HyMT0X/Kf+4
+
+Name: res/drawable-sw600dp-xhdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: hf53l5/diVGIjZbmgENxnJxESF8
+
+Name: res/drawable-xxhdpi/asusres_scrubber_control_pressed_holo.png
+SHA1-Digest: Mr9WgWgdCPVr9Brs9lfttzbtwB4
+
+Name: res/drawable-xhdpi/asusres_expander_open_holo_light.9.png
+SHA1-Digest: zHehQ+AOsJXR5ru5wS4I1iA50u8
+
+Name: res/drawable-hdpi/abc_list_focused_holo.9.png
+SHA1-Digest: wk6cEvrtWMT8mvBMI5G6yVaA7aY
+
+Name: res/drawable/circle_btn_delete.xml
+SHA1-Digest: fZ9PHtgsNkGiCBCOktSGv2AsONg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: M/afT+BU4SNdsTr6fO+9mlbenfA
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_16dp.png
+SHA1-Digest: bJnaPUkuEDhsvIaeIGSAO9n8ckk
+
+Name: res/drawable-xxhdpi/asusres_ic_menu_selectall_holo_dark.png
+SHA1-Digest: /ocr2H/sfzfA7y79wcxWhWyx/Q0
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: 8bbJCsVcWKLkVw7p0lMJOpyQuBM
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: mDXJDXNnskBvqQj0gfWqA0F6jiQ
+
+Name: res/drawable-mdpi/asusres_textfield_disabled_holo_light.9.png
+SHA1-Digest: Sv79C9kbF6JRLR2WWUB7ig6iYN8
+
+Name: res/drawable/circle_btn_edit.xml
+SHA1-Digest: uhyItjkQTPRXCFmpIKyY1rDsv2g
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_004.png
+SHA1-Digest: iWw2WPvHs0h5LgRRxoVttWisGak
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: AkJNnp9b1xZuTlo7h0kRI9evmzk
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: 66PWsze6Icx7w7oq52cDNJ+1GGY
+
+Name: res/drawable-hdpi/asusres_scrubber_primary_holo.9.png
+SHA1-Digest: F+uP7kISp/5wSN4WSoE0+DFoC4E
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 8EfQ8iGdO/t4oN4ZCooxp9X1XnE
+
+Name: res/drawable-xhdpi/common_google_signin_btn_icon_light_normal_ba
+ ckground.9.png
+SHA1-Digest: OxNoPxFnusU+3Ku0SPzoGrCWFxY
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: 1KoQzxKxyXmPzQ/Kp3fyH9V14Wk
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_009.png
+SHA1-Digest: GPCnB3tsGyY9AJ6G/lc/k2kdAm0
+
+Name: res/drawable-xhdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: IyTPuiKL/V5l2T0OLAHpJ7W5wLQ
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_010.pn
+ g
+SHA1-Digest: sIphJ32KBgGpBxAbLKz64XKGi3o
+
+Name: res/drawable-hdpi/asusres_spinner_disabled_holo_dark.9.png
+SHA1-Digest: xyTKVN9EVet5tVVpXpj6hbhvJhw
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: tH6m+qpVqfbGOTrmqxphW7TqbRc
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_002.pn
+ g
+SHA1-Digest: mmeVSIYlLKweAHo9h1wBMHCue5s
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: vzPIpIh2ClMetYDJ+80vHxCk6+c
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: bYf4ojiV7Yq2wDzTgi9loavuzqY
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: +wPtXDnGTRkwqzxGW5gP5UoXf7Y
+
+Name: res/drawable/abc_control_background_material.xml
+SHA1-Digest: 6d4Szj/Bba24+/csdXlGr4t/4hI
+
+Name: res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: rsdUoHJxq/CcGqFOaGPbTJ8wJ8s
+
+Name: res/drawable/asusres_ic_contacts_permission_request_dialog.xml
+SHA1-Digest: MzswTune3Xo6XnmfTC8jInJqpr4
+
+Name: res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: qa7pacTJKvEKuXlFpWJE1C6CWzQ
+
+Name: res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: 0jwzTMvjBw5pjef/WYs6540C0/4
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: jXpgkrY/y6IUP/XXnNigeTgL4sA
+
+Name: res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: i9FCRVHt7QbKkrsplJGYqSSANkM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: KPqA2cX2A/9eBLIN5HYIGhenysw
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: ilWDCo4TELHewCC/8ZXKGMbJxfo
+
+Name: res/drawable/asusres_edit_text_material_light.xml
+SHA1-Digest: FoMV1KGb2DO9zeUToFczko3pT9E
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: a68AY9+wYHILVJqrCULFVZFTXOQ
+
+Name: res/drawable-hdpi/asusres_scrubber_control_stroke_mtrl.png
+SHA1-Digest: nPuT/7utjKvotg2FijQwcJr+VZ4
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: hY+uvTVt215v95lqdwJwINIftQY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: zWF+WGJbvkuB9/u+l0hhF8jRnCM
+
+Name: play-services-measurement-api.properties
+SHA1-Digest: KhT53/4Qi81/xc2YZQd8LOSefbo
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_006.png
+SHA1-Digest: ivWW1g3pijkXJcBNK1tGfEz7VOo
+
+Name: res/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: bX6n4OUEjVSiTGp+RSaan1TveSo
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: SfiLec/4DOb5nzozkKdAqf7/5fw
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: M5zxfhfJTK+L5tmpeijHVdbgOVY
+
+Name: res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: PcXH+PORyMVJ9kexXIHEGQOSM08
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: UEbU0pEzYtrZRsThSBfUh1XMttU
+
+Name: res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: vm8LHDUBNzH5zwtFQHCS54dyJyM
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: +V8l3UiQAkM/xQJF7Wi4H/Vc/E0
+
+Name: res/drawable/asusres_dialog_background_material.xml
+SHA1-Digest: qO68GgBnO5YFhGuDZmdBnGwnBNU
+
+Name: res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: immG58Mn+jJpWq3F2CTYfdXTMzw
+
+Name: res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png
+SHA1-Digest: KcA4LKv9Xg0Y8I5a3ubJk9QPSjI
+
+Name: res/drawable/asusres_ic_calendar_permission_request_dialog.xml
+SHA1-Digest: cqDTsZFv2By18YigjTx3nYsSJhA
+
+Name: res/drawable/asusres_scrubber_control_selector_material_rog_dark
+ .xml
+SHA1-Digest: aFHhKWQQSSfVvXKMQEmOeengXF4
+
+Name: res/drawable-xhdpi/asusres_ic_ab_back_holo_dark_am.png
+SHA1-Digest: Qi8xwN9Us7MEHEzeiZGceG9umNg
+
+Name: res/drawable-xhdpi/asusres_ic_menu_moreoverflow_holo_light.png
+SHA1-Digest: beMZuzpahu+KUukSENgzNMTVbT4
+
+Name: res/drawable-mdpi/asusres_spinner_pressed_holo.9.png
+SHA1-Digest: hLECXnvLaQ2wzE1jZnZJ2t52o8E
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: /Eaj1FbHqd+BkiMspNwzaWv9FAQ
+
+Name: res/drawable-hdpi/abc_ic_star_black_36dp.png
+SHA1-Digest: l1YRygWl8pmR0fSONntI4CnCJsQ
+
+Name: res/drawable-xxhdpi/asusres_btn_check_off_disabled_holo_light.pn
+ g
+SHA1-Digest: tMNpcXDOFSV6uEmCgUJ/tjMQvT8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_008.pn
+ g
+SHA1-Digest: h0CE8ckUnR9sQAG1w45SKpVoo0o
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_005.png
+SHA1-Digest: Ik3t57QAttysM1PVaREbAa3dHf4
+
+Name: res/drawable-xhdpi/asusres_btn_default_normal_mtrl.9.png
+SHA1-Digest: v+kZNeevIVG6ZLdkAt7E58zpOeY
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_on_disabled_holo_light.png
+SHA1-Digest: 4fjKsRKIk/oSRS+4HEh3y3VZz1k
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_005.png
+SHA1-Digest: xmlFUAEJv57bqk+poKzBk1yJ/N8
+
+Name: res/drawable-ldrtl/asusres_list_divider_medium_icon_with_padding
+ _light.xml
+SHA1-Digest: GKwfNm5qxB6UGnsxowY4Nh/2Iis
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_015.pn
+ g
+SHA1-Digest: b8qA7W14IIsu2X8r4jMC/HDWzHk
+
+Name: res/drawable-xhdpi/asusres_ic_ab_back_holo_light_am.png
+SHA1-Digest: VoEJhugqI8vd/f8mERR7kP5nEGM
+
+Name: res/drawable-sw400dp-hdpi/asusres_textfield_strokes_activated_mt
+ rl.9.png
+SHA1-Digest: QHcsy+YopvayuQFa5inZ4eBvPhA
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: DeBZdUhcf4jwXxVGfnivrtcbPbk
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: FrsePpYpOvuNVlvpfbnteULj+98
+
+Name: res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: YON21p0IduHfx2/2DWd2gl/K6+Q
+
+Name: res/drawable/asusres_ic_clear_search_material.xml
+SHA1-Digest: S+r5epXqHB8m/eHAE872TTJwQfA
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: sGkF1RdIqznZqHPlo10nFFFPlPQ
+
+Name: res/layout/asusres_permission_request_dialog_layout.xml
+SHA1-Digest: 7+nUQQVpBDd4pk4ibE5xvXD2BLI
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: QrbYZGxfszoByk1maW0KfmiZYAs
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: WZ/s+4RphV+FKjJuhoDDX89EChQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: kKdgwTcCY2u10W0NvO0D0rNTduA
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 93axpnjwyy4TaRuiG8MtWiMTAEY
+
+Name: res/drawable-xxxhdpi/asusres_rog_permission_image.png
+SHA1-Digest: FLTUGfRljEfNeA08tDrQMwv573w
+
+Name: res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: eg3Jekf54Dz1eJfsrx0LSURgWLw
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: 5mamsywLG4mFMBPC43j5uMwof1c
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_008.png
+SHA1-Digest: os4ZTgJua5mhlezsCTLJCZ0Y1z0
+
+Name: res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: z6TZhX4sGi1SG/RbHOQrQV45GNY
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_switch_thumb_strokes_mtrl.9.
+ png
+SHA1-Digest: bAmqVNPX3Pz/ucdnmP0JbU8R834
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_003.png
+SHA1-Digest: QD2izrfOlCc1c6z1JD10OUCZik4
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_002.pn
+ g
+SHA1-Digest: bSSnqBIPpSvFdsAL3UbQKFPE0n0
+
+Name: res/drawable/asusres_switch_control_background_material_light.xm
+ l
+SHA1-Digest: 9JC2gUalsn69IWUR+YO6yr7u9h4
+
+Name: res/drawable-sw600dp-mdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: A5WdBEtcpcZjeBe1xlDzJYBuJmE
+
+Name: res/drawable/asusres_btn_default_shape_material_light.xml
+SHA1-Digest: Fb3TuLTcNkn9XMI6wE2J7dTe2b0
+
+Name: res/drawable-xxhdpi/asusres_scrubber_track_holo_light.9.png
+SHA1-Digest: 5kMHho56bbSYxS0FmaT0SEC9e7w
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_004.png
+SHA1-Digest: xL/YAaW3qD/Qmo78x48wAEvYgIE
+
+Name: res/drawable-xhdpi/abc_ic_star_black_36dp.png
+SHA1-Digest: PHk61zRqf6D0+NgV5DAowumKYDM
+
+Name: res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: mRzdMFdfGEE7xghBsrHbqzT8M2w
+
+Name: res/drawable-mdpi/asusres_ic_menu_selectall_holo_light.png
+SHA1-Digest: 9aGbHGBo8wcbYuM2Ek3IEr110d4
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_005.png
+SHA1-Digest: TBfkghkkA+ivN9qxUtwcF3XdC7s
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: B2+/t3epmh/3/an/Lzxmw8dxfOM
+
+Name: res/drawable-hdpi/asusres_ic_menu_copy_holo_light.png
+SHA1-Digest: v8WwPUwUzrJ/mJ9VuF227sQHTGk
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: 2zraU1PWshJi4HLp/QEXz8lTv+Y
+
+Name: res/drawable/asusres_btn_check_holo_light.xml
+SHA1-Digest: iYGwP6Blk0O2PZLApbDwjRSpWQ0
+
+Name: res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: BW+HxlEdt+GDk5y/j57c7HOcxXA
+
+Name: res/drawable/asusres_list_divider_with_padding_dark.xml
+SHA1-Digest: GKFjUKJYbuydtwJRfZqtXiCGkQA
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_004.png
+SHA1-Digest: Ykcza+55wBkhEeAV7XQnuWuGzqA
+
+Name: res/drawable-hdpi/asusres_btn_radio_off_disabled_holo_light.png
+SHA1-Digest: Y5hZP87gfXIYuth7G+0ibuTIwJ4
+
+Name: res/drawable-xxhdpi/asusres_btn_check_off_disabled_holo_dark.png
+SHA1-Digest: KwqDv4/DW1Twf0xDqIW3n5uvhxU
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: 3oTrd/aIKf11HgbIbgvf5ld56XE
+
+Name: res/drawable-mdpi/asusres_switch_bg_mtrl.9.png
+SHA1-Digest: iwvF422GJgKzFDuzckFNyOablNo
+
+Name: res/drawable-hdpi/common_google_signin_btn_icon_light_normal_bac
+ kground.9.png
+SHA1-Digest: 7DE3JABf+IHIM1hrsV+MY5yBYY8
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_010.png
+SHA1-Digest: IlqlZQQJw5l8S5mCe12FC9qYEUI
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: sgPyKd2QkrlMiRur0kZnyZGj3PU
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: yQMx3mb4y/4fzZ+xCEAGO1wI8mg
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_007.png
+SHA1-Digest: 6c8x2dA2yRmrK25F0xUvfrA0N0A
+
+Name: res/drawable-xxhdpi/asusres_scrubber_control_stroke_mtrl.png
+SHA1-Digest: WR1miym66Qo0vZrD4UkeT9YlFok
+
+Name: res/drawable-hdpi/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: Vgi5sEfMVSyu0nd6WWsvBST1nxk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_scrubber_control_stroke_mtrl.
+ png
+SHA1-Digest: o8RiCFr1DT2uQZpFwyHqPWWsqe8
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_004.pn
+ g
+SHA1-Digest: vTxWNK3O4mf1C6Z5BvtP1ijKyUc
+
+Name: res/drawable-land-xxxhdpi/asusres_rog_permission_image.png
+SHA1-Digest: DIEN4eAkb327nR992TzAiJh6S3A
+
+Name: res/drawable-hdpi/asusres_btn_radio_on_disabled_holo_light.png
+SHA1-Digest: UWgVGgSkAPqDBWw4Ay26sox0SQk
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_008.png
+SHA1-Digest: yyWuI7b9c8QisP2oFhffhJ/RXFw
+
+Name: res/drawable-xxhdpi/asusres_spinner_disabled_holo_light.9.png
+SHA1-Digest: n66GRgroCIJ7ZWJz3fEvIXBDJJI
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_002.png
+SHA1-Digest: BATuBjE7+Pj5UWSIIkc7DHVkv3Y
+
+Name: res/drawable/asusres_btn_default_shape_material_rog_dark.xml
+SHA1-Digest: mPAQ8+eKAmTYtHryhzLvllOencY
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 3K8Chk7QTFCzlrSISf0PS9KRArE
+
+Name: res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: syWeoj6ApCM+addV+eUkc74d2GM
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_013.png
+SHA1-Digest: oBxUAzZsMX+htluQm4jqoBDkebU
+
+Name: res/layout/asusres_cn_preference_category_without_title_material
+ .xml
+SHA1-Digest: nU52DPcqahtsDvFaqIBZ13J/FD8
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_001.png
+SHA1-Digest: k0COOStHbZqJd3mZcTz1aJNqRoU
+
+Name: res/drawable/asusres_ic_storage_permission_request_dialog.xml
+SHA1-Digest: Q6BgSYWr0XCAzISNasqc+/qCAQo
+
+Name: res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.p
+ ng
+SHA1-Digest: AOweHtQbNgMb++aATsl9g6duBWI
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: SLa9wb+Yz9NC5RLkywoRBeP03RQ
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA1-Digest: tbuprRc9KnlC+0EAoMuOOxqMmZk
+
+Name: res/drawable-sw600dp-mdpi/asusres_textfield_strokes_activated_mt
+ rl.9.png
+SHA1-Digest: iMQA8oICInckbH6ZIoseVe0G1oU
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_008.png
+SHA1-Digest: tzKyBHHUOzEQJv/wg6W4VgR9sPM
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_on_mtrl_013.png
+SHA1-Digest: 21ksN5IXu4EAolECx67C/1UC3rg
+
+Name: res/color/asusres_ripple_material_light.xml
+SHA1-Digest: StCoEkDVU41qi41HX4J9GbjTXRY
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: vkiNFNc9Gh+2j85PF58PIqDaChQ
+
+Name: res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: F4ZprQrsXInAkkl1ioSdpt5mbPI
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: UiKQTR0U9lIolbp7T3QTDlHFbjM
+
+Name: res/drawable-xxhdpi/asusres_btn_default_normal_storkes_mtrl.9.pn
+ g
+SHA1-Digest: 1ECHVwwB/Xop8gh+XkMJ6uG07Bc
+
+Name: res/drawable/asusres_edit_text_material_rog_dark.xml
+SHA1-Digest: ZvMifYY6qBuINyY4DFIT/mwnVsQ
+
+Name: res/drawable-sw540dp-xhdpi/asusres_switch_thumb_mtrl.9.png
+SHA1-Digest: DM7OUD5e/TuT6BXlznvhKBKmLUw
+
+Name: res/drawable-sw600dp-hdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: 19tDQavKpCvimTDeswyVhS+geiw
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: McMkLhdUBiJwkBfwFlPq2FNzgRA
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable/editor_pattern_hexagons.xml
+SHA1-Digest: Vr5Y4YiZEaBs4GrAx/aIvWI+Qgg
+
+Name: res/drawable-xhdpi/asusres_textfield_focused_holo_light.9.png
+SHA1-Digest: ynDuse1bHPD7q4W7zFr3RdpILTE
+
+Name: res/drawable-xhdpi/asusres_btn_default_disabled_holo_dark.9.png
+SHA1-Digest: Ye5mBUzSiNixgTvntlpYvHVph78
+
+Name: res/drawable-mdpi/asusres_btn_radio_on_disabled_holo_light.png
+SHA1-Digest: QJOIc8jD3C4d7f2Kf87WZ/ZOoJk
+
+Name: res/drawable-mdpi/asusres_spinner_ab_default_holo_light.9.png
+SHA1-Digest: QI3F8n5pK+tpqnxH4bILRCg33jg
+
+Name: res/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: E6zTTHiRd1XHP7n/Hbs8Ebaylnw
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_015.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_011.png
+SHA1-Digest: HHsFY+So7AT3Bf2XVvvzwV7RlTE
+
+Name: res/drawable-hdpi/asusres_spinner_ab_pressed_holo.9.png
+SHA1-Digest: P52dPjBuj3+eCJN3GqfFj7t1WhE
+
+Name: res/drawable/asusres_ic_clear_search_api_disabled_material_rog_d
+ ark.xml
+SHA1-Digest: vgxK5ZqXyZymqptcd4hDAoXKdTY
+
+Name: res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: L7foFsAeFoZ0qETXtrifyXk9H2k
+
+Name: res/layout/asusres_preference_widget_switch_with_divider.xml
+SHA1-Digest: fq0Rirnku8QidznPRJfgzfwozBc
+
+Name: res/layout/asusres_cn_preference_material.xml
+SHA1-Digest: EizOQU1otr5id3y9QPTF4eZb/s4
+
+Name: res/drawable/editor_pattern_triangles.xml
+SHA1-Digest: V6Wj+xC9ugsxtc8zKuYjwpH++Cs
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: 89U+YB4RmhC6STD4GJKNfQL3VRo
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_000.png
+SHA1-Digest: tiMPmckPmjXvrcI8XRi0nLgie4w
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_014.png
+SHA1-Digest: pdfCzH/lhGd+WdZWULnPqet6PUQ
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_010.png
+SHA1-Digest: FVH8fNaOjolIvYJNDebWFpb6lIQ
+
+Name: res/drawable-xhdpi/asusres_btn_check_on_disable_holo_light.png
+SHA1-Digest: NoSruIk29ay5Ni24wLZ9mDtx4eI
+
+Name: res/drawable/asusres_list_divider_big_icon_with_padding_dark.xml
+SHA1-Digest: fBoTYUgMXNIhkxoLXYuqQbH3nzk
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: Qn7NaxmE4ZH/1j+FGneDAGsbfuI
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_007.png
+SHA1-Digest: P/z6/IAaxNtJpG2kRiV8uOSFHcw
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_010.png
+SHA1-Digest: cwN9m9Ljg1nESaVNFZWylZubl38
+
+Name: res/drawable-mdpi/abc_list_pressed_holo_light.9.png
+SHA1-Digest: nw9U+Nt8beNARnnxkhhWMCSkCRM
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: LGelMHhYlFRUhXKTYFDrCkLiWps
+
+Name: res/drawable-sw600dp-hdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: UCjwPeZkwrk2c4E4zzx1+eZhOYk
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: NbWLAezWValXhnpGFmZzZ4UmH2Q
+
+Name: res/drawable-xhdpi/asusres_btn_check_off_holo_dark.png
+SHA1-Digest: VTV76yjuZ2wOegGCXGadQO8Liik
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable-sw540dp-xhdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: hf53l5/diVGIjZbmgENxnJxESF8
+
+Name: res/drawable/asusres_drawer_list_divider_rog_light.xml
+SHA1-Digest: Ent0T3mIqFXhkXij9uoTOA4TElw
+
+Name: res/drawable-sw600dp-xhdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: 6gCUBEhV22AQ/tDnUf4ovsJ8O68
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: PyDrk0IpzPzJQZgSGBcy0FSK/ws
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: GDm7Gt53T8pgOnvCpBb010hydEE
+
+Name: res/drawable/editor_ctl_scale.xml
+SHA1-Digest: o9dg5K+FVaX9PyTu1KK3rcA3gS8
+
+Name: res/drawable-xhdpi/asusres_textfield_strokes_default_mtrl.9.png
+SHA1-Digest: yA2BD0R+swBlBJnL2clY7EuSPmU
+
+Name: res/drawable/editor_ic_mosaic4.xml
+SHA1-Digest: 4bUobCp15HrpJOy9y4M5sFVNthw
+
+Name: res/drawable-mdpi/asusres_expander_close_mtrl.9.png
+SHA1-Digest: TDh9DCz4vXA18U48MMOENQmQUpc
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_014.png
+SHA1-Digest: JSEnCpFRYAdYG6CXBNmqhd1mtWQ
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: U41IgRp44Wx/lVtPzhFjT0Mg4xE
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: t4lIz00OxX5b7nTSXe5oruW5fBk
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: GxOOA8QTkoXqJHNfaJ65+TOnO3Q
+
+Name: res/drawable-xxhdpi/asusres_expander_close_holo_dark.9.png
+SHA1-Digest: r1WWKZJbbzt5pvt4itduNyRV3CA
+
+Name: res/drawable/asusres_btn_check_material_anim_dark.xml
+SHA1-Digest: GbS/oCWGix7btO94ihr8J834fOk
+
+Name: res/drawable-hdpi/asusres_spinner_pressed_holo.9.png
+SHA1-Digest: NMDvrlX5OaVMJj+JXpaZbh/Yb6M
+
+Name: res/drawable/asusres_textfield_search_material_rog_dark.xml
+SHA1-Digest: xCvgEQSKjl7uV2pCGVCjXCwHs9s
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: fVcODpOgK654T1dF+vJ25IzIX+A
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_off_mtrl_004.png
+SHA1-Digest: vKnbfoCpyC3TDTKuXKcfp71FTeE
+
+Name: res/drawable-land-xxxhdpi/asusres_permission_image.png
+SHA1-Digest: dFVxUNA/doADniHLg9soCsf//+g
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_005.png
+SHA1-Digest: ocoPD96OVHPYmsBY+R2WooWxf2w
+
+Name: res/drawable-mdpi/asusres_btn_check_to_on_mtrl_012.png
+SHA1-Digest: MDa1LxREjehyXn01Lycfo08Ly0o
+
+Name: res/drawable-xxhdpi/asusres_spinner_ab_default_holo_dark.9.png
+SHA1-Digest: gu8Np9LUbIDd+sxsccRLyDSfXYM
+
+Name: res/drawable-hdpi/asusres_btn_check_to_off_mtrl_012.png
+SHA1-Digest: aFn4BH9apHk3XTsyMkVi0YwVM/8
+
+Name: res/drawable-mdpi/asusres_btn_check_to_off_mtrl_010.png
+SHA1-Digest: 00ZPfZ4JPSVPhPpjrEPbmnL9/O8
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_on_mtrl_002.png
+SHA1-Digest: gqFcTaYZi4k0AHUh9roUjZCMuao
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_off_mtrl_009.png
+SHA1-Digest: kWw5Vq4VC+LLhFETDjpR+ohxplo
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_default_normal_storkes_mtr
+ l.9.png
+SHA1-Digest: DxH4KdQTxDT0zMMB0dskNHYyEZQ
+
+Name: res/drawable-xhdpi/abc_ic_star_half_black_48dp.png
+SHA1-Digest: 5FpyD6gqwU5xpIAC80ULYrYSJvE
+
+Name: res/drawable/asusres_ic_phone_permission_request_dialog.xml
+SHA1-Digest: 45ruyPT6fFzsTFwuKN9RMkRWblY
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: yFgUPYBfB7UVY77zxSBezttRjo8
+
+Name: res/drawable-sw540dp-xhdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: jNznhcQEG1GrrTUriePgAM4tXRM
+
+Name: res/drawable-hdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA1-Digest: GwBkVpFocua2skuTOQdu6vCV5z0
+
+Name: res/drawable-mdpi/asusres_scrubber_track_mtrl.9.png
+SHA1-Digest: A5WdBEtcpcZjeBe1xlDzJYBuJmE
+
+Name: res/drawable/asusres_bottom_navigation_background_rog_light.xml
+SHA1-Digest: /O3IGYNWQattjwpSh0tD9IJ26ZQ
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: CZJPC91uUEbe9tfIIpJuAK+D86U
+
+Name: res/drawable/ripple_preview_background.xml
+SHA1-Digest: M5EKYP7nNHsh0s82mmak9giHgJ8
+
+Name: res/drawable-xxhdpi/asusres_gradient_bg_mtrl.9.png
+SHA1-Digest: sKIbP63FRzIzrOul2zpthmEDtng
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_008.png
+SHA1-Digest: jNclATNbF2dg3OkjDVRNPmVl6k4
+
+Name: res/drawable-xxhdpi/asusres_expander_close_holo_light.9.png
+SHA1-Digest: EnoR1wNUez6BQyA3Mo4A2zbiE/w
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_off_mtrl_011.png
+SHA1-Digest: FzoqhvcgH8aiq5hPkO36I+asr2s
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: bSSnqBIPpSvFdsAL3UbQKFPE0n0
+
+Name: res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: HX9PBNClfl3Z88BcAxLXe1+QvSY
+
+Name: res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: ehAUprTIZsh3hB2fjGkFzCY5BxY
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_off_mtrl_002.png
+SHA1-Digest: LxJUcUXh3AKMSXAiX98OVdmX124
+
+Name: res/anim/abc_tooltip_exit.xml
+SHA1-Digest: lk3p1zYpSOGbkfKYggQGNE69/X4
+
+Name: res/drawable-xhdpi/abc_list_longpressed_holo.9.png
+SHA1-Digest: 3yIE5VYlBti48V+SVkTTX+bfFCo
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_off_mtrl_006.pn
+ g
+SHA1-Digest: 6kRNoYOQFG8lSsfFWIbNebvYZNU
+
+Name: res/drawable/asusres_ic_voice_search_api_material.xml
+SHA1-Digest: Wf7KaY7JYrAVNskF9rrwRF+Ve24
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_off_mtrl_002.png
+SHA1-Digest: jZsaPwN1VbtCFzwKJufU3znSRQE
+
+Name: res/drawable-mdpi/asusres_btn_radio_on_holo.png
+SHA1-Digest: hbUpHsOEIF9+gWbBwU5vzfsyd/c
+
+Name: res/drawable-sw600dp-mdpi/asusres_spinner_ab_arrow_mtrl.9.png
+SHA1-Digest: y9WOZkiOg+XuozVvV6e/6hWjoMk
+
+Name: res/drawable-xhdpi/asusres_scrubber_track_holo_dark.9.png
+SHA1-Digest: hixhNCXNSQNu+gdaE4LpElZsVis
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_off_mtrl_014.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: rOSqSdad1HZqWzOgEXXc9bZzAno
+
+Name: res/drawable-xhdpi/asusres_btn_radio_to_on_mtrl_001.png
+SHA1-Digest: UB4s4eA/FGmbc5ZsViG1SOSw0GM
+
+Name: res/drawable-xxhdpi/asusres_btn_check_to_on_mtrl_006.png
+SHA1-Digest: 3mh0M58gtODchkGvtPppLTa2Qg4
+
+Name: res/drawable/editor_ripple_effect_transparent.xml
+SHA1-Digest: d4ihBCB3vSY7w+0o7dl28E3o/dc
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA1-Digest: in5ZJBKLfCyxNImXpAaIvMmsBQ8
+
+Name: firebase-measurement-connector-impl.properties
+SHA1-Digest: lBn+NcmF2OKzB/imkrr0WFsUoyo
+
+Name: res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: 8mAbZZwaN/Absh166esbtgeTWDY
+
+Name: res/drawable-hdpi/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: xikdq0MUk/db6+MwsR0wYysb7nE
+
+Name: res/drawable-hdpi/asusres_btn_check_on_disable_holo_dark.png
+SHA1-Digest: kINm2nwBdPcrbfLeSTj3DotaaNM
+
+Name: res/drawable-sw600dp-xhdpi/asusres_textfield_strokes_default_mtr
+ l.9.png
+SHA1-Digest: yA2BD0R+swBlBJnL2clY7EuSPmU
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.9.png
+SHA1-Digest: NE2Il1N9BtSD/Z7BY6cnA22mVSE
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_radio_to_off_mtrl_011.png
+SHA1-Digest: cwN9m9Ljg1nESaVNFZWylZubl38
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: zgFPgv5DgeWO+0jGrSa0ifxH0Y0
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_off_mtrl_007.png
+SHA1-Digest: cr0h31RKm0SRebyLicoumo9Lmec
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: cjlkTLFufR528bQHOGoXmvVvptU
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_radio_to_on_mtrl_006.png
+SHA1-Digest: bbNrt3MmlwlfKY8S6LIXCrRet5k
+
+Name: res/layout/asusres_actionbar_searchview.xml
+SHA1-Digest: D2Q87aoeuX4coSDcD06QiAYwgAU
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: OV/ymp0V4gUskNOsISAQL3xdhls
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_default_normal_mtrl.9.pn
+ g
+SHA1-Digest: zFF1VUSs0f/crcZo+fxLtbELp8U
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_off_mtrl_013.png
+SHA1-Digest: k2Do42BNHn7ncIsF/SlyFiwf0lQ
+
+Name: res/drawable-mdpi/asusres_expander_close_holo_dark.9.png
+SHA1-Digest: tO1tfqFUZQ8p3iCycpnnJ/GOLKE
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_off_mtrl_009.png
+SHA1-Digest: w5cdpUBpSB3mFgkt6b7dEiyx23w
+
+Name: res/drawable-xhdpi/common_full_open_on_phone.png
+SHA1-Digest: HP+31ii3IcHx4ttOhH81nkSK1a8
+
+Name: res/drawable-hdpi/common_google_signin_btn_icon_dark_normal_back
+ ground.9.png
+SHA1-Digest: k0dHXFDmA0mWugWDxRDbugZJjqs
+
+Name: res/drawable-sw600dp-xhdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: jbksHsfh6Niyf70u84UgYzK8ACY
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_015.png
+SHA1-Digest: LA+rLNzGvB+2e49ELls/t7Ffc1c
+
+Name: res/drawable-mdpi/asusres_scrubber_control_pressed_holo.png
+SHA1-Digest: N74+LSOCUziO2gSQm1b5FxNFt8Y
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: 9dt9kf57KlZfkr+khkrkcEyln9s
+
+Name: res/drawable-xxhdpi/asusres_btn_radio_to_off_mtrl_006.png
+SHA1-Digest: 6kRNoYOQFG8lSsfFWIbNebvYZNU
+
+Name: res/drawable-xxhdpi/asusres_scrubber_control_normal_holo.png
+SHA1-Digest: BFevXEBJPMzJZ6FMvU5VmHQ9bhM
+
+Name: res/drawable-mdpi/asusres_spinner_bg_mtrl.9.png
+SHA1-Digest: UDrSXqvK7iP8jr68SIg3K9kAuac
+
+Name: res/drawable-sw600dp-hdpi/asusres_spinner_strokes_mtrl.9.png
+SHA1-Digest: aaLIoSnup0HkdRthQVze8fr6Gss
+
+Name: res/layout/asusres_actionbar_searchview_divider_dark.xml
+SHA1-Digest: bA9pTOc+oLchMFTpA326cE3iIKg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_000.png
+SHA1-Digest: 6fKjfklohySEYLlY3hnDtQxSr6M
+
+Name: res/drawable-hdpi/asusres_ic_menu_copy_holo_dark.png
+SHA1-Digest: k2jrwigFHhfU7X3bxAYVLkKEfcI
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_check_to_on_mtrl_001.png
+SHA1-Digest: p8oejf0AbN+7VBqXWCsCt0KpCyc
+
+Name: res/drawable-xhdpi/asusres_scrubber_control_bg_mtrl.png
+SHA1-Digest: DRXJE/RMq3VfBrtgOPL9H7d+iss
+
+Name: res/drawable-hdpi/asusres_ic_menu_selectall_holo_light.png
+SHA1-Digest: M+93lD8DyYpYp/j3t6UFOhXX6Eo
+
+Name: res/drawable/asusres_btn_borderless_material.xml
+SHA1-Digest: Y+ojsuxPKhNMjOKuFqrCV0i+Unw
+
+Name: res/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: mQGo86tHsIbbXUpwO9KRLegYyu0
+
+Name: res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.pn
+ g
+SHA1-Digest: jcPj6VwC31egCCr5xCNgnf1CgN0
+
+Name: res/drawable-sw600dp-mdpi/asusres_btn_check_to_on_mtrl_011.png
+SHA1-Digest: JS1L6U1NCjpn9QZVVccphgIujW8
+
+Name: res/drawable/asusres_list_divider_light.xml
+SHA1-Digest: iJN19Irg8bjfzK4VrMOJirwdzxY
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: b3VUsX+wafzK+AD8yIfjcuYm0qw
+
+Name: res/drawable-hdpi/asusres_btn_radio_to_on_mtrl_013.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable-hdpi/asusres_btn_check_to_on_mtrl_000.png
+SHA1-Digest: quXAi94THcTNA5m1bJ0uAF8epwc
+
+Name: res/drawable-xhdpi/asusres_spinner_pressed_holo.9.png
+SHA1-Digest: vARZvw/q1S6Y5g2xDegXmLH6Df0
+
+Name: res/drawable-xxxhdpi/abc_ic_star_half_black_48dp.png
+SHA1-Digest: q3wWeVKD/E+qjcvo3HpxBtNbngg
+
+Name: res/drawable-sw540dp-xhdpi/asusres_btn_check_to_off_mtrl_015.png
+SHA1-Digest: igVc83D4kwgU/2kgSgCmTikF6d4
+
+Name: res/drawable/asusres_ic_camera_permission_request_dialog.xml
+SHA1-Digest: rfYMxTHtOUCMYgIIsZ5LyiNCEic
+
+Name: res/drawable/asusres_ic_menu_share_material.xml
+SHA1-Digest: xKU4XA4tWUpmV90SrEFzwxDO4Jc
+
+Name: res/drawable/ic_asus_screenshot_ic_extend.xml
+SHA1-Digest: lQ2QF9FzUTktIzqa5NyLWn8MjNk
+
+Name: res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png
+SHA1-Digest: w2M/6PsN/C8elViPL2mURvfV6j0
+
+Name: res/drawable-sw600dp-hdpi/asusres_btn_radio_to_on_mtrl_012.png
+SHA1-Digest: KZotCl6xzAGXXJUy2WAs98jMMss
+
+Name: res/drawable-hdpi/googleg_standard_color_18.png
+SHA1-Digest: FeAurMe3wqXIrSUKp1Ky8+TbqAc
+
+Name: res/drawable-sw600dp-mdpi/asusres_spinner_arrow_mtrl.9.png
+SHA1-Digest: DZtTdMWhYMA9K9K46dN/YScnp3c
+
+Name: res/drawable-hdpi/asusres_scrubber_control_disabled_holo.png
+SHA1-Digest: 3lcS3ZViy3qx30cMdRTthvFaGGE
+
+Name: res/drawable-ldrtl/asusres_list_divider_small_icon_with_padding_
+ rog_dark.xml
+SHA1-Digest: Q4pxmVEWdpsFmf36HLTQfsPQEiI
+
+Name: play-services-basement.properties
+SHA1-Digest: V6DTN0KZN4fLPF8kDDenmzraLjs
+
+Name: res/drawable-mdpi/asusres_textfield_strokes_activated_mtrl.9.png
+SHA1-Digest: iMQA8oICInckbH6ZIoseVe0G1oU
+
+Name: res/drawable/asusres_ic_cancel_material.xml
+SHA1-Digest: hPAwL5oSUic6cj1NaQzqvfeTZxU
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_radio_to_on_mtrl_009.png
+SHA1-Digest: JXn+hSocsvhVb4slsaeTAFxf1ak
+
+Name: res/drawable-sw600dp-xxhdpi/asusres_btn_check_to_off_mtrl_004.pn
+ g
+SHA1-Digest: Ykcza+55wBkhEeAV7XQnuWuGzqA
+
+Name: res/drawable-mdpi/asusres_btn_radio_to_off_mtrl_012.png
+SHA1-Digest: Dj72f7qg941lxiCI6HvtdYpHMlE
+
+Name: res/drawable-xhdpi/asusres_btn_check_to_on_mtrl_003.png
+SHA1-Digest: hUosinlUrVSlidOwwUayyhGaews
+
+Name: res/drawable-mdpi/abc_text_select_handle_middle_mtrl_light.png
+SHA1-Digest: FOpTH+3B1AfQCFYjVijy8KneZJw
+

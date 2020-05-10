@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/asusres_permission_request_dialog_horizontal_padding" android:paddingEnd="@dimen/asusres_permission_request_dialog_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/asusres_permission_request_dialog_banner_height">
+            <ImageView android:layout_width="@dimen/asusres_permission_request_dialog_icon_bg_size" android:layout_height="@dimen/asusres_permission_request_dialog_icon_bg_size" android:src="@drawable/asusres_permission_request_dialog_icon_bg" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+            <ImageView android:id="@id/icon" android:layout_width="@dimen/asusres_permission_request_dialog_icon_size" android:layout_height="@dimen/asusres_permission_request_dialog_icon_size" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <TextView android:gravity="center" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@string/asusres_font_family_permission_request_dialog_title" style="?android:windowTitleStyle" />
+        <TextView android:gravity="center" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/asusres_permission_request_dialog_description_margin_top" android:layout_marginBottom="@dimen/asusres_permission_request_dialog_description_margin_bottom" style="?android:textAppearanceMedium" />
+    </LinearLayout>
+</ScrollView>

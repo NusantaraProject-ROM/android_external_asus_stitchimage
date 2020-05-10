@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/ctrl_btn_fg_color" android:pathData="M14.9044,4.4105L14.9044,3.2695L9.0956,3.2695v1.141L4.1858,4.4105L4.1858,6.3468L5.1885,6.3468L5.1885,18.1941A2.5392,2.5392 0,0 0,7.7247 20.7305L16.2753,20.7305a2.5392,2.5392 0,0 0,2.5362 -2.5364L18.8115,6.3468h1.0027L19.8142,4.4105ZM16.8752,18.1941a0.6006,0.6006 0,0 1,-0.6 0.6001L7.7247,18.7942a0.6006,0.6006 0,0 1,-0.6 -0.6001L7.1247,6.3468h9.7505ZM11.1356,8.2829L9.1993,8.2829v8.5749h1.9363ZM14.939,8.2829L13.0027,8.2829v8.5749L14.939,16.8578Z" />
+</vector>

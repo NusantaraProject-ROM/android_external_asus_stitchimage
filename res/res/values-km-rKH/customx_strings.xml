@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">រូបថត​អេក្រង់</string>
+    <string name="circle_btn_done">ធ្វើរួច</string>
+    <string name="circle_btn_edit">កែ</string>
+    <string name="circle_btn_extend">ពង្រីក</string>
+    <string name="circle_btn_long_screenshot">​រូបថត​អេក្រង់វែង</string>
+    <string name="circle_btn_share">ចែក​រំលែក​</string>
+    <string name="editor_left_dialog_message">តើ​អ្នក​ចង់​រក្សា​ទុក​មុន​ពេល​ចេញឬ?</string>
+    <string name="editor_left_dialog_negative_btn">ទេ</string>
+    <string name="editor_left_dialog_positive_btn">បាទ/ចាស</string>
+    <string name="editor_left_dialog_title">រក្សា​ទុក​​ ហើយ​ចេញ</string>
+    <string name="editor_text_text">អត្ថបទ</string>
+    <string name="editor_toast_file_not_found">ឯកសារ​មិន​ទាន់​មាន​ឡើយ</string>
+    <string name="editor_toast_processing">កំពុង​ដំណើរការ​រូបភាព​មាន​គុណភាព​បង្ហាញ​​ពេញលេញ...</string>
+    <string name="editor_toast_save_failed">ការ​រក្សាទុក​បាន​បរាជ័យ​</string>
+    <string name="notification_delete">លុប</string>
+    <string name="notification_share">ចែក​រំលែក​</string>
+    <string name="notification_text">ប៉ះដើម្បីមើលរូបថតអេក្រង់របស់អ្នក​</string>
+    <string name="notification_title">រូបថតអេក្រង់បានថត</string>
+    <string name="toast_screenshot_saved">រូបថតអេក្រង់បានថត</string>
+</resources>

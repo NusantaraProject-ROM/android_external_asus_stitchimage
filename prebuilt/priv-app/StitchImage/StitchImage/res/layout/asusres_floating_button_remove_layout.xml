@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/asusres_floating_btn_remove_bg" android:background="@drawable/asusres_btn_floating_remove_bg" android:layout_width="fill_parent" android:layout_height="@dimen/asusres_floating_button_remove_layout_height" android:layout_alignParentBottom="true" />
+    <ImageView android:id="@id/asusres_floating_btn_remove" android:layout_width="@dimen/asusres_floating_button_remove_size" android:layout_height="@dimen/asusres_floating_button_remove_size" android:layout_marginBottom="@dimen/asusres_floating_button_remove_padding_bottom" android:src="@drawable/asusres_btn_floating_remove" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+    <ImageView android:id="@id/asusres_floating_btn_remove_trigger" android:layout_width="@dimen/asusres_floating_button_remove_trigger_size" android:layout_height="@dimen/asusres_floating_button_remove_trigger_size" android:layout_marginBottom="@dimen/asusres_floating_button_remove_trigger_padding_bottom" android:src="@drawable/asusres_btn_floating_remove" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:contentDescription="@null" />
+</RelativeLayout>

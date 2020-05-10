@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_buttons_layout_padding_bottom">30.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_layout_horizontal_padding">35.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_padding_top">35.0dip</dimen>
+    <dimen name="asusres_permission_request_full_page_title_margin_bottom">35.0dip</dimen>
+    <dimen name="asusres_tab_indicator_height">45.0dip</dimen>
+    <dimen name="ctrl_btn_drawable_padding">6.0dip</dimen>
+    <dimen name="ctrl_btn_margin_top">8.0dip</dimen>
+    <dimen name="prvw_margin_bottom">16.0dip</dimen>
+</resources>

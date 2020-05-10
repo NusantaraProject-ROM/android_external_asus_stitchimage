@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="?actionBarItemColor" android:height="24.0dip" android:width="24.0dip" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@android:color/white" android:pathData="M3,5L5,5L5,3A2,2 0,0 0,3 5ZM3,13L5,13L5,11L3,11v2ZM7,21L9,21L9,19L7,19v2ZM3,9L5,9L5,7L3,7L3,9ZM13,3L11,3L11,5h2L13,3ZM19,3L19,5h2A2,2 0,0 0,19 3ZM5,21L5,19L3,19A2,2 0,0 0,5 21ZM3,17L5,17L5,15L3,15v2ZM9,3L7,3L7,5L9,5L9,3ZM11,21h2L13,19L11,19v2ZM19,13h2L21,11L19,11v2ZM19,21a2,2 0,0 0,2 -2L19,19v2ZM19,9h2L21,7L19,7L19,9ZM19,17h2L21,15L19,15v2ZM15,21h2L17,19L15,19v2ZM15,5h2L17,3L15,3L15,5ZM7,17L17,17L17,7L7,7L7,17ZM9,9h6v6L9,15L9,9Z" />
+</vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/asusres_bottom_navigation_background">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/asusres_bottom_navigation_view_bg_color_light" />
+        </shape>
+    </item>
+    <item android:gravity="top" android:id="@id/asusres_bottom_navigation_divider" android:drawable="@drawable/asusres_bottom_navigation_divider_light" />
+</layer-list>
