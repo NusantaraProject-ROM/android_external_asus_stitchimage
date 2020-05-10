@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_bg_mtrl" android:tint="@color/asusres_scrubber_control_bg_disabled" />
+            </item>
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_stroke_mtrl" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_pressed="true">
+        <layer-list android:paddingMode="stack">
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_bg_mtrl" android:tint="?android:colorControlActivated" />
+            </item>
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_bg_mtrl" android:tint="@color/asusres_scrubber_control_bg_mask_pressed" />
+            </item>
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_stroke_mtrl" />
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list android:paddingMode="stack">
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_bg_mtrl" android:tint="?android:colorControlActivated" />
+            </item>
+            <item>
+                <bitmap android:src="@drawable/asusres_scrubber_control_stroke_mtrl" />
+            </item>
+        </layer-list>
+    </item>
+</selector>

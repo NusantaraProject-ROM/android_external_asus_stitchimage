@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service android:description="@string/app_name" android:notificationTimeout="100" android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagRetrieveInteractiveWindows" android:canRetrieveWindowContent="true" android:canRequestTouchExplorationMode="false" android:canRequestEnhancedWebAccessibility="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

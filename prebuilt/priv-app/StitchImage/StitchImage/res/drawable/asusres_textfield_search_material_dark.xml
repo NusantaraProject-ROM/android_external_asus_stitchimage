@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/asusres_textfield_search_background">
+        <shape android:shape="rectangle">
+            <corners android:radius="10.0dip" />
+            <stroke android:width="1.0px" android:color="@color/asusres_divider_color_dark" />
+            <solid android:color="@color/asusres_searchview_background_color_dark" />
+        </shape>
+    </item>
+</layer-list>

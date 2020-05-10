@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/asusres_widget_inset_left" android:insetRight="@dimen/asusres_widget_inset_right" android:insetTop="@dimen/asusres_widget_inset_top" android:insetBottom="@dimen/asusres_widget_inset_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item android:state_enabled="false">
+            <layer-list android:paddingMode="stack">
+                <item>
+                    <nine-patch android:src="@drawable/asusres_btn_default_normal_mtrl" android:tint="@color/asusres_button_bg_light_disabled" />
+                </item>
+                <item>
+                    <nine-patch android:src="@drawable/asusres_btn_default_normal_storkes_mtrl" android:tint="@color/asusres_button_strokes_light_disabled" />
+                </item>
+            </layer-list>
+        </item>
+        <item android:state_pressed="true">
+            <layer-list android:paddingMode="stack">
+                <item>
+                    <nine-patch android:src="@drawable/asusres_btn_default_normal_mtrl" android:tint="?android:colorControlActivated" />
+                </item>
+                <item>
+                    <nine-patch android:src="@drawable/asusres_btn_default_normal_mtrl" android:tint="?android:colorControlHighlight" />
+                </item>
+            </layer-list>
+        </item>
+        <item>
+            <nine-patch android:src="@drawable/asusres_btn_default_normal_mtrl" android:tint="?android:colorControlActivated" />
+        </item>
+    </selector>
+</inset>

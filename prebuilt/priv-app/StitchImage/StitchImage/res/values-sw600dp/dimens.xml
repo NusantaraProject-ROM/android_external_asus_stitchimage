@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_content_inset_material">24.0dip</dimen>
+    <dimen name="abc_action_bar_content_inset_with_nav">80.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">64.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">580.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="asusres_action_button_close_min_width">64.0dip</dimen>
+    <dimen name="asusres_action_button_close_padding_end">0.0dip</dimen>
+    <dimen name="asusres_action_button_min_width">56.0dip</dimen>
+    <dimen name="asusres_actionbar_height">64.0dip</dimen>
+    <dimen name="asusres_actionbar_title_text_size">21.0dip</dimen>
+    <dimen name="asusres_activity_layout_horizontal_padding">24.0dip</dimen>
+    <dimen name="asusres_category_text_size">20.0sp</dimen>
+    <dimen name="asusres_dialog_content_no_title_spacer">10.0dip</dimen>
+    <dimen name="asusres_expandable_list_item_indicator_left">11.0dip</dimen>
+    <dimen name="asusres_expandable_list_item_padding_left">64.0dip</dimen>
+    <dimen name="asusres_list_item_min_height">64.0dip</dimen>
+    <dimen name="asusres_list_item_vertical_padding">12.0dip</dimen>
+    <dimen name="asusres_primary_text_size">18.0sp</dimen>
+    <dimen name="asusres_secondary_text_size">15.0sp</dimen>
+</resources>

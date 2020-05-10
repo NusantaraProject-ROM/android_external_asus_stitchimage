@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:layout_gravity="fill_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/asusres_bottom_sheet_dialog_title_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/bottom_sheet_dialog_btn_cancel" android:background="?android:actionBarItemBackground" android:layout_width="24.0dip" android:layout_height="@dimen/asusres_bottom_sheet_dialog_title_bar_height" android:src="@drawable/asusres_ic_cancel_material" android:layout_marginStart="@dimen/asusres_activity_layout_horizontal_padding" android:layout_alignParentStart="true" />
+    <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/bottom_sheet_dialog_title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:singleLine="true" android:layout_alignWithParentIfMissing="true" android:textAlignment="viewStart" android:layout_marginStart="@dimen/asusres_activity_layout_horizontal_padding" android:layout_toEndOf="@id/bottom_sheet_dialog_btn_cancel" style="@style/TextAppearance.AsusRes.BottomSheetDialog.Title" />
+    <ImageButton android:id="@id/bottom_sheet_dialog_btn_done" android:background="?android:actionBarItemBackground" android:layout_width="48.0dip" android:layout_height="@dimen/asusres_bottom_sheet_dialog_title_bar_height" android:src="@drawable/asusres_ic_done_material" android:layout_alignParentEnd="true" />
+</RelativeLayout>

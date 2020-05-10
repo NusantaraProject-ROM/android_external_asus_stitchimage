@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/asusres_dialog_horizontal_padding" android:insetRight="@dimen/asusres_dialog_horizontal_padding" android:insetTop="@dimen/asusres_dialog_vertical_padding" android:insetBottom="@dimen/asusres_dialog_vertical_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle">
+        <corners android:radius="14.0dip" />
+        <solid android:color="?android:colorBackground" />
+    </shape>
+</inset>

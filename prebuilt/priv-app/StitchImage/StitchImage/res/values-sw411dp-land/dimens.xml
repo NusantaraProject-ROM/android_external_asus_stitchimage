@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ctrl_btn_drawable_padding">5.0dip</dimen>
+    <dimen name="ctrl_btn_margin_top">-6.0dip</dimen>
+    <dimen name="prvw_margin_bottom">16.0dip</dimen>
+</resources>

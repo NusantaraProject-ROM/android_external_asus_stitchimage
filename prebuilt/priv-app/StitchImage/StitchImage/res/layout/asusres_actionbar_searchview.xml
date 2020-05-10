@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/home_as_up_button" android:background="?android:actionBarItemBackground" android:visibility="gone" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/asusres_ic_ab_back_material" android:layout_marginStart="8.0dip" />
+    <SearchView android:id="@id/searchview" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Widget.AsusRes.Light.SearchView.ActionBar" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/asusres_list_divider_rog_dark" android:left="@dimen/asusres_list_preferred_item_padding" android:right="@dimen/asusres_list_preferred_item_padding" />
+</layer-list>

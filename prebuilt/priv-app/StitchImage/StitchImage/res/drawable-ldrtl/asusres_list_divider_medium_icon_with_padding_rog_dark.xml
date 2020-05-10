@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/asusres_list_preferred_item_padding" android:right="@dimen/asusres_list_preferred_item_padding">
+        <layer-list>
+            <item android:right="@dimen/asusres_list_medium_icon_size">
+                <layer-list>
+                    <item android:drawable="@drawable/asusres_list_divider_rog_dark" android:right="@dimen/asusres_widget_horizontal_padding" />
+                </layer-list>
+            </item>
+        </layer-list>
+    </item>
+</layer-list>
