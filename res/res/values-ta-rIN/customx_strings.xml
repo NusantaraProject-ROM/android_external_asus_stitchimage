@@ -3,7 +3,7 @@
     <string name="app_name">ஸ்கிரீன்ஷாட்</string>
     <string name="circle_btn_done">முடிந்தது</string>
     <string name="circle_btn_edit">திருத்தவும்</string>
-    <string name="circle_btn_extend">விரிவாக்கு</string>
+    <string name="circle_btn_extend">விரிவு படுத்து</string>
     <string name="circle_btn_long_screenshot">நீண்ட ஸ்கிரீன்ஷாட்</string>
     <string name="circle_btn_share">பகிர்</string>
     <string name="editor_left_dialog_message">வெளியேறுவதற்கு முன் சேமித்திட வேண்டுமா?</string>
@@ -14,7 +14,7 @@
     <string name="editor_toast_file_not_found">கோப்புகள் இல்லை</string>
     <string name="editor_toast_processing">முழு தெளிவுத்திறன் படத்தை செயலாக்குகிறது...</string>
     <string name="editor_toast_save_failed">சேமிப்பது தோல்வியுற்றது</string>
-    <string name="foreground_notification_name">முன்புறம் இயங்கும் நிலை</string>
+    <string name="foreground_notification_name">பயன்பாட்டில் உள்ள செயல்களின் இயங்கும் நிலை</string>
     <string name="notification_delete">நீக்கவும்</string>
     <string name="notification_share">பகிர்</string>
     <string name="notification_text">உங்கள் ஸ்கிரீன்ஷாட்டைப் பார்க்க தட்டவும்</string>

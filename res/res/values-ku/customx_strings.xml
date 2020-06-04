@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">وێنەی ڕوونما</string>
+    <string name="circle_btn_done">ته‌واو</string>
+    <string name="circle_btn_edit">دەستکاریکردن</string>
+    <string name="circle_btn_extend">فراوانکردن</string>
+    <string name="circle_btn_long_screenshot"> وێنەی ڕوونمای درێژ</string>
+    <string name="circle_btn_share">هاوبەشکردن</string>
+    <string name="editor_left_dialog_message">ئه‌ته‌وێ پاشه‌که‌وتی بکه‌یت پێش چوونه‌ده‌ره‌وه‌؟</string>
+    <string name="editor_left_dialog_negative_btn">نەخێر</string>
+    <string name="editor_left_dialog_positive_btn">بەڵێ</string>
+    <string name="editor_left_dialog_title">پاشه‌که‌وتکردن و چوونه‌ ده‌ره‌وه‌</string>
+    <string name="editor_text_text">دەق</string>
+    <string name="editor_toast_file_not_found">پەڕگەکان بوونیان نییە</string>
+    <string name="editor_toast_processing">ئامادەکردنی وردی تەواوی وێنە...</string>
+    <string name="editor_toast_save_failed">پاشەکەوت شکستی هێنا</string>
+    <string name="foreground_notification_name">دۆخی کارکردن لەپشت شاشە</string>
+    <string name="notification_delete">سڕینەوە</string>
+    <string name="notification_share">هاوبەشکردن</string>
+    <string name="notification_text">گرتەبکە بۆ پیشاندانی وێنەی ڕوونما</string>
+    <string name="notification_title">وێنەی ڕوونما گیرا.</string>
+    <string name="screenshot_bubble_tips">پەنجەبنێ بێرەدا بۆ وێنەگرتنی درێژ</string>
+    <string name="screenshot_notification_name">دۆخی وێنەگرتنی شاشە</string>
+    <string name="toast_no_more_content">پێکهاتەی زیاتر بونی نیە بۆ وێنەگرتن</string>
+    <string name="toast_screenshot_forbidden">ناتوانرێ وێنەی شاشە بگیرێت</string>
+    <string name="toast_screenshot_saved">وێنەی شاشە گیرا</string>
+    <string name="toast_up_to_limit_screenshot">وێنەگرتنی درێژی شاشە گەیستوەتە زۆرترین ئاست</string>
+</resources>

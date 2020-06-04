@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Screenshot</string>
+    <string name="circle_btn_done">Lest</string>
+    <string name="circle_btn_edit">Editja</string>
+    <string name="circle_btn_extend">Tawwal</string>
+    <string name="circle_btn_long_screenshot">Screenshot twil</string>
+    <string name="circle_btn_share">Ixxerja</string>
+    <string name="editor_left_dialog_message">Tixtieq tissavja qabel ma toħroġ?</string>
+    <string name="editor_left_dialog_negative_btn">Le</string>
+    <string name="editor_left_dialog_positive_btn">Iva</string>
+    <string name="editor_left_dialog_title">Ssavja u oħroġ</string>
+    <string name="editor_text_text">Test</string>
+    <string name="editor_toast_file_not_found">Dawn il-fajls ma jeżistux</string>
+    <string name="editor_toast_processing">Ipproċessar tar-ritratti b\'kwalita assoluta...</string>
+    <string name="editor_toast_save_failed">Is-save falliet</string>
+    <string name="foreground_notification_name">Foreground running state</string>
+    <string name="notification_delete">Ħassar</string>
+    <string name="notification_share">Ixxerja</string>
+    <string name="notification_text">Agħfas sabiex tara l-iscreenshot tiegħek</string>
     <string name="notification_title">Screenshot maqbud</string>
+    <string name="screenshot_bubble_tips">Agħfas hawn sabiex tieħu screenshot twil.</string>
     <string name="screenshot_notification_name">Stat tal-iscreenshot</string>
+    <string name="toast_no_more_content">M’hemmx aktar kontenut biex jaqbad</string>
+    <string name="toast_screenshot_forbidden">Mhux kapaċi jaqbad l-iscreenshot</string>
+    <string name="toast_screenshot_saved">Screenshot maqbud</string>
+    <string name="toast_up_to_limit_screenshot">L-iscreenshot it-twil diġà laħaq it-tul massimu</string>
 </resources>

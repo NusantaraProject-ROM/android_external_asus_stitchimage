@@ -3,6 +3,7 @@
     <string name="app_name">স্ক্রীনশট</string>
     <string name="circle_btn_done">হয়েছে</string>
     <string name="circle_btn_edit">সম্পাদনা করুন</string>
+    <string name="circle_btn_extend">Extend</string>
     <string name="circle_btn_long_screenshot">দীর্ঘ স্ক্রীনশট</string>
     <string name="circle_btn_share">শেয়ার</string>
     <string name="editor_left_dialog_message">বেরোনার আগে আপনি কি সংরক্ষণ করতে চান?</string>
@@ -13,6 +14,7 @@
     <string name="editor_toast_file_not_found">ফাইলগুলোর অস্তিত্ব নেই</string>
     <string name="editor_toast_processing">পূর্ণ রেজোলিউশন চিত্র বলবৎ করা হচ্ছে...</string>
     <string name="editor_toast_save_failed">সংরক্ষণে ব্যর্থ</string>
+    <string name="foreground_notification_name">Foreground running state</string>
     <string name="notification_delete">মুছুন</string>
     <string name="notification_share">শেয়ার</string>
     <string name="notification_text">আপনার স্ক্রীনশট দেখতে টোকা দিন</string>
