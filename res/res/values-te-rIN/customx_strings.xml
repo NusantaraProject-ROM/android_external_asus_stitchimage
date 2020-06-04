@@ -3,6 +3,7 @@
     <string name="app_name">స్క్రీన్ షాట్</string>
     <string name="circle_btn_done">చేయబడింది</string>
     <string name="circle_btn_edit">ఎడిట్</string>
+    <string name="circle_btn_extend">Extend</string>
     <string name="circle_btn_long_screenshot">సుదీర్ఘ స్క్రీన్ షాట్</string>
     <string name="circle_btn_share">షేర్</string>
     <string name="editor_left_dialog_message">ఎగ్జిట్ అవడానికి ముందు మీరు సేవ్ చేయాలనుకొంటున్నారా?</string>
@@ -13,6 +14,7 @@
     <string name="editor_toast_file_not_found">ఫైల్స్ ఉనికిలో లేవు</string>
     <string name="editor_toast_processing">పూర్తి రిజల్యూషన్ చిత్రం ప్రాసెస్ చేయబడుతోంది...</string>
     <string name="editor_toast_save_failed">సేవ్ చేయడం విఫలమయింది</string>
+    <string name="foreground_notification_name">Foreground running state</string>
     <string name="notification_delete">తొలగించండి</string>
     <string name="notification_share">షేర్</string>
     <string name="notification_text">మీ స్క్రీన్ షాట్ చూడడానికి ట్యాప్ చేయండి</string>

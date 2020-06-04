@@ -3,6 +3,7 @@
     <string name="app_name">સ્ક્રીનશોટ</string>
     <string name="circle_btn_done">થઈ ગયું</string>
     <string name="circle_btn_edit">સંપાદિત કરો</string>
+    <string name="circle_btn_extend">Extend</string>
     <string name="circle_btn_long_screenshot">લાંબો સ્ક્રીનશોટ</string>
     <string name="circle_btn_share">વહેંચણી કરો</string>
     <string name="editor_left_dialog_message">શું તમે બહાર નીકળતા પહેલાં બચાવવા માંગો છો?</string>
@@ -13,6 +14,7 @@
     <string name="editor_toast_file_not_found">ફાઇલો અસ્તિત્વમાં નથી</string>
     <string name="editor_toast_processing">સંપૂર્ણ રીઝોલ્યુશન ઇમેજ પર પ્રક્રિયા કરી રહ્યું છે...</string>
     <string name="editor_toast_save_failed">સાચવવામાં નિષ્ફળ</string>
+    <string name="foreground_notification_name">Foreground running state</string>
     <string name="notification_delete">કાઢી નાખો</string>
     <string name="notification_share">વહેંચણી કરો</string>
     <string name="notification_text">સ્ક્રીનશોટ કેપ્ચર કરી લીધો</string>

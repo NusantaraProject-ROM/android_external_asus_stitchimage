@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Здымак экрана</string>
+    <string name="circle_btn_done">Гатова</string>
+    <string name="circle_btn_edit">Змяніць</string>
+    <string name="circle_btn_extend">Падоўжыць</string>
+    <string name="circle_btn_long_screenshot">Доўгі здымак экрана</string>
+    <string name="circle_btn_share">Абагуліць</string>
+    <string name="editor_left_dialog_message">Захаваць змены?</string>
+    <string name="editor_left_dialog_negative_btn">Не</string>
+    <string name="editor_left_dialog_positive_btn">Так</string>
+    <string name="editor_left_dialog_title">Захаваць і выйсці</string>
+    <string name="editor_text_text">Тэкст</string>
+    <string name="editor_toast_file_not_found">Файл не існуе</string>
+    <string name="editor_toast_processing">Апрацоўка выявы максімальнай разрознасці...</string>
+    <string name="editor_toast_save_failed">Не атрымалася захаваць</string>
+    <string name="foreground_notification_name">Foreground running state</string>
+    <string name="notification_delete">Delete</string>
+    <string name="notification_share">Share</string>
+    <string name="notification_text">Tap to view your screenshot</string>
+    <string name="notification_title">Screenshot captured</string>
+    <string name="screenshot_bubble_tips">Click here to take long screenshots.</string>
+    <string name="screenshot_notification_name">Screenshot status</string>
+    <string name="toast_no_more_content">No more content to capture</string>
+    <string name="toast_screenshot_forbidden">Unable to capture screenshot</string>
+    <string name="toast_screenshot_saved">Screenshot captured</string>
+    <string name="toast_up_to_limit_screenshot">Long screenshot already reached its maximum length</string>
+</resources>
