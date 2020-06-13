@@ -14,7 +14,6 @@
     <string name="editor_toast_file_not_found">Dawn il-fajls ma jeżistux</string>
     <string name="editor_toast_processing">Ipproċessar tar-ritratti b\'kwalita assoluta...</string>
     <string name="editor_toast_save_failed">Is-save falliet</string>
-    <string name="foreground_notification_name">Foreground running state</string>
     <string name="notification_delete">Ħassar</string>
     <string name="notification_share">Ixxerja</string>
     <string name="notification_text">Agħfas sabiex tara l-iscreenshot tiegħek</string>

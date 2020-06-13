@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Screenshot</string>
-    <string name="circle_btn_done">Done</string>
-    <string name="circle_btn_edit">Edit</string>
-    <string name="circle_btn_extend">Extend</string>
-    <string name="circle_btn_long_screenshot">Long screenshot</string>
-    <string name="circle_btn_share">Share</string>
-    <string name="editor_left_dialog_message">Do you want to save before exiting?</string>
-    <string name="editor_left_dialog_negative_btn">No</string>
-    <string name="editor_left_dialog_positive_btn">Yes</string>
-    <string name="editor_left_dialog_title">Save and exit</string>
-    <string name="editor_text_text">Text</string>
-    <string name="editor_toast_file_not_found">Files do not exist</string>
-    <string name="editor_toast_processing">Processing full resolution image...</string>
-    <string name="editor_toast_save_failed">Save failed</string>
-    <string name="foreground_notification_name">Foreground running state</string>
-    <string name="notification_delete">Delete</string>
-    <string name="notification_share">Share</string>
-    <string name="notification_text">Tap to view your screenshot</string>
-    <string name="notification_title">Screenshot captured</string>
-    <string name="screenshot_bubble_tips">Click here to take long screenshots.</string>
-    <string name="screenshot_notification_name">Screenshot status</string>
-    <string name="toast_no_more_content">No more content to capture</string>
-    <string name="toast_screenshot_forbidden">Unable to capture screenshot</string>
-    <string name="toast_screenshot_saved">Screenshot captured</string>
-    <string name="toast_up_to_limit_screenshot">Long screenshot already reached its maximum length</string>
+    <string name="app_name">Սքրինշոթ</string>
+    <string name="circle_btn_done">Պատրաստ է</string>
+    <string name="circle_btn_edit">Խմբագրել</string>
+    <string name="circle_btn_extend">Մեծացնել</string>
+    <string name="circle_btn_long_screenshot">Երկար սքրինշոթ</string>
+    <string name="circle_btn_share">Տարածել</string>
+    <string name="editor_left_dialog_message">Պահպանել փոփոխությունները</string>
+    <string name="editor_left_dialog_negative_btn">Ոչ</string>
+    <string name="editor_left_dialog_positive_btn">Այո</string>
+    <string name="editor_left_dialog_title">Պահել և դուրս գալ</string>
+    <string name="editor_text_text">Տեքստ</string>
+    <string name="editor_toast_file_not_found">Ֆայլը գոյություն չունի</string>
+    <string name="editor_toast_processing">Պահպանում․․․</string>
+    <string name="editor_toast_save_failed">Պահպանել չհաջողվեց</string>
+    <string name="notification_delete">Ջնջել</string>
+    <string name="notification_share">Տարածել</string>
 </resources>
