@@ -3,7 +3,6 @@
     <string name="app_name">ಸ್ಕ್ರೀನ್ ಶಾಟ್</string>
     <string name="circle_btn_done">ಆಗಿದೆ/ಮುಗಿದಿದೆ</string>
     <string name="circle_btn_edit">ಎಡಿಟ್ ಮಾಡಿ</string>
-    <string name="circle_btn_extend">Extend</string>
     <string name="circle_btn_long_screenshot">ಉದ್ದವಾದ ಸ್ಕ್ರೀನ್‌ಶಾಟ್</string>
     <string name="circle_btn_share">ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="editor_left_dialog_message">ನೀವು ನಿರ್ಗಮಿಸುವ ಮೊದಲು ಉಳಿಸಲು ಬಯಸುವಿರಾ?</string>
@@ -14,7 +13,6 @@
     <string name="editor_toast_file_not_found">ಫೈಲ್ ಗಳು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ</string>
     <string name="editor_toast_processing">ಸಂಪೂರ್ಣ ರೆಸಲ್ಯೂಷನ್ ಚಿತ್ರವನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತಿದೆ...</string>
     <string name="editor_toast_save_failed">ಉಳಿಸುವ ಕಾರ್ಯ ವಿಫಲಗೊಂಡಿದೆ</string>
-    <string name="foreground_notification_name">Foreground running state</string>
     <string name="notification_delete">ಅಳಿಸಿಹಾಕಿ</string>
     <string name="notification_share">ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="notification_text">ನಿಮ್ಮ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅನ್ನು ವೀಕ್ಷಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
