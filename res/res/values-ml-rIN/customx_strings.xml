@@ -14,7 +14,7 @@
     <string name="editor_toast_file_not_found">ഫയലുകൾ നിലനിൽക്കുന്നില്ല</string>
     <string name="editor_toast_processing">ഫുൾ റെസല്യൂഷൻ ചിത്രം പ്രോസസ് ചെയ്യുന്നു...</string>
     <string name="editor_toast_save_failed">സേവ് ചെയ്യൽ പരാജയപ്പെട്ടു</string>
-    <string name="foreground_notification_name">മുൻഭാഗതു പ്രവർത്തിക്കുന്ന അവസ്ഥ</string>
+    <string name="foreground_notification_name">മുൻഭാഗത്തു പ്രവർത്തിക്കുന്ന അവസ്ഥ</string>
     <string name="notification_delete">ഡിലീറ്റ് ചെയ്യുക</string>
     <string name="notification_share">പങ്കുവയ്ക്കുക</string>
     <string name="notification_text">നിങ്ങളുടെ സ്‌ക്രീൻഷോട്ട് കാണുന്നതിന് ടാപ്പ് ചെയ്യുക</string>
