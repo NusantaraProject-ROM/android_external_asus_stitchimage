@@ -14,9 +14,15 @@
     <string name="editor_toast_file_not_found">ឯកសារ​មិន​ទាន់​មាន​ឡើយ</string>
     <string name="editor_toast_processing">កំពុង​ដំណើរការ​រូបភាព​មាន​គុណភាព​បង្ហាញ​​ពេញលេញ...</string>
     <string name="editor_toast_save_failed">ការ​រក្សាទុក​បាន​បរាជ័យ​</string>
+    <string name="foreground_notification_name">ស្ថានភាពផ្ទៃខាងមុខ កំពុងដំណើការ</string>
     <string name="notification_delete">លុប</string>
     <string name="notification_share">ចែក​រំលែក​</string>
     <string name="notification_text">ប៉ះដើម្បីមើលរូបថតអេក្រង់របស់អ្នក​</string>
     <string name="notification_title">រូបថតអេក្រង់បានថត</string>
+    <string name="screenshot_bubble_tips">ចុចនៅទីនេះ ដើម្បីថតរូបអេក្រង់វែង។</string>
+    <string name="screenshot_notification_name">ស្ថានភាពរូបអេក្រង់</string>
+    <string name="toast_no_more_content">គ្មានមាតិការបន្ថែម ដើម្បីថតយកឡើយ</string>
+    <string name="toast_screenshot_forbidden">ពុំអាចថតយករូបអេក្រង់ឡើយ</string>
     <string name="toast_screenshot_saved">រូបថតអេក្រង់បានថត</string>
+    <string name="toast_up_to_limit_screenshot">ថតរូបអេក្រង់វែង បានឈានដល់ប្រវែងអតិបរមាវារួចហើយ</string>
 </resources>
