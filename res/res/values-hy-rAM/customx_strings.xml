@@ -14,6 +14,15 @@
     <string name="editor_toast_file_not_found">Ֆայլը գոյություն չունի</string>
     <string name="editor_toast_processing">Պահպանում․․․</string>
     <string name="editor_toast_save_failed">Պահպանել չհաջողվեց</string>
+    <string name="foreground_notification_name">Հավելվածի վիճակը արջևում</string>
     <string name="notification_delete">Ջնջել</string>
     <string name="notification_share">Տարածել</string>
+    <string name="notification_text">Սեղմեք էկրանի նկարը դիտելու համար</string>
+    <string name="notification_title">Սքրինշոթը պահվեց</string>
+    <string name="screenshot_bubble_tips">Սեղմեք՝ երկար սքրինշոթի համար</string>
+    <string name="screenshot_notification_name">Սկրինշոթի վիճակը</string>
+    <string name="toast_no_more_content">Սքրինշոթի տարրեր չկան</string>
+    <string name="toast_screenshot_forbidden">Չհաջողվեց նկարել</string>
+    <string name="toast_screenshot_saved">Սքրինշոթը նկարվեց</string>
+    <string name="toast_up_to_limit_screenshot">Երկար սքրինշոթի չափը լրացավ</string>
 </resources>

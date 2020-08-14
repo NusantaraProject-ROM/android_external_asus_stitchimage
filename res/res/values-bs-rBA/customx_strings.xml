@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Slika ekrana</string>
+    <string name="circle_btn_done">Završeno</string>
+    <string name="circle_btn_edit">Uredi</string>
+    <string name="circle_btn_extend">Prošireno</string>
+    <string name="circle_btn_long_screenshot">Dugi snimak zaslona</string>
+    <string name="circle_btn_share">Podijelite</string>
+    <string name="editor_left_dialog_message">Želite li sačuvati izmjene prije izlaska iz aplikacije?</string>
+    <string name="editor_left_dialog_negative_btn">Ne</string>
+    <string name="editor_left_dialog_positive_btn">Da</string>
+    <string name="editor_left_dialog_title">Sačuvaj i izađi</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Datoteke ne postoje</string>
+    <string name="editor_toast_processing">Obrada slike u punoj rezoluciji...</string>
+    <string name="editor_toast_save_failed">Spremanje neuspjelo</string>
+    <string name="foreground_notification_name">Pozadina pokrenutog stanja</string>
+    <string name="notification_delete">Obriši</string>
+    <string name="notification_share">Podijelite</string>
+    <string name="notification_text">Dodirnite da biste vidjeli snimku zaslona</string>
+    <string name="notification_title">Zaslon je snimljen</string>
+    <string name="screenshot_bubble_tips">Kliknite ovdje za snimanje dugog snimka zaslona.</string>
+    <string name="screenshot_notification_name">Status snimke zaslona</string>
+    <string name="toast_no_more_content">Nema više sadržaja za snimanje</string>
+    <string name="toast_screenshot_forbidden">Nije moguće snimiti snimak zaslona</string>
+    <string name="toast_screenshot_saved">Zaslon je snimljen</string>
+    <string name="toast_up_to_limit_screenshot">Dugi snimak zaslona već je dostigao maksimalnu duljinu</string>
+</resources>

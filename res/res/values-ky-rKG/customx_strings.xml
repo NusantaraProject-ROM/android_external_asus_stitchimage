@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Скриншот</string>
+    <string name="circle_btn_done">Даяр</string>
+    <string name="circle_btn_edit">Оңдоо</string>
+    <string name="circle_btn_share">Бөлүшүү</string>
+    <string name="editor_left_dialog_negative_btn">Жок</string>
+    <string name="editor_left_dialog_positive_btn">Ооба</string>
+    <string name="editor_left_dialog_title">Сактоо жана чыгуу</string>
+    <string name="editor_text_text">Текст</string>
+    <string name="editor_toast_file_not_found">Мындай файл жок</string>
+    <string name="notification_delete">Өчүрүү</string>
+    <string name="notification_share">Бөлүшүү</string>
+</resources>
