@@ -3,6 +3,7 @@
     <string name="app_name">স্ক্রীনশট</string>
     <string name="circle_btn_done">হয়েছে</string>
     <string name="circle_btn_edit">সম্পাদনা করুন</string>
+    <string name="circle_btn_extend">প্রসারণ</string>
     <string name="circle_btn_long_screenshot">দীর্ঘ স্ক্রীনশট</string>
     <string name="circle_btn_share">শেয়ার</string>
     <string name="editor_left_dialog_message">বেরোনার আগে আপনি কি সংরক্ষণ করতে চান?</string>
