@@ -13,7 +13,7 @@
     <string name="editor_text_text">النص</string>
     <string name="editor_toast_file_not_found">الملفات غير موجودة</string>
     <string name="editor_toast_processing">جارٍ معالجة الصورة كاملة الدقة...</string>
-    <string name="editor_toast_save_failed">فشل الحفظ</string>
+    <string name="editor_toast_save_failed">تعذر الحفظ</string>
     <string name="foreground_notification_name">حالة تشغيل أمامي</string>
     <string name="notification_delete">حذف</string>
     <string name="notification_share">مشاركة</string>

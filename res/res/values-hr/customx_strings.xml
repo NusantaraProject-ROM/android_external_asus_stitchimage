@@ -14,13 +14,13 @@
     <string name="editor_toast_file_not_found">Datoteke ne postoje</string>
     <string name="editor_toast_processing">Obrada slike u punoj razlučivosti...</string>
     <string name="editor_toast_save_failed">Spremanje neuspjelo</string>
-    <string name="foreground_notification_name">Pozdaina pokrenutog stanja</string>
+    <string name="foreground_notification_name">Pozadina pokrenutog stanja</string>
     <string name="notification_delete">Izbriši</string>
     <string name="notification_share">Dijeli</string>
     <string name="notification_text">Dodirnite da biste vidjeli snimku zaslona</string>
     <string name="notification_title">Zaslon je snimljen</string>
     <string name="screenshot_bubble_tips">Kliknite ovdje za snimanje dugog snimka zaslona.</string>
-    <string name="screenshot_notification_name">Snimka zaslona statusa</string>
+    <string name="screenshot_notification_name">Status snimke zaslona</string>
     <string name="toast_no_more_content">Nema više sadržaja za snimanje</string>
     <string name="toast_screenshot_forbidden">Nije moguće snimiti snimak zaslona</string>
     <string name="toast_screenshot_saved">Zaslon je snimljen</string>

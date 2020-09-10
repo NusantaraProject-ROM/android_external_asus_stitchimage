@@ -18,11 +18,11 @@
     <string name="notification_delete">Slett</string>
     <string name="notification_share">Del</string>
     <string name="notification_text">Trykk for å se skjermdumpen</string>
-    <string name="notification_title">Skjermdumpen er lagret</string>
-    <string name="screenshot_bubble_tips">Klikk her for å ta lange skjermbilder.</string>
-    <string name="screenshot_notification_name">Skjermbildestatus</string>
-    <string name="toast_no_more_content">Ikke mer innhold å fange</string>
+    <string name="notification_title">Skjermdump lagret</string>
+    <string name="screenshot_bubble_tips">Klikk her for å ta lange skjermdumper.</string>
+    <string name="screenshot_notification_name">Skjermdumpstatus</string>
+    <string name="toast_no_more_content">Ingen mer innhold å ta bilde av</string>
     <string name="toast_screenshot_forbidden">Kan ikke ta skjermbilde</string>
-    <string name="toast_screenshot_saved">Skjermdumpen er lagret</string>
-    <string name="toast_up_to_limit_screenshot">Langt skjermbilde har allerede nådd maksimumslengden</string>
+    <string name="toast_screenshot_saved">Skjermdump lagret</string>
+    <string name="toast_up_to_limit_screenshot">Lang skjermdump har allerede nådd maksimumslengden</string>
 </resources>

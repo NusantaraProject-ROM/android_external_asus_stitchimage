@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">স্ক্রীনশট</string>
-    <string name="circle_btn_done">হয়েছে</string>
+    <string name="circle_btn_done">সম্পূর্ণ </string>
     <string name="circle_btn_edit">সম্পাদনা করুন</string>
     <string name="circle_btn_extend">প্রসারণ</string>
     <string name="circle_btn_long_screenshot">দীর্ঘ স্ক্রীনশট</string>

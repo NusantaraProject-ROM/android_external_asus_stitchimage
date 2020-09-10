@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ภาพถ่ายหน้าจอ</string>
-    <string name="circle_btn_done">เสร็จสิ้น</string>
+    <string name="circle_btn_done">เรียบร้อย</string>
     <string name="circle_btn_edit">แก้ไข</string>
     <string name="circle_btn_extend">ขยาย</string>
     <string name="circle_btn_long_screenshot">ภาพหน้าจอแบบยาวลงมา</string>

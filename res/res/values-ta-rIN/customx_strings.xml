@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ஸ்கிரீன்ஷாட்</string>
+    <string name="app_name">திரை நகல்</string>
     <string name="circle_btn_done">முடிந்தது</string>
     <string name="circle_btn_edit">திருத்தவும்</string>
     <string name="circle_btn_extend">விரிவு படுத்து</string>
-    <string name="circle_btn_long_screenshot">நீண்ட ஸ்கிரீன்ஷாட்</string>
+    <string name="circle_btn_long_screenshot">நீண்ட திரை நகல்</string>
     <string name="circle_btn_share">பகிர்</string>
-    <string name="editor_left_dialog_message">வெளியேறுவதற்கு முன் சேமித்திட வேண்டுமா?</string>
+    <string name="editor_left_dialog_message">வெளியேறுவதற்கு முன் தாங்கள் சேமிக்க விரும்புகின்றீர்களா?</string>
     <string name="editor_left_dialog_negative_btn">இல்லை</string>
     <string name="editor_left_dialog_positive_btn">ஆம்</string>
     <string name="editor_left_dialog_title">சேமித்து வெளியேறவும்</string>
@@ -17,12 +17,12 @@
     <string name="foreground_notification_name">பயன்பாட்டில் உள்ள செயல்களின் இயங்கும் நிலை</string>
     <string name="notification_delete">நீக்கவும்</string>
     <string name="notification_share">பகிர்</string>
-    <string name="notification_text">உங்கள் ஸ்கிரீன்ஷாட்டைப் பார்க்க தட்டவும்</string>
-    <string name="notification_title">ஸ்கிரீன்ஷாட் எடுக்கப்பட்டது</string>
-    <string name="screenshot_bubble_tips">நீண்ட ஸ்கிரீன் ஷாட்டுகளை எடுக்க இங்கே கிளிக் செய்யவும்.</string>
-    <string name="screenshot_notification_name">ஸ்கிரீன்ஷாட் நிலை</string>
-    <string name="toast_no_more_content">எடுக்க மேலும் உள்ளடக்கம் இல்லை</string>
-    <string name="toast_screenshot_forbidden">ஸ்க்ரீன்ஷாட்டை எடுக்க முடியவில்லை</string>
-    <string name="toast_screenshot_saved">ஸ்கிரீன்ஷாட் எடுக்கப்பட்டது</string>
-    <string name="toast_up_to_limit_screenshot">நீண்ட ஸ்க்ரீன்ஷாட் ஏற்கனவே அதன் அதிகபட்ச நீளத்தை அடைந்தது</string>
+    <string name="notification_text">உங்கள் திரை நகலினை பார்க்க தட்டவும்</string>
+    <string name="notification_title">திரை நகல்  எடுக்கப்பட்டது</string>
+    <string name="screenshot_bubble_tips">நீண்ட திரை நகல் எடுக்க இங்கே கிளிக் செய்யவும்.</string>
+    <string name="screenshot_notification_name">திரை நகலின்  நிலை</string>
+    <string name="toast_no_more_content">படம் பிடிக்க தகவல் ஏதும் இல்லை</string>
+    <string name="toast_screenshot_forbidden">திரை நகல்  எடுக்க முடியவில்லை</string>
+    <string name="toast_screenshot_saved">திரை நகல்  எடுக்கப்பட்டது</string>
+    <string name="toast_up_to_limit_screenshot">நீண்ட திரை நகலானது ஏற்கனவே அதன் அதிகபட்ச நீளத்தை அடைந்து விட்டது</string>
 </resources>

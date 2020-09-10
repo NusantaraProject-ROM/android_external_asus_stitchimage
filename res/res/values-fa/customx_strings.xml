@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">عکس از صفحه</string>
+    <string name="app_name">عکس از صفحه </string>
     <string name="circle_btn_done">تمام</string>
     <string name="circle_btn_edit">ویرایش</string>
     <string name="circle_btn_extend">\'گسترش دادن</string>

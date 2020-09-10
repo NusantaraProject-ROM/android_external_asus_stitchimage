@@ -11,7 +11,7 @@
     <string name="editor_left_dialog_positive_btn">Có</string>
     <string name="editor_left_dialog_title">Lưu và thoát</string>
     <string name="editor_text_text">Văn bản</string>
-    <string name="editor_toast_file_not_found">Các file ko tồn tại</string>
+    <string name="editor_toast_file_not_found">Các tập tin không tồn tại</string>
     <string name="editor_toast_processing">Đang xử lý hình ảnh có độ phân giải đầy đủ...</string>
     <string name="editor_toast_save_failed">Lưu thất bại</string>
     <string name="foreground_notification_name">Trạng thái chạy ưu tiên</string>
