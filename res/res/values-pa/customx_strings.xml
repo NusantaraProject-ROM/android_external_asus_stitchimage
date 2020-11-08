@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਸਕ੍ਰੀਨਸ਼ਾਟ</string>
+    <string name="circle_btn_done">ਹੋ ਗਿਆ</string>
+    <string name="circle_btn_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="circle_btn_extend">ਵਧਾਓ</string>
+    <string name="circle_btn_long_screenshot">ਲੰਮਾ ਸਕ੍ਰੀਨਸ਼ਾਟ</string>
+    <string name="circle_btn_share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="editor_left_dialog_message">ਬਾਹਰ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਸਾਂਭਣਾ ਹੈ?</string>
+    <string name="editor_left_dialog_negative_btn">ਨਹੀਂ</string>
+    <string name="editor_left_dialog_positive_btn">ਹਾਂ</string>
+    <string name="editor_left_dialog_title">ਸਾਂਭ ਕੇ ਬਾਹਰ ਜਾਓ</string>
+    <string name="editor_text_text">ਲਿਖਤ</string>
+    <string name="editor_toast_file_not_found">ਫ਼ਾਈਲਾਂ ਮੌਜੂਦ ਨਹੀਂ</string>
+    <string name="editor_toast_processing">ਪੂਰੀ ਬਰੀਕੀ ਵਾਲੀ ਤਸਵੀਰ \'ਤੇ ਕੰਮ ਚੱਲ ਰਿਹਾ ਹੈ</string>
+    <string name="editor_toast_save_failed">ਸਾਂਭੀ ਨਹੀਂ ਗਈ</string>
+    <string name="foreground_notification_name">ਮੂਹਰੇ</string>
+    <string name="notification_delete">ਮਿਟਾਓ</string>
+    <string name="notification_share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="notification_text">ਸਕ੍ਰੀਨਸ਼ਾਟ ਵੇਖਣ ਲਈ ਛੂਹੋ</string>
+    <string name="notification_title">ਸਕ੍ਰੀਨਸ਼ਾਟ ਲਿਆ ਗਿਆ</string>
+    <string name="screenshot_bubble_tips">ਲੰਮੇ ਸਕ੍ਰੀਨਸ਼ਾਟ ਲੈਣ ਲਈ ਏਥੇ ਕਲਿੱਕ ਕਰੋ।</string>
+    <string name="screenshot_notification_name">ਸਕ੍ਰੀਨਸ਼ਾਟ ਦੀ ਹਾਲਤ</string>
+    <string name="toast_no_more_content">ਲੈਣ ਲਈ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਹੈ</string>
+    <string name="toast_screenshot_forbidden">ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਿਆ</string>
+    <string name="toast_screenshot_saved">ਸਕ੍ਰੀਨਸ਼ਾਟ ਲਿਆ ਗਿਆ</string>
+    <string name="toast_up_to_limit_screenshot">ਹੋਰ ਲੰਮਾ ਸਕ੍ਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ</string>
+</resources>

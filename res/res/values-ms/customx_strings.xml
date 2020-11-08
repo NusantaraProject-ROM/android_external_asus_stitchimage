@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Petikan skrin</string>
+    <string name="circle_btn_done">Selesai</string>
+    <string name="circle_btn_edit">Edit</string>
+    <string name="circle_btn_extend">Besarkan</string>
+    <string name="circle_btn_long_screenshot">Petikan skrin panjang</string>
+    <string name="circle_btn_share">Kongsi</string>
+    <string name="editor_left_dialog_message">Adakah anda ingin simpan sebelum keluar?</string>
+    <string name="editor_left_dialog_negative_btn">Tidak</string>
+    <string name="editor_left_dialog_positive_btn">Ya</string>
+    <string name="editor_left_dialog_title">Simpan dan Keluar</string>
+    <string name="editor_text_text">Teks</string>
+    <string name="editor_toast_file_not_found">Fail tidak wujud</string>
+    <string name="editor_toast_processing">Memproses imej resolusi penuh...</string>
+    <string name="editor_toast_save_failed">Simpan gagal</string>
+    <string name="foreground_notification_name">Keadaan berjalan latar depan</string>
+    <string name="notification_delete">Padam</string>
+    <string name="notification_share">Kongsi</string>
+    <string name="notification_text">Ketik untuk melihat tangkapan skrin anda</string>
+    <string name="notification_title">Tangkapan skrin ditangkap</string>
+    <string name="screenshot_bubble_tips">Klik di sini untuk mengambil petikan skrin panjang.</string>
+    <string name="screenshot_notification_name">Status petikan skrin</string>
+    <string name="toast_no_more_content">Tiada lagi kandungan untuk direkodkan</string>
+    <string name="toast_screenshot_forbidden">Tidak dapat merakam petikan skrin</string>
+    <string name="toast_screenshot_saved">Tangkapan skrin ditangkap</string>
+    <string name="toast_up_to_limit_screenshot">Panjang petikan skrin sudah mencapai panjang maksimumnya</string>
+</resources>

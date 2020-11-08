@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pantaila-argazkia</string>
+    <string name="circle_btn_share">Partekatu</string>
+    <string name="editor_text_text">Testua</string>
+    <string name="notification_delete">Ezabatu</string>
+    <string name="notification_share">Partekatu</string>
+</resources>

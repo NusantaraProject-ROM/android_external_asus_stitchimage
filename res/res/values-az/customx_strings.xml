@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekran görüntüsü</string>
+    <string name="circle_btn_done">Hazırdır</string>
+    <string name="circle_btn_edit">Redaktə et</string>
+    <string name="circle_btn_extend">Genişləndirmək</string>
+    <string name="circle_btn_long_screenshot">Uzun ekran görüntüsü</string>
+    <string name="circle_btn_share">Paylaş</string>
+    <string name="editor_left_dialog_message">Çıxmadan öncə yadda saxlamaq istəyirsiniz mi?</string>
+    <string name="editor_left_dialog_negative_btn">Xeyr</string>
+    <string name="editor_left_dialog_positive_btn">Bəli</string>
+    <string name="editor_left_dialog_title">Yadda Saxlayın və Çıxın</string>
+    <string name="editor_text_text">Mətn</string>
+    <string name="editor_toast_file_not_found">Fayllar mövcud deyil</string>
+    <string name="editor_toast_processing">Tam ölçülü şəkli prosesdən keçirir...</string>
+    <string name="editor_toast_save_failed">Saxlamaq alınmadı</string>
+    <string name="foreground_notification_name">Fonda işlək vəziyyəti</string>
+    <string name="notification_delete">Sil</string>
+    <string name="notification_share">Paylaş</string>
+    <string name="notification_text">Ekran görüntünüzə baxmaq üçün toxunun</string>
+    <string name="notification_title">Skrinşot yadda saxlandı</string>
+    <string name="screenshot_bubble_tips">Uzun ekran görüntüləri çəkmək üçün buraya toxunun.</string>
+    <string name="screenshot_notification_name">Ekran görüntüsü statusu</string>
+    <string name="toast_no_more_content">Tutmaq üçün daha çox məzmun yoxdur</string>
+    <string name="toast_screenshot_forbidden">Ekran görüntüsünü almaq olmur</string>
+    <string name="toast_screenshot_saved">Skrinşot yadda saxlandı</string>
+    <string name="toast_up_to_limit_screenshot">Uzun ekran görüntüsü artıq maksimum uzunluğa çatdı</string>
+</resources>

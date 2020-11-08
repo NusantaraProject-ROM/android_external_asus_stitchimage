@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Screenshot</string>
+    <string name="circle_btn_done">Tapos</string>
+    <string name="circle_btn_edit">I-edit </string>
+    <string name="circle_btn_extend">Pahabain </string>
+    <string name="circle_btn_long_screenshot"> Mahabang screenshot</string>
+    <string name="circle_btn_share"> Ibahagi </string>
+    <string name="editor_left_dialog_message">Gusto mo bang i-save bago lumabas?</string>
+    <string name="editor_left_dialog_negative_btn">Hinde</string>
+    <string name="editor_left_dialog_positive_btn">Oo</string>
+    <string name="editor_left_dialog_title">I-save at lumabas</string>
+    <string name="editor_text_text"> Teksto </string>
+    <string name="notification_share">Ibahagi</string>
+    <string name="notification_text">Pindutin para makita ang iyong screenshot </string>
+    <string name="screenshot_bubble_tips">I-tap dito para kumuha ng  mahabang screenshot.</string>
+</resources>

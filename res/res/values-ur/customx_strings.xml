@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="circle_btn_share">شئیر کریں</string>
+    <string name="notification_delete">حذف کریں</string>
+    <string name="notification_share">شئیر کریں</string>
+</resources>

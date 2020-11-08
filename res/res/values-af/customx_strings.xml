@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Skermkiekie</string>
+    <string name="circle_btn_share">Deel</string>
+    <string name="editor_text_text">Teks</string>
+    <string name="notification_share">Deel</string>
+</resources>

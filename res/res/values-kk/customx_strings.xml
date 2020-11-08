@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Скриншот</string>
+    <string name="circle_btn_done">Жасалды</string>
+    <string name="circle_btn_edit">Өңдеу</string>
+    <string name="circle_btn_extend">Ұзарту</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">స్క్రీన్ షాట్</string>
+    <string name="circle_btn_done">చేయబడింది</string>
+    <string name="circle_btn_edit">ఎడిట్</string>
+    <string name="circle_btn_long_screenshot">సుదీర్ఘ స్క్రీన్ షాట్</string>
+    <string name="circle_btn_share">షేర్</string>
+    <string name="editor_left_dialog_message">ఎగ్జిట్ అవడానికి ముందు మీరు సేవ్ చేయాలనుకొంటున్నారా?</string>
+    <string name="editor_left_dialog_negative_btn">లేదు</string>
+    <string name="editor_left_dialog_positive_btn">అవును</string>
+    <string name="editor_left_dialog_title">సేవ్ మరియు ఎగ్జిట్</string>
+    <string name="editor_text_text">టెక్స్ట్</string>
+    <string name="editor_toast_file_not_found">ఫైల్స్ ఉనికిలో లేవు</string>
+    <string name="editor_toast_processing">పూర్తి రిజల్యూషన్ చిత్రం ప్రాసెస్ చేయబడుతోంది...</string>
+    <string name="editor_toast_save_failed">సేవ్ చేయడం విఫలమయింది</string>
+    <string name="notification_delete">తొలగించండి</string>
+    <string name="notification_share">షేర్</string>
+    <string name="notification_text">మీ స్క్రీన్ షాట్ చూడడానికి ట్యాప్ చేయండి</string>
+    <string name="notification_title">స్ర్కీన్ షాట్ క్యాప్చర్ చేయబడింది</string>
+    <string name="screenshot_bubble_tips">సుదీర్ఘ స్క్రీన్ షాట్స్ తీయడానికి ఇక్కడ క్లిక్ చేయండి.</string>
+    <string name="screenshot_notification_name">స్ర్కీన్ షాట్ స్థితి</string>
+    <string name="toast_no_more_content">క్యాప్చర్ చేయడానికి ఇక అంశాలు లేవు</string>
+    <string name="toast_screenshot_forbidden">స్క్రీన్ షాట్ క్యాప్చర్ చేయలేకపోయింది</string>
+    <string name="toast_screenshot_saved">స్ర్కీన్ షాట్ క్యాప్చర్ చేయబడింది</string>
+    <string name="toast_up_to_limit_screenshot">సుదీర్ఘ స్క్రీన్ షాట్ ఇదివరకే గరిష్ట పొడవును చేరుకుంది</string>
+</resources>

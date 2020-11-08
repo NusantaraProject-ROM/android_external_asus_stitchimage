@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">စခရင်ရှော့တ်</string>
+    <string name="circle_btn_done">ပြီးပါပြီ</string>
+    <string name="circle_btn_edit">တည်းဖြတ်ပါ</string>
+    <string name="circle_btn_extend">ချဲ့</string>
+    <string name="circle_btn_long_screenshot">စခရင်ရှော့ပုံများ ဆက်တိုက် ရိုက်ယူခြင်း</string>
+    <string name="circle_btn_share">မျှဝေပါ</string>
+    <string name="editor_left_dialog_message">မထွက်ခင် သိမ်းလိုပါသလား။</string>
+    <string name="editor_left_dialog_negative_btn">မဟုတ်</string>
+    <string name="editor_left_dialog_positive_btn">ဟုတ်ကဲ့</string>
+    <string name="editor_left_dialog_title">သိမ်းပြီး ထွက်ပါ</string>
+    <string name="editor_text_text">စာသား</string>
+    <string name="editor_toast_file_not_found">ဖိုင်များတည်ရှိခြင်းမရှိပါ။</string>
+    <string name="editor_toast_processing">အစွမ်းကုန် ပြတ်သားသော ပုံဖြစ်ရန် ပြုလုပ်နေဆဲ...</string>
+    <string name="editor_toast_save_failed">သိမ်း၍ မရခဲ့ပါ</string>
+    <string name="foreground_notification_name">ရှေ့ပိုင်းတွင် လုပ်ဆောင်နေသော အခြေအနေ</string>
+    <string name="notification_delete">ဖျက်ရန်</string>
+    <string name="notification_share">မျှဝေပါ</string>
+    <string name="notification_text">မျက်နှာပြင်ပုံဖမ်းယူခြင်းကို ကြည့်ရှုရန် တို့ပါ</string>
+    <string name="notification_title">ဖန်သားပြင်ဓါတ်ပုံရိုက်ခြင်းအား ဖမ်းယူပြီ</string>
+    <string name="screenshot_bubble_tips">စခရင်ရှော့ပုံများ ဆက်တိုက် ရိုက်ယူရန် ဤနေရာကို နှိပ်ပါ။</string>
+    <string name="screenshot_notification_name">စခရင်ရှော့ အခြေအနေ</string>
+    <string name="toast_no_more_content">ဖမ်းယူရန် နောက်ထပ်အကြောင်းအရာ မရှိပါ</string>
+    <string name="toast_screenshot_forbidden">စခရင်ပုံကို ရိုက်ယူ၍ မရနိုင်ပါ</string>
+    <string name="toast_screenshot_saved">ဖန်သားပြင်ဓါတ်ပုံရိုက်ခြင်းအား ဖမ်းယူပြီ</string>
+    <string name="toast_up_to_limit_screenshot">ရှည်လျားသည့် စခရင်ရှော့သည် ၎င်း၏ အများဆုံးအရှည်သို့ ရောက်နေပါပြီ</string>
+</resources>

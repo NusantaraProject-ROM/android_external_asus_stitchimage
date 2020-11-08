@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kuvatõmmis</string>
+    <string name="circle_btn_done">Valmis</string>
+    <string name="circle_btn_edit">Muuda</string>
+    <string name="circle_btn_extend">Laienda</string>
+    <string name="circle_btn_long_screenshot">Pikk kuvatõmmis</string>
+    <string name="circle_btn_share">Jaga</string>
+    <string name="editor_left_dialog_message">Kas soovite enne väljumist salvestada?</string>
+    <string name="editor_left_dialog_negative_btn">Ei</string>
+    <string name="editor_left_dialog_positive_btn">Jah</string>
+    <string name="editor_left_dialog_title">Salvesta ja välju</string>
+    <string name="editor_text_text">Tekst</string>
+    <string name="editor_toast_file_not_found">Faile pole olemas</string>
+    <string name="editor_toast_processing">Täiseraldusvõimega pildi töötlemine...</string>
+    <string name="editor_toast_save_failed">Salvestamine nurjus</string>
+    <string name="foreground_notification_name">Esiplaanil töötamise olek</string>
+    <string name="notification_delete">Kustuta</string>
+    <string name="notification_share">Jaga</string>
+    <string name="notification_text">Puudutage ekraanipildi vaatamiseks</string>
+    <string name="notification_title">Ekraanipilt on jäädvustatud</string>
+    <string name="screenshot_bubble_tips">Pikkade kuvatõmmiste tegemiseks klõpsake siin.</string>
+    <string name="screenshot_notification_name">Kuvatõmmise olek</string>
+    <string name="toast_no_more_content">Rohkem hõivatavat sisu pole</string>
+    <string name="toast_screenshot_forbidden">Kuvatõmmist ei saa teha</string>
+    <string name="toast_screenshot_saved">Ekraanipilt on jäädvustatud</string>
+    <string name="toast_up_to_limit_screenshot">Pika kuvatõmmise maksimaalne pikkus on juba saavutatud</string>
+</resources>
