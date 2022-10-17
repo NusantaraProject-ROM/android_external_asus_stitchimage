@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">स्क्रीनशॉट</string>
+    <string name="circle_btn_edit">एडीट करा</string>
+    <string name="circle_btn_extend">विस्तारीत</string>
+    <string name="circle_btn_long_screenshot">विस्तारित  स्क्रीनशॉट </string>
+    <string name="circle_btn_share">शेअर </string>
+    <string name="editor_left_dialog_message">आपणास बाहेर पडण्यापूर्वी सेव्ह  करायचे आहे ?</string>
+    <string name="editor_left_dialog_negative_btn">नाही </string>
+    <string name="editor_left_dialog_positive_btn">होय </string>
+    <string name="editor_left_dialog_title">जतन करून बाहेर पडा </string>
+    <string name="editor_text_text">मजकूर</string>
+    <string name="editor_toast_processing">संपूर्ण रिजोल्यूशन प्रतिमेवर प्रक्रिया करीत आहे...</string>
+    <string name="editor_toast_save_failed">जतन करणे अयशस्वी झाले</string>
+</resources>

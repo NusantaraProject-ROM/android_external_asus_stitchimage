@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">स्क्रिनसट</string>
+    <string name="circle_btn_done">सम्पन्न</string>
+    <string name="circle_btn_long_screenshot">लामो स्क्रिन सट</string>
+    <string name="circle_btn_share">शेयर गर्नु
+अरुलाई पठाउनु</string>
+    <string name="editor_left_dialog_message">गरेको काम सुरक्षित राख्नुहुन्छ ?</string>
+    <string name="editor_left_dialog_negative_btn">हुदैन </string>
+    <string name="editor_left_dialog_positive_btn">हुन्छ</string>
+    <string name="editor_left_dialog_title">सेभ गरेर छाड्नुहोस</string>
+    <string name="editor_text_text">लेख</string>
+    <string name="editor_toast_file_not_found">यो फाईल छैन</string>
+    <string name="editor_toast_processing">सबै भन्दा पूरा रिजोलुसन मा चित्र बन्नै छ</string>
+    <string name="editor_toast_save_failed">सुरक्षित गर्न सकिएन </string>
+    <string name="foreground_notification_name">फोरगराउण्ड मा चालुअअवस्थामा छ</string>
+    <string name="notification_delete">हटाउनु होस</string>
+    <string name="notification_share">अन्यत्र पठाउनु होस</string>
+    <string name="notification_text">स्क्रिनसट हेर्न दबाउनु होस</string>
+    <string name="notification_title">स्क्रिनसट सुरक्षित भयो </string>
+    <string name="screenshot_bubble_tips">सबै स्क्रिनसट लिन यहाँ दबाउनु होस</string>
+    <string name="screenshot_notification_name">स्क्रिनसट को अवस्था</string>
+    <string name="toast_no_more_content">सुरक्षित गर्न केही छैन</string>
+    <string name="toast_screenshot_forbidden">स्क्रिनसट लिन सकिएन</string>
+    <string name="toast_screenshot_saved">स्क्रिनसट सफलता पूर्वक लिईयो</string>
+    <string name="toast_up_to_limit_screenshot"> लामो स्क्रिनसट आफ्नो पूर्ण क्षमतामा पूग्यो</string>
+</resources>
